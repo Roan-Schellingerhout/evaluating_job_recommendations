@@ -4,6 +4,7 @@ By Roan Schellingerhout, Francesco Barile, and Nava Tintarev.
 
 
 The hyperparameters used in the paper were: 
+
     - text embedding size = 32; 
     - node embedding size = 64;
     - graph embedding size = 32;
