@@ -1,0 +1,406 @@
+[00:00:013.01 --> 00:00:017.01] [participant15]  Nou, lit kut, van dit toeristische onderdeld, wat doen wij dan?
+[00:00:019.33 --> 00:00:020.73] [participant15]  U zit uit...
+[00:00:020.75 --> 00:00:021.27] [Roan]  Jo, dank.
+[00:00:021.85 --> 00:00:022.05] [participant15]  Ho!
+[00:00:028.28 --> 00:00:031.56] [Roan]  Ja, sorry, ik weet niet wat ik moet invullen bij...
+[00:00:033.42 --> 00:00:036.52] [Roan]  Meeting ID of personal link, nee, maar dan denk ik dat ik...
+[00:00:038.31 --> 00:00:043.19] [participant15]  Als het goed is was het mijn persoonlijke meeting ID, maar misschien dat dat...
+[00:00:043.19 --> 00:00:046.23] [participant15]  Oh ja, als het goed is zou die automatisch naar mijn eigen meeting gaan,
+[00:00:046.31 --> 00:00:048.81] [participant15]  maar dat maakt niet uit, via Google Meet is ook helemaal niet...
+[00:00:048.81 --> 00:00:049.47] [participant15]  Nou, dat leek niks hoor.
+[00:00:049.69 --> 00:00:049.93] [participant15]  Hoi!
+[00:00:050.05 --> 00:00:051.09] [participant15]  Ja, hoi, goeiemorgen.
+[00:00:052.05 --> 00:00:052.41] [participant15]  Goeiemorgen.
+[00:00:052.57 --> 00:00:055.89] [participant15]  Ja, hartstikke bedankt dat je hebt aangegeven mee te willen doen met ons onderzoek.
+[00:00:056.47 --> 00:00:056.65] [participant15]  Zeker.
+[00:00:057.27 --> 00:00:059.91] [participant15]  Ja, we kunnen meteen van start gaan.
+[00:01:000.05 --> 00:01:004.31] [participant15]  Ik stuur in de chat een link naar een website.
+[00:01:004.39 --> 00:01:007.15] [participant15]  Als je die zou kunnen openen en dan je scherm zou kunnen delen.
+[00:00:048.38 --> 00:00:049.38] [Roan]  Ja, blijkbaar wel.
+[00:00:051.86 --> 00:00:052.44] [Roan]  Ja, maar je mag er...
+[00:01:013.22 --> 00:01:017.52] [Roan]  Omdat ie zich begint om het juiste te doen
+[00:01:019.86 --> 00:01:020.86] [Roan]  Jeetje
+[00:01:020.86 --> 00:01:021.46] [Roan]  Even kijken
+[00:01:031.02 --> 00:01:032.56] [Roan]  En even kijken
+[00:01:041.28 --> 00:01:043.44] [Roan]  U vraagt nu wat ik wil delen.
+[00:01:043.72 --> 00:01:044.00] [Roan]  Sorry?
+[00:01:044.82 --> 00:01:047.12] [Roan]  U vraagt nu wat ik wil delen.
+[00:01:047.78 --> 00:01:048.96] [Roan]  Google Meet?
+[00:01:049.94 --> 00:01:050.68] [Roan]  Oké, wacht.
+[00:01:049.10 --> 00:01:049.22] [participant15]  Ja.
+[00:01:052.69 --> 00:01:055.99] [participant15]  Ja, gewoon of het hele scherm of dat specifieke tapje is prima.
+[00:01:057.91 --> 00:02:000.09] [participant15]  Even kijken, ik zie nu Zoom...
+[00:02:000.09 --> 00:02:000.87] [participant15]  Oh, nee, wacht.
+[00:02:000.25 --> 00:02:006.25] [Roan]  Nee, wacht. Ik ben hier niet handig in, kan ik je betalen, dus ik ga het maar opnieuw proberen.
+[00:02:007.59 --> 00:02:012.39] [Roan]  Dat was onze verwelderde dealscherm, even kijken. Hoe doe ik dat tapje dan?
+[00:02:013.41 --> 00:02:014.23] [participant15]  Wacht, ik zal even kiek.
+[00:02:014.76 --> 00:02:017.66] [Roan]  Ah wacht, ik zie het volgens mij al. Ik zie het al, ik zie het al.
+[00:02:020.68 --> 00:02:022.68] [Roan]  Ja, en stel ik eens...
+[00:02:022.68 --> 00:02:024.00] [Roan]  Hierboven is het gewoon, ja.
+[00:02:025.22 --> 00:02:025.44] [participant15]  Ja.
+[00:02:026.21 --> 00:02:028.03] [participant15]  Even kijken. Ja, perfect. Nu zie ik hem.
+[00:02:029.37 --> 00:02:036.47] [participant15]  Ja, dus ik weet niet in hoeverre je al de informatie enzo had doorgenomen.
+[00:02:036.80 --> 00:02:040.08] [Roan]  Ik heb het doorgenomen, maar dat is vorige week geweest.
+[00:02:040.34 --> 00:02:042.20] [Roan]  Dus ik moet eerlijk zeggen, ik ga er weer op blanko in.
+[00:02:039.97 --> 00:02:040.43] [participant15]  Ah, oké.
+[00:02:042.24 --> 00:02:046.09] [participant15]  Ja, oké, het staat hier dus ook al een beetje samengevat, maar ik zal het ook nog kort samenvatten.
+[00:02:046.19 --> 00:02:053.22] [participant15]  Het is dus, we hebben een model ontwikkeld, AI, die matches tussen kandidaten en vacatures probeert te voorspellen.
+[00:02:053.72 --> 00:02:056.97] [participant15]  En dan ook uitleg kan geven over waarom die match is voorspeld.
+[00:02:057.69 --> 00:03:002.35] [participant15]  En het experiment is dus, er zit twee keer een lijst van vijf kandidaten voor een vacature,
+[00:03:003.01 --> 00:03:007.57] [participant15]  met daarbij dan een uitleg over waarom die kandidaten zijn aanbevolen.
+[00:03:007.57 --> 00:03:012.62] [participant15]  En dan is dus de taak om uit die vijf de beste te kiezen.
+[00:03:012.75 --> 00:03:014.90] [participant15]  En aan de hand daarvan stel ik een paar vragen.
+[00:03:015.25 --> 00:03:020.13] [participant15]  En dan zijn er dus twee rondes met twee verschillende soorten uitleg om die te kunnen vergelijken.
+[00:03:021.00 --> 00:03:022.40] [participant15]  Nou, dan gaan we gewoon beginnen toch?
+[00:03:022.59 --> 00:03:025.13] [participant15]  Ja, dus als je even je informatie in kan vullen.
+[00:03:018.87 --> 00:03:019.27] [Roan]  Oké.
+[00:03:021.12 --> 00:03:022.40] [Roan]  Nou, dan gaan we beginnen toch?
+[00:03:026.97 --> 00:03:027.17] [participant15]  Zo.
+[00:03:039.17 --> 00:03:041.27] [Roan]  Heb jij genoeg deelnemers kunnen vinden, Roan?
+[00:03:041.94 --> 00:03:045.40] [participant15]  Ja, we hebben nu op één recruiter die nog niet heeft gereageerd...
+[00:03:045.40 --> 00:03:049.22] [participant15]  ...hebben we als het goed is iedereen volgens mij weten te vinden.
+[00:03:049.32 --> 00:03:050.04] [participant15]  Dus dat is erg fijn.
+[00:03:053.24 --> 00:03:059.18] [participant15]  Één iemand die had toegezegd om deel te nemen, maar vervolgens geen datum ingepland.
+[00:03:059.32 --> 00:04:000.58] [Roan]  Had je mijn mail gezien?
+[00:04:000.94 --> 00:04:002.10] [Roan]  Ja, ik zag je film.
+[00:04:002.16 --> 00:04:003.42] [Roan]  Ik dacht, ik denk, straks!
+[00:04:003.50 --> 00:04:004.98] [Roan]  Ik denk, ah, het was kwart voor tien.
+[00:04:005.10 --> 00:04:006.96] [Roan]  Ik denk, oh nee, ik heb geen afspraak gegeven.
+[00:04:007.42 --> 00:04:010.92] [Roan]  En ik denk, ik heb geen melding gehad, maar ik had hem in mijn hoofd om half tien.
+[00:04:011.92 --> 00:04:014.10] [Roan]  En dus toen dacht ik, ah, niks aan de hand.
+[00:04:000.91 --> 00:04:001.07] [participant15]  Ja.
+[00:04:013.80 --> 00:04:014.44] [participant15]  Oh, oké.
+[00:04:015.24 --> 00:04:016.54] [participant15]  Oh ja, dat is een recruiter.
+[00:04:018.02 --> 00:04:020.88] [participant15]  Ja, dus dit is de vacature, dus lees die even door.
+[00:04:021.53 --> 00:04:021.95] [Roan]  Hm-hm.
+[00:04:051.53 --> 00:05:002.33] [Roan]  Okee.
+[00:05:032.33 --> 00:05:053.33] [Roan]  Ondertitels ingediend door de Amara.org gemeenschap
+[00:05:053.36 --> 00:05:055.78] [participant15]  Ja, als je het hebt doorgelezen, dan kun je klikken op Ga door.
+[00:05:056.60 --> 00:05:056.84] [participant15]  Aha.
+[00:05:057.62 --> 00:06:000.08] [participant15]  Ja, dus hier zijn dan die vijf kandidaten.
+[00:06:000.75 --> 00:06:002.07] [Roan]  Nu moet ik de beste uitkiezen.
+[00:06:002.19 --> 00:06:006.85] [participant15]  Ja, ja, precies. En er zijn dus drie verschillende soorten uitleg, de tekst, de grafiek en het netwerk.
+[00:06:007.29 --> 00:06:010.19] [participant15]  Je kan gebruiken welke je het fijnst vindt.
+[00:06:010.57 --> 00:06:014.05] [participant15]  En ja, dan is het dus uit deze vijf eentje kiezen die je, ja.
+[00:06:014.35 --> 00:06:014.83] [participant15]  Hoe kan je dat?
+[00:06:014.39 --> 00:06:019.33] [Roan]  Oké, en staat die standaard gewoon in het midden, of is dat een reden waarom die op Christopher Hijs staat?
+[00:06:019.48 --> 00:06:023.62] [participant15]  Hij kiest er gewoon willekeurig eentje waar hij op begint.
+[00:06:022.88 --> 00:06:023.64] [Roan]  Ach, oké.
+[00:06:046.42 --> 00:06:048.44] [Roan]  Maar waar街 does de ei lokaal in of wat?
+[00:06:048.80 --> 00:06:054.22] [participant15]  Ja, de tekst is al de uitleg over waarom deze persoon is aanbevolen.
+[00:06:055.09 --> 00:06:056.85] [Roan]  Oké, ja, heldig.
+[00:07:031.89 --> 00:07:055.05] [Roan]  Ja, oké, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja,
+[00:07:055.05 --> 00:08:025.03] [Roan]  ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja
+[00:08:025.03 --> 00:08:028.03] [Roan]  ja
+[00:08:055.03 --> 00:08:055.03] [Roan] 
+[00:08:055.03 --> 00:08:055.03] [Roan] 
+[00:08:055.03 --> 00:09:000.35] [Roan]  Afgelasty
+[00:09:000.35 --> 00:09:016.09] [Roan]  Dit zeg
+[00:09:018.27 --> 00:09:023.75] [participant15]  Nee, er zijn meerdere mensen die het inderdaad vrij tricky vonden, dus dat je er niet alleen is.
+[00:09:022.66 --> 00:09:029.20] [Roan]  Ja, wat ik vooral vind is van, oh, die kent die, of die heeft met die gewerkt, dat je denkt van,
+[00:09:029.30 --> 00:09:033.46] [Roan]  oké, daar is dus een link mee gelegd, maar dat zegt dus helemaal niks over de vaardigheden natuurlijk.
+[00:09:033.72 --> 00:09:038.77] [participant15]  Ja, ja, nee, klopt. Die komt vaker terug, want inderdaad, als je met iemand hebt samengewerkt,
+[00:09:039.03 --> 00:09:043.79] [participant15]  maakt het niet per se dat je heel overeenkomende skills hebt in de belangrijke gebieden.
+[00:09:058.28 --> 00:09:059.21] [Roan]  En dan ook even erin, hoor.
+[00:09:058.49 --> 00:09:059.09] [participant15]  En dan ook ego-drama.
+[00:09:059.53 --> 00:10:000.21] [participant15]  Ja, neem het uit.
+[00:10:040.66 --> 00:10:043.40] [Roan]  Ja, ik zou, moet ik zeggen, wie?
+[00:10:043.66 --> 00:10:044.54] [participant15]  Ajaja, zo.
+[00:10:044.91 --> 00:10:051.53] [Roan]  Ik zou zeggen Christophe Ries, omdat hij ervaring heeft bij een hertransfersbureau, dus hij heeft wel ervaring met personeel.
+[00:10:051.70 --> 00:10:056.03] [participant15]  Oké, dus vanwege die voorgaande ervaringen.
+[00:10:056.08 --> 00:10:056.29] [participant15]  Ja.
+[00:10:056.03 --> 00:11:002.25] [Roan]  Ja, omdat je er toch, tenminste ik zelf, denk dat het niet helemaal hetzelfde is als bij een HR,
+[00:11:002.57 --> 00:11:008.39] [Roan]  maar het is wel gerelateerd. Als je kijkt bijvoorbeeld naar ons zelf, wij zijn intercedenten,
+[00:11:008.45 --> 00:11:016.35] [Roan]  dat is helemaal niet hetzelfde als een HR-medewerker, maar wij zouden wel makkelijk kunnen doorgroeien
+[00:11:016.35 --> 00:11:021.57] [Roan]  naar een HR-functie, omdat je wel met personeel te maken hebt. Je regelt personeel nu voor een opdrachtgever.
+[00:11:021.57 --> 00:11:026.41] [Roan]  Bij zo'n herthunterbureau doe je dat natuurlijk ook. Je zoekt kandidaten voor een bepaalde functie,
+[00:11:026.51 --> 00:11:032.55] [Roan]  dus je hebt wel, denk ik, de menselijke en sociale vaardigheden om ook op een HR te kunnen functioneren, zou ik zeggen.
+[00:11:032.75 --> 00:11:036.83] [participant15]  Ja, het is niet precies hetzelfde, maar het zit wel een beetje in dezelfde wereld, zeg maar.
+[00:11:037.05 --> 00:11:037.37] [participant15]  Precies.
+[00:11:036.78 --> 00:11:043.11] [Roan]  Precies, en als ik kijk naar al die andere, ja, die matches, die gemeenteambtenaar, die Sam Appelscha,
+[00:11:043.21 --> 00:11:046.11] [Roan]  daar zat ik nog even aan te denken, maar ja, die heeft een...
+[00:11:046.11 --> 00:11:048.28] [Roan]  Er staat bij dat die...
+[00:11:048.28 --> 00:11:053.78] [Roan]  De voorganger heeft ook als ambtenaar bij de gemeente gewerkt, maar ja, dat is natuurlijk vrij breed, hè.
+[00:11:053.78 --> 00:11:057.73] [Roan]  Je weet niet in welke rol, hè, want iedereen bij de gemeente is ambtenaar.
+[00:11:057.85 --> 00:11:058.35] [Roan]  Ja, precies.
+[00:11:058.38 --> 00:12:005.95] [Roan]  Heb jij met name met, weet ik veel, met milieu of opruiming of weet ik wat te maken bij de gemeente,
+[00:12:005.95 --> 00:12:009.14] [Roan]  dan ben je niet zozeer meteen haar assistent, denk ik.
+[00:11:057.86 --> 00:11:058.36] [participant15]  Ja, precies.
+[00:12:009.17 --> 00:12:010.05] [participant15]  Ja, ja, precies.
+[00:12:010.43 --> 00:12:011.73] [participant15]  Maar die maakt hem wel tricky.
+[00:12:012.15 --> 00:12:013.21] [participant15]  Ja, ja, oké, duidelijk.
+[00:12:010.43 --> 00:12:011.41] [Roan]  Maar die mag dan wel...
+[00:12:014.85 --> 00:12:021.85] [participant15]  Allright, dan zou ik nu een paar vragen stellen en we kunnen dan deze als voorbeeld nemen voor een deel van de vragen.
+[00:12:022.13 --> 00:12:024.43] [participant15]  Dus ja, de eerste is op een schaal van 1 tot 10.
+[00:12:024.97 --> 00:12:029.97] [participant15]  In hoeverre helpt de uitleg te begrijpen waarom het systeem deze aanbeveling heeft gemaakt?
+[00:12:030.09 --> 00:12:033.53] [participant15]  Dus in hoeverre is het duidelijk wat het systeem als aanbeveling heeft gebruikt?
+[00:12:033.22 --> 00:12:034.58] [Roan]  Ik vind het wel duidelijk, 8.
+[00:12:034.84 --> 00:12:038.32] [participant15]  Oké, oké, en dan waarom precies? Wat helpt daar?
+[00:12:038.51 --> 00:12:045.75] [Roan]  Ja goed, hij legt wel de link waarom. Hij vertelt eigenlijk precies waarom het systeem het gematcht heeft.
+[00:12:046.07 --> 00:12:053.23] [Roan]  Ofwel dat die gemeente een overeenkomst heeft bij een andere kandidaat die daar gewerkt heeft.
+[00:12:054.23 --> 00:12:058.07] [Roan]  En ik denk, ja, hij legt het goed uit. Want dat is de vraag toch?
+[00:12:058.31 --> 00:12:059.99] [Roan]  Ja, het is gewoon hoe...
+[00:12:059.99 --> 00:13:007.47] [Roan]  Ik vind wel helder waarom hij het legt. Of ik dat zelf aannemelijk vind of handig vind, dat is een tweede. Dat denk ik niet.
+[00:13:007.47 --> 00:13:012.51] [Roan]  Maar in principe kun je uit de tekst wel halen waarom het systeem dit gedaan heeft.
+[00:13:012.55 --> 00:13:015.13] [participant15]  Ja, precies. Dus het is duidelijk wat de argumenten zijn.
+[00:13:015.35 --> 00:13:018.19] [participant15]  Of de argumenten daadwerkelijk goed zijn, is dan nog een tweede vraag.
+[00:13:018.43 --> 00:13:018.85] [participant15]  Oké, duidelijk.
+[00:13:019.01 --> 00:13:019.25] [participant15]  Ja, precies.
+[00:13:019.69 --> 00:13:027.15] [participant15]  Ja, ontbreekt er dan nog bepaalde informatie die wel zou kunnen helpen met het verbeteren van dat begrip?
+[00:13:027.69 --> 00:13:029.97] [participant15]  Is er iets wat in dat opzicht ontbreekt?
+[00:13:017.51 --> 00:13:017.53] [Roan]  Ja, dat is een goed idee.
+[00:13:017.53 --> 00:13:017.55] [Roan]  Ja, ik denk dat het een goed idee is om dat te doen.
+[00:13:017.55 --> 00:13:017.55] [Roan] 
+[00:13:017.55 --> 00:13:017.55] [Roan] 
+[00:13:017.55 --> 00:13:017.55] [Roan] 
+[00:13:017.55 --> 00:13:017.71] [Roan]  Ja, ik denk dat het een goed idee is om dat te doen.
+[00:13:017.73 --> 00:13:017.79] [Roan]  Ja, ik denk dat het een goed idee is om dat te doen.
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:017.79 --> 00:13:017.81] [Roan]  Ja, ik denk dat het een goed idee is om dat te doen.
+[00:13:017.79 --> 00:13:017.79] [Roan] 
+[00:13:031.38 --> 00:13:037.96] [Roan]  Ja, ik vind het lastig, want ik vind, weet je, het is wel handig dat je weet waarom het gedaan wordt,
+[00:13:038.06 --> 00:13:043.26] [Roan]  maar ik vind het nog niet optimaal dat ik denk, oh ja, door deze argumenten,
+[00:13:043.32 --> 00:13:046.20] [Roan]  dat dit dan de juiste kandidaat moet zijn.
+[00:13:046.82 --> 00:13:050.50] [Roan]  Dus dat is eigenlijk waar ik een beetje mijn twijfels over heb, van...
+[00:13:052.38 --> 00:13:054.56] [Roan]  Hij legt die link en ik snap waarom.
+[00:13:055.84 --> 00:14:000.64] [Roan]  Maar dat heeft nog niet het resultaat dat dit een goede kandidaat moet zijn,
+[00:14:000.64 --> 00:14:001.94] [Roan]  dat dit goede kandidaten zijn.
+[00:14:000.98 --> 00:14:001.98] [participant15]  Het is niet goed om een goede kandidaat te zijn.
+[00:14:002.34 --> 00:14:004.38] [participant15]  Oké, dus hij is niet overtuigend genoeg nog.
+[00:14:004.60 --> 00:14:004.70] [participant15]  Nee.
+[00:14:005.16 --> 00:14:006.82] [participant15]  En hoe zou dat dan verbeterd kunnen worden?
+[00:14:006.94 --> 00:14:009.88] [participant15]  Zou dan dat die specifiekere skills ofzo...
+[00:14:004.48 --> 00:14:004.75] [Roan]  Nee.
+[00:14:009.91 --> 00:14:016.13] [Roan]  Ik denk toch meer dat je meer in de werkafvaring moet gaan kijken en de vaardigheden.
+[00:14:016.35 --> 00:14:018.19] [Roan]  Dat daar echt een...
+[00:14:018.19 --> 00:14:020.05] [Roan]  Kijk, het type persoon is ook belangrijk, hè.
+[00:14:020.09 --> 00:14:021.75] [Roan]  Ben je niet sociaal, dan hoor je niet over een HR.
+[00:14:022.39 --> 00:14:026.81] [Roan]  Maar ik denk dat vooral ervaring, dat is ook hetgene waar wij als eerste naar kijken,
+[00:14:027.51 --> 00:14:030.69] [Roan]  moet ik zeggen dat ik op een horeca en catering unit zit.
+[00:14:030.77 --> 00:14:033.59] [Roan]  Dus ik kijk naar ervaring, maar als ze geen ervaring hebben,
+[00:14:033.71 --> 00:14:036.11] [Roan]  dan kijk ik echt naar of iemand leuk genoeg is.
+[00:14:036.19 --> 00:14:039.21] [Roan]  Want we zitten natuurlijk met tekorten en alles valt te leren.
+[00:14:039.21 --> 00:14:043.67] [Roan]  Dus in deze markt is dat misschien niet heel handig, wat ik nu zeg, voor die ervaring.
+[00:14:044.17 --> 00:14:048.17] [Roan]  Maar ja, nu heb je echt op woorden die overeen komen,
+[00:14:048.73 --> 00:14:051.85] [Roan]  wat ik ook snap, want er is het systeem natuurlijk ook op gebouwd, denk ik.
+[00:14:052.83 --> 00:14:054.35] [Roan]  Maar het resultaat is niet...
+[00:14:054.35 --> 00:14:056.31] [Roan]  Dus ik denk wel echt meer naar skills.
+[00:14:057.65 --> 00:15:000.21] [Roan]  Skills en ervaring.
+[00:15:000.35 --> 00:15:003.21] [Roan]  Ja, ja, dus echt de data uit de cv-beta.
+[00:15:000.43 --> 00:15:005.81] [participant15]  Ja, dus echt de data uit de cv een beetje direct terug laten komen in de uitleg.
+[00:15:006.15 --> 00:15:006.19] [participant15]  Ja.
+[00:15:006.19 --> 00:15:007.03] [participant15]  Oké, duidelijk.
+[00:15:009.39 --> 00:15:013.47] [participant15]  Je had het al een beetje gezegd, maar is de uitleg die gegeven wordt logisch?
+[00:15:013.61 --> 00:15:017.19] [participant15]  Is dat, ja, de argumenten die gegeven worden wel dat je van, ja, daar kan ik me wel in vinden?
+[00:15:004.09 --> 00:15:004.41] [Roan]  Ja.
+[00:15:005.71 --> 00:15:005.93] [Roan]  Ja.
+[00:15:018.17 --> 00:15:018.73] [Roan]  Ja, nee.
+[00:15:019.65 --> 00:15:027.09] [Roan]  Dus het is logisch, ik snap dat een systeem dat doet, want hier kan natuurlijk worden
+[00:15:027.09 --> 00:15:030.43] [Roan]  of weet ik iets, maar de uitlag is helder.
+[00:15:030.79 --> 00:15:032.01] [Roan]  Maar ja, ik vind hem niet oké.
+[00:15:032.67 --> 00:15:035.63] [Roan]  Op de basis van deze uitlag zou ik niet iemand voorstellen.
+[00:15:019.52 --> 00:15:019.94] [participant15]  Yes.
+[00:15:035.72 --> 00:15:044.66] [participant15]  Oké, ja, precies. Dus ja, nee, met het maken van een beslissing, als je daar hoeveel daarin helpt, zou je dat een cijfer van 1 tot 10 kunnen geven?
+[00:15:045.80 --> 00:15:046.40] [participant15]  Een 5.
+[00:15:046.56 --> 00:15:054.20] [participant15]  Oké, oké, dus dat is eigenlijk omdat er niet genoeg, ja, echte harde informatie uit naar voren komt. Blijft dat lastig, duidelijk.
+[00:15:055.62 --> 00:16:004.42] [participant15]  Maar ja, de uitleg voegt dan alsnog wel wat toe ten opzichte van een systeem dat bijvoorbeeld alleen maar 5 kandidaten aan zou bevelen met een percentage aan match ofzo,
+[00:16:004.42 --> 00:16:008.08] [participant15]  of zouden de argumenten ook daarvoor echt sterker moeten zijn?
+[00:15:046.00 --> 00:15:046.41] [Roan]  Een vijf.
+[00:15:049.50 --> 00:15:049.68] [Roan]  Ja.
+[00:15:053.05 --> 00:15:053.27] [Roan]  Ja, klopt.
+[00:16:008.42 --> 00:16:014.10] [Roan]  Ja, weet je, nogmaals, ik zeg het al, de argumenten zijn voor mij niet overtuigend
+[00:16:014.10 --> 00:16:016.04] [Roan]  om iemand voor te stellen, hè.
+[00:16:016.04 --> 00:16:020.94] [Roan]  Want een match van iemand die dezelfde functie heeft gewerkt
+[00:16:020.94 --> 00:16:022.54] [Roan]  als iemand die er al eens gewerkt heeft,
+[00:16:022.60 --> 00:16:025.26] [Roan]  diegene kan ook iets totaal anders gedaan hebben
+[00:16:025.78 --> 00:16:029.34] [Roan]  en uiteindelijk op die functie terecht zijn gekomen, op wat voor reden dan ook.
+[00:16:029.40 --> 00:16:033.52] [Roan]  Dus ik denk dat dat gewoon te weinig informatie is
+[00:16:033.96 --> 00:16:040.98] [Roan]  om te zeggen, oké, hij heeft gewerkt met iemand in een bedrijf,
+[00:16:041.34 --> 00:16:044.84] [Roan]  kijk, als het op eenzelfde functie is, zou het ook nog anders zijn.
+[00:16:045.06 --> 00:16:049.76] [Roan]  Als hij op personeelszaken bij gemeenten zou zitten geweest
+[00:16:049.76 --> 00:16:051.48] [Roan]  en die andere gast heeft dat ook gedaan,
+[00:16:051.82 --> 00:16:055.00] [Roan]  dan zou ik het logischer vinden, zou ik zeggen, ja, dat kan wel.
+[00:16:055.10 --> 00:16:058.30] [Roan]  Maar nu, weet je, heeft hij inderdaad de schoonmaak geregeld,
+[00:16:058.44 --> 00:17:001.20] [Roan]  heeft hij aan de balie de paspoort aangevraagd, weet je.
+[00:17:001.52 --> 00:17:002.26] [Roan]  Ja, precies.
+[00:17:003.72 --> 00:17:005.98] [Roan]  En ik denk dat daar nog wel wat in te halen valt.
+[00:17:001.98 --> 00:17:002.18] [participant15]  Oké, dat is...
+[00:17:003.05 --> 00:17:003.21] [participant15]  Ja.
+[00:17:006.17 --> 00:17:010.69] [participant15]  Ja, ja, dus zonder die echte specifieke details dan het argument zou in principe goed kunnen zijn,
+[00:17:010.77 --> 00:17:018.27] [participant15]  maar zonder alle benodigde informatie blijft het lastig om echt een keuze op te baseren.
+[00:17:018.85 --> 00:17:024.25] [participant15]  Oké, ja, dan de volgende haakt er een beetje op in, maar op een schaal van 1 tot 10,
+[00:17:024.31 --> 00:17:027.43] [participant15]  in hoeverre denk je dat de voorspelling van het model betrouwbaar is?
+[00:17:027.61 --> 00:17:029.53] [participant15]  Dus ja, heb je vertrouwen in die voorspelling?
+[00:17:016.04 --> 00:17:016.24] [Roan]  Ja.
+[00:17:030.33 --> 00:17:031.33] [participant15]  Ja, en of niet zo.
+[00:17:031.85 --> 00:17:034.75] [participant15]  Nee, nee, nee, klopt. Maar als je er dus precies een cijfer aan zou...
+[00:17:035.29 --> 00:17:037.13] [Roan]  Ja, ik denk het is as.
+[00:17:037.45 --> 00:17:039.01] [participant15]  Oké, oké, dus, alright.
+[00:17:039.83 --> 00:17:043.91] [Roan]  Ik denk wel dat het mogelijkheden biedt, maar dat het wel nog gefind should moeten worden.
+[00:17:044.66 --> 00:17:045.30] [participant15]  Allright, duidelijk.
+[00:17:047.26 --> 00:17:055.52] [participant15]  Ja, en zou je dan aan de hand van de informatie die je nu hebt ook een beeld kunnen hebben bij of de voorspelling daadwerkelijk een goede voorspelling is geweest?
+[00:17:055.62 --> 00:17:057.50] [participant15]  Of is daar ook dat er te weinig...
+[00:17:057.50 --> 00:17:058.18] [participant15]  Er is geen te weinig informatie.
+[00:17:057.45 --> 00:17:058.89] [Roan]  Ik denk dat wij niet informaatie voor.
+[00:17:059.05 --> 00:17:059.89] [participant15]  Oké, duidelijk.
+[00:18:001.25 --> 00:18:007.11] [participant15]  Ja, dan als je rechtsbovenop klaar drukt, dan gaat hij naar de volgende ronde.
+[00:18:008.86 --> 00:18:009.30] [Roan]  Ja.
+[00:18:011.73 --> 00:18:017.71] [participant15]  Oké, ja, dus het is nu dezelfde vijf kandidaten, maar de uitleg is gegenereerd door een ander model.
+[00:18:017.89 --> 00:18:023.25] [participant15]  Dus het zal erop klikken, maar bijvoorbeeld bepaalde dingen hebben meer meegewogen en hij gaat bepaalde dingen iets anders uitleggen.
+[00:18:023.37 --> 00:18:025.57] [participant15]  Dat is het grote verschil.
+[00:18:026.29 --> 00:18:029.77] [participant15]  Dus ja, kies dan weer één van de vijf. Dat mag dezelfde zijn, dat mag ook een andere zijn.
+[00:18:030.01 --> 00:18:030.77] [participant15]  Ik ga even kijken.
+[00:18:024.64 --> 00:18:024.80] [Roan]  Oké.
+[00:18:029.93 --> 00:18:030.76] [Roan]  Ik ga even kijken.
+[00:20:015.20 --> 00:20:018.48] [Roan]  Ja, ik moet eerlijk zeggen dat ik niet veel wijzer ben geworden.
+[00:20:020.10 --> 00:20:022.10] [participant15]  Dus de onderdeling van mij heb je bezouden, he?
+[00:20:022.28 --> 00:20:029.98] [participant15]  Ja, het is dezelfde data inderdaad, dus het lijkt er inderdaad erg op, maar ik kan andere dingen meer nadruk op leggen.
+[00:20:020.26 --> 00:20:022.14] [Roan]  Het is onheilig van mij bezouden, ja.
+[00:20:030.58 --> 00:20:033.63] [Roan]  Ja, nu, maar ik bleef bij mijn eerste keuze.
+[00:20:033.75 --> 00:20:042.79] [participant15]  Oké, all right, dan zou ik die drie 1 tot 10 vragen nog een keer stellen, maar dan is het dus een beetje vergelijkend met die vorige, of dingen zijn verbeterd of verslechterd.
+[00:20:043.25 --> 00:20:048.11] [participant15]  Dus dan de eerste is, op een schaal van 1 tot 10, in hoeverre het helpt te begrijpen waarom...
+[00:20:048.73 --> 00:20:050.11] [participant15]  Ja, dat was die achtdaagse.
+[00:20:050.25 --> 00:20:053.71] [participant15]  Ja, dat blijft hier hetzelfde, dat is niet veranderd.
+[00:20:053.97 --> 00:20:054.51] [participant15]  Ja, nee.
+[00:20:055.45 --> 00:20:057.63] [participant15]  Ja, nee, dan is dat duidelijk.
+[00:20:057.63 --> 00:21:005.95] [participant15]  En ja, dat is dan nog steeds dezelfde, de argumenten die gegeven zijn, zijn duidelijk, maar je hoeft het er niet per se mee eens te zijn.
+[00:21:006.47 --> 00:21:006.57] [participant15]  Ja.
+[00:21:008.01 --> 00:21:015.69] [participant15]  Oké, ja, dan de volgende is weer op een schaal van 1 tot 10, in hoeverre helpt het met het maken van een beslissing? Is dat nog veranderd op enige wijze?
+[00:20:041.48 --> 00:20:042.78] [Roan]  Zijn verbeterd of verslechterd.
+[00:20:048.66 --> 00:20:049.85] [Roan]  Ja, dat was die achter.
+[00:20:052.29 --> 00:20:052.63] [Roan]  Ja.
+[00:20:053.85 --> 00:20:054.44] [Roan]  Ja, niet.
+[00:21:006.48 --> 00:21:006.57] [Roan]  Ja.
+[00:21:016.27 --> 00:21:017.87] [Roan]  Nee, eigenlijk niet. Zelfde punt.
+[00:21:018.07 --> 00:21:020.31] [participant15]  Oké, dus dat blijft dan een 5 als ik het goed herinner.
+[00:21:020.20 --> 00:21:027.72] [Roan]  Ja, wat ik zeg, voor mij vind ik geen verandering in, want ze hebben alleen de bepaalde dingen anders gehighlighted, denk ik, of niet?
+[00:21:027.93 --> 00:21:032.43] [participant15]  Bepaalde dingen zijn anders benadrukt.
+[00:21:032.59 --> 00:21:038.11] [participant15]  Als je bijvoorbeeld op dat netwerk klikt, dan zou je dat kunnen doen op netwerk.
+[00:21:038.63 --> 00:21:040.21] [participant15]  Die grote witte knop.
+[00:21:033.13 --> 00:21:033.35] [Roan]  Ja.
+[00:21:034.90 --> 00:21:035.12] [Roan]  Ja.
+[00:21:038.60 --> 00:21:038.94] [Roan]  M-hm.
+[00:21:043.59 --> 00:21:049.53] [participant15]  Ja, als je dan omlaag scrolt, dan zie je een beetje wat de tekst uitlegt, is die lijn daaronder.
+[00:21:050.43 --> 00:21:054.65] [participant15]  En het is dus de lijn die dik gedrukt is, is degene die het meeste heeft meegewogen.
+[00:21:055.51 --> 00:21:056.09] [participant15]  Ja, ja.
+[00:21:056.13 --> 00:22:003.19] [participant15]  In dit geval is het dus de lijnen die het meest, de dingen die hij als sterkste argument heeft gezien, zijn anders onderbouwd.
+[00:22:003.27 --> 00:22:003.69] [participant15]  Ja, ja.
+[00:22:003.73 --> 00:22:008.67] [participant15]  Dus in dit geval heeft hij dus bijvoorbeeld die voorgaande ervaring in headhunting als heel belangrijk bestempeld.
+[00:22:008.67 --> 00:22:014.37] [participant15]  En in die vorige was dat kwalificatie, certificaat voor effectenbeoefenaar, woog ook iets meer mee.
+[00:22:014.47 --> 00:22:017.69] [participant15]  Dus op die manier zit er een onderscheid in.
+[00:21:050.24 --> 00:21:050.54] [Roan]  Ja.
+[00:21:055.61 --> 00:21:056.13] [Roan]  Ja, ik weet het.
+[00:22:003.18 --> 00:22:003.44] [Roan]  Ja.
+[00:22:009.26 --> 00:22:009.88] [Roan]  En in die vorige...
+[00:22:018.22 --> 00:22:024.06] [Roan]  Ja, ja, maar ja, ik moet je eerlijk zeggen, dat haal ik er niet uit. Je leest natuurlijk hetzelfde, hè.
+[00:22:024.19 --> 00:22:029.07] [participant15]  Ja, klopt, want het is natuurlijk nog steeds dezelfde data, dus het lijkt er inderdaad erg veel op.
+[00:22:029.61 --> 00:22:031.85] [participant15]  Oké, maar die blijft dus hetzelfde.
+[00:22:032.27 --> 00:22:034.97] [participant15]  En ja, dan de laatste. Ik denk dat ik het dan al een beetje weet, maar als laatste...
+[00:22:034.97 --> 00:22:035.61] [participant15]  Ja, ik denk het ook.
+[00:22:037.01 --> 00:22:039.93] [participant15]  ...de vertrouwen in het model, is die nog aangepast?
+[00:22:040.45 --> 00:22:042.03] [participant15]  Nee, dat zouden we nog in zijn schoor.
+[00:22:042.11 --> 00:22:043.07] [participant15]  All right, hartstikke duidelijk.
+[00:22:043.93 --> 00:22:049.99] [participant15]  Ja, dan als laatste, is er nog bepaalde informatie die in het algemeen in het systeem,
+[00:22:049.99 --> 00:22:053.85] [participant15]  of bepaalde features die toegevoegd zouden kunnen worden, die helpen?
+[00:22:053.91 --> 00:23:001.23] [participant15]  Dus naast die echt cv-gerelateerde dingen in de uitleg, of er nog dat het handig zou zijn om die persoonse telefoonnummer te hebben,
+[00:23:001.49 --> 00:23:004.09] [participant15]  of iets in die geest wat toegevoegd zou kunnen worden?
+[00:22:034.86 --> 00:22:035.66] [Roan]  Ja, dank je, Joop.
+[00:22:040.64 --> 00:22:041.68] [Roan]  Nee, ze zagen het ook in zijn...
+[00:23:004.04 --> 00:23:008.20] [Roan]  Ja, dat sowieso. Kijk, als ik kijk naar mijn eigen werk ook,
+[00:23:009.06 --> 00:23:014.04] [Roan]  je kunt natuurlijk mensen via mail afwijzen. Mensen die krijgen gewoon...
+[00:23:015.08 --> 00:23:016.48] [Roan]  Kan ik stoppen met presenteren?
+[00:23:016.61 --> 00:23:023.29] [participant15]  Als je op klaar drukt, dan kun je stoppen, want dan wordt alles opgeslagen.
+[00:23:018.80 --> 00:23:019.36] [Roan]  Ah, dat is een goed plan.
+[00:23:025.20 --> 00:23:032.06] [Roan]  Oké, en wat het is, is dat je ook afwijsmails kunt krijgen of kunt versturen,
+[00:23:032.26 --> 00:23:035.54] [Roan]  maar ik heb dat eigenlijk nooit gedaan met mijn collega, en ik doe dat alle twee niet.
+[00:23:035.58 --> 00:23:038.36] [Roan]  Wij bellen altijd. Dus een telefoon...
+[00:23:038.86 --> 00:23:044.78] [Roan]  Ook al weet je, krijg je een CV, wordt echt nergens op slaat, en je denkt, daar kan ik niks mee, toch bellen?
+[00:23:045.54 --> 00:23:049.60] [Roan]  Eén, je weet niet wat hij wil. Misschien kun je hem toch nog doorbemiddelen naar een ander, hè?
+[00:23:049.60 --> 00:23:050.16] [Roan]  Ja, precies.
+[00:23:051.62 --> 00:23:053.38] [Roan]  En je kunt hem verder uitvragen.
+[00:23:055.22 --> 00:24:003.16] [Roan]  Plus, kun je er echt niks mee, dan kun je diegene persoonlijk vertellen wat je hem zou kunnen adviseren om te doen.
+[00:24:003.34 --> 00:24:007.30] [Roan]  Hij past niet op deze vacature, omdat... We kennen allemaal, als we gaan solliciteren,
+[00:24:007.68 --> 00:24:012.36] [Roan]  ja, we gaan niet mee in procedure, want we hebben een betere kandidaat. We gaan niet verder met jou.
+[00:24:012.54 --> 00:24:014.12] [Roan]  Ja, weet je, daar heb je niks aan.
+[00:24:012.75 --> 00:24:014.15] [participant15]  Ja, maar je weet je, daar heb je niks aan.
+[00:24:014.27 --> 00:24:014.89] [participant15]  Ja, precies.
+[00:24:015.55 --> 00:24:015.81] [participant15]  Ja, dat is natuurlijk niet mogelijk.
+[00:24:015.81 --> 00:24:016.71] [participant15]  Moet je dus denken...
+[00:24:016.71 --> 00:24:021.61] [participant15]  Je moet ook ondersteunen in hoe je je best levert door een onwelkomen...
+[00:24:015.64 --> 00:24:016.42] [Roan]  Ik heb er zin in.
+[00:24:019.60 --> 00:24:022.22] [Roan]  Ja, je kunt een... Precies, weet je.
+[00:24:022.36 --> 00:24:025.32] [Roan]  Ik heb hier mensen die komen hier en die willen bij Gaia Zoo werken.
+[00:24:025.44 --> 00:24:026.20] [Roan]  Ja, dat is een ander bureau.
+[00:24:026.36 --> 00:24:028.26] [Roan]  Stuur ik ze daarheen door als ze wat willen, weet je.
+[00:24:028.64 --> 00:24:035.26] [Roan]  Ja, of ik kan niks met ze en ik weet dat ze bij een ander bedrijf wel dat zoeken
+[00:24:035.26 --> 00:24:036.48] [Roan]  wat diegene graag wil doen.
+[00:24:036.60 --> 00:24:037.98] [Roan]  Ja, dan stuur ik ze door.
+[00:24:038.14 --> 00:24:039.90] [Roan]  Ja, goed, dan verdien ik geen geld naar ransom mee,
+[00:24:040.00 --> 00:24:043.50] [Roan]  maar ik heb buiten het feit dat ik bij een commercieel bedrijf werk
+[00:24:043.50 --> 00:24:046.56] [Roan]  ook het idee van, ik zit hier ook om mensen op weg te helpen.
+[00:24:046.66 --> 00:24:047.08] [Roan]  Ja, precies.
+[00:24:046.48 --> 00:24:056.48] [participant15]  Ja, precies, ja, dus dat soort dingen dan kun je toch, hoewel de match niks is geworden met die persoon, alsnog die persoon op een manier ondersteunen.
+[00:24:057.54 --> 00:25:001.86] [participant15]  Dus ja, dat soort dingen inderdaad, ja, dat is goed om op te letten.
+[00:24:055.85 --> 00:24:055.99] [Roan]  Ja.
+[00:25:002.23 --> 00:25:005.99] [Roan]  Ja, en weet ik, afgaan van andere medewerkers, dat valt niet.
+[00:25:006.09 --> 00:25:011.67] [participant15]  Nee, in principe dat specifiek wat je zei van ja, andere mensen die ietssoorts gelijks hebben gedaan,
+[00:25:011.79 --> 00:25:016.17] [participant15]  dat is niet helemaal een goede link. Dat horen we erg vaak terug.
+[00:25:016.73 --> 00:25:022.39] [participant15]  En ja, ik snap dat dat best wel abstract kan zijn van ja, is daar wel echt een match?
+[00:25:022.49 --> 00:25:024.87] [participant15]  Want dat je toevallig hetzelfde baantje hebt gedaan in het verleden,
+[00:25:024.91 --> 00:25:027.09] [participant15]  betekent niet dat je dezelfde interesses hebt en dat soort dingen.
+[00:25:013.18 --> 00:25:013.44] [Roan]  Ja.
+[00:25:016.69 --> 00:25:017.25] [Roan]  Ja, dat doet het.
+[00:25:027.71 --> 00:25:030.85] [Roan]  Ja, en er komt niet naar voor dat ze dezelfde baan hebben gehad, echt.
+[00:25:030.99 --> 00:25:033.41] [Roan]  Ja, ja, ja, het is wel hetzelfde bedrijf.
+[00:25:033.41 --> 00:25:035.45] [Roan]  Kijk, als jij... Doe maar wat, hè.
+[00:25:035.55 --> 00:25:037.47] [Roan]  Ik heb hier iemand die wil in de bediening werken
+[00:25:037.47 --> 00:25:042.29] [Roan]  en ik ken iemand die ook met diegene in de bediening op een andere locatie heeft gewerkt.
+[00:25:042.31 --> 00:25:043.03] [Roan]  Ja, precies, dan is het wel...
+[00:25:043.03 --> 00:25:045.65] [Roan]  Dan zou ik het wel weer meer accepteren.
+[00:25:030.87 --> 00:25:033.20] [participant15]  Ja, ja, ja, het is dezelfde bij het zalen bedrijf.
+[00:25:043.02 --> 00:25:043.38] [participant15]  Dan zo.
+[00:25:045.31 --> 00:25:047.19] [participant15]  Ja, ja, ja, nee, snap ik, precies.
+[00:25:047.91 --> 00:25:050.95] [participant15]  Maar ja, nee, die komt inderdaad vaak naar voren.
+[00:25:051.15 --> 00:25:052.95] [participant15]  En ja, je had de match goed.
+[00:25:053.27 --> 00:25:056.21] [participant15]  Chris was inderdaad de persoon die de beste match was.
+[00:25:056.45 --> 00:25:058.07] [participant15]  Dus ja, gefeliciteerd.
+[00:25:058.53 --> 00:25:059.39] [participant15]  Dank je wel, dank je wel.
+[00:26:000.35 --> 00:26:009.37] [participant15]  Maar in principe, ja, best wel wat terugkomt is inderdaad dat de argumenten wel duidelijk zijn, maar niet heel overtuigend.
+[00:26:009.75 --> 00:26:012.11] [participant15]  Dus ja, daar gaan we mee aan de slag.
+[00:25:057.86 --> 00:25:058.10] [Roan]  Gefeliciteerd.
+[00:25:058.54 --> 00:25:059.06] [Roan]  Dank je wel.
+[00:25:059.16 --> 00:25:059.50] [Roan]  Dank je wel.
+[00:26:009.81 --> 00:26:012.19] [Roan]  Ja, daar gaan we mee aan de slag.
+[00:26:012.65 --> 00:26:016.59] [Roan]  Is dit een afstudeer-script project jouw voor deze week?
+[00:26:015.74 --> 00:26:022.64] [participant15]  Ja, ik ben voor mijn PhD ben ik bezig en we zijn nu dus bezig met het fundament leggen
+[00:26:022.64 --> 00:26:025.98] [participant15]  om te kijken wat is het uiteindelijke doel en dan stralen we dat goed op orde en dan
+[00:26:025.98 --> 00:26:031.56] [participant15]  gaan we proberen een systeem te implementeren dat al die eisen dus daadwerkelijk voldoet.
+[00:26:031.76 --> 00:26:032.70] [participant15]  Ah nou, ik ben eens benieuwd.
+[00:26:032.86 --> 00:26:037.28] [participant15]  Ja, hopelijk over een paar jaar dan kunnen we een systeem dat daadwerkelijk argumenten
+[00:26:037.28 --> 00:26:038.94] [participant15]  geeft die overtuigend genoeg is.
+[00:26:031.63 --> 00:26:032.69] [Roan]  Ah nou, ben is benieuwd.
+[00:26:038.84 --> 00:26:043.62] [Roan]  Ik vind het ook een beetje akelig eigenlijk dat er zoveel door systemen kan worden overgenomen dadelijk.
+[00:26:043.66 --> 00:26:047.30] [participant15]  Ja, we zijn echt puur op de focus om mensen te ondersteunen.
+[00:26:047.42 --> 00:26:050.38] [participant15]  Dus we willen niet een systeem dat echt beslissingen kan maken voor mensen,
+[00:26:050.50 --> 00:26:056.82] [participant15]  maar dat voor recruiters dat je niet met een vacature met 100 sollicitanten allemaal handmatig door moet,
+[00:26:057.12 --> 00:26:059.42] [participant15]  zodat je daar ondersteuning in kan krijgen.
+[00:26:059.64 --> 00:27:001.18] [participant15]  Dus maak je geen zorgen, we proberen niet te...
+[00:27:001.18 --> 00:27:002.00] [participant15]  Nee, ik hoor ze.
+[00:26:057.36 --> 00:26:057.84] [Roan]  Ja, dat is waar.
+[00:27:001.10 --> 00:27:003.64] [Roan]  Nee, ik wil zeggen, ik vind deze plaat nog steeds leuk.
+[00:27:003.80 --> 00:27:005.80] [Roan]  Eigenlijk wil ik vervangen worden door het systeem.
+[00:27:005.80 --> 00:27:007.50] [Roan]  Ja, precies, maar daar zijn we nog steeds niet.
+[00:27:005.59 --> 00:27:011.22] [participant15]  Ja, precies, maar daar zijn we niet naar aan het werken, dus dat is niet het doel.
+[00:27:011.40 --> 00:27:013.53] [participant15]  Nou, dan is het ook zeker heel veel succes, denk ik, hè?
+[00:27:013.55 --> 00:27:016.11] [participant15]  Ja, hartstikke bedankt, en bedankt voor het meedoen.
+[00:27:016.33 --> 00:27:016.83] [participant15]  Graag gedaan.
+[00:27:016.94 --> 00:27:019.03] [participant15]  Hartstikke fijn, en fijne dag nog, hè.
+[00:27:019.18 --> 00:27:019.35] [participant15]  Terug.
+[00:27:019.44 --> 00:27:020.35] [participant15]  Jij ook, hoi hoi.
+[00:27:011.22 --> 00:27:013.48] [Roan]  Dat is ook zeker heel veel succes, denk ik, hè?
+[00:27:016.05 --> 00:27:016.77] [Roan]  Ik heb het graag gedaan.
+[00:27:019.32 --> 00:27:020.42] [Roan]  Ja joh, hoi hoi!

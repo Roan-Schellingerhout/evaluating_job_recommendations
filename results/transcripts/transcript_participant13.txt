@@ -1,0 +1,658 @@
+[00:00:000.71 --> 00:00:002.63] [participant13]  Hoi. Dag, hola.
+[00:00:000.79 --> 00:00:000.97] [SPEAKER_02]  Hoi!
+[00:00:003.02 --> 00:00:005.34] [SPEAKER_02]  Goeiemiddag. Ja, de zoom ben je er niet.
+[00:00:006.53 --> 00:00:012.35] [participant13]  Nee, ik weet ook niet hoe dat kan. Ik heb zowel werk in een serveromgeving.
+[00:00:014.13 --> 00:00:018.79] [participant13]  En in principe mogen we alleen de programma's gebruiken die in die serveromgeving geïnstalleerd zijn.
+[00:00:019.37 --> 00:00:026.29] [participant13]  Maar we kunnen natuurlijk wel ook aangeven om Zoom via de browser te laten lopen, zeg maar.
+[00:00:026.49 --> 00:00:033.21] [participant13]  Maar dat gaat niet. Dan wordt de connectie met de camera en de luidspreker niet overgenomen.
+[00:00:018.85 --> 00:00:019.07] [SPEAKER_03]  Mhm.
+[00:00:026.43 --> 00:00:026.59] [SPEAKER_03]  Ja.
+[00:00:033.55 --> 00:00:033.71] [SPEAKER_03]  Ja.
+[00:00:033.92 --> 00:00:038.80] [participant13]  En buiten de server kan ik Zoom ook niet aan de praat krijgen, dus dat is een beetje vervelend.
+[00:00:038.90 --> 00:00:041.26] [participant13]  Maar Teams werkt wel, dus vandaar.
+[00:00:041.41 --> 00:00:043.09] [SPEAKER_02]  Dan maar zo, beetje vertraging.
+[00:00:043.31 --> 00:00:043.77] [SPEAKER_02]  Precies.
+[00:00:043.45 --> 00:00:043.87] [participant13]  Ja, precies.
+[00:00:044.75 --> 00:00:046.53] [participant13]  Ja, in elk geval bedankt dat het kan.
+[00:00:046.71 --> 00:00:046.99] [participant13]  Ja, jij ook.
+[00:00:046.67 --> 00:00:052.08] [SPEAKER_02]  Ja, ja, nee, dat is in principe geen probleem. Teams en Zoom voor mij maakt niet zoveel uit.
+[00:00:052.48 --> 00:00:055.08] [SPEAKER_02]  Dus ja, nee, in ieder geval, hartstikke bedankt.
+[00:00:055.27 --> 00:00:058.03] [SPEAKER_02]  Zou ik u of jij zeggen? Heb je een voorkeur?
+[00:00:058.67 --> 00:00:059.48] [SPEAKER_02]  Dat mag gewoon jij.
+[00:00:059.62 --> 00:01:003.31] [SPEAKER_02]  Oké, ja, hartstikke bedankt dat je mee wilt doen met het onderzoek.
+[00:01:004.95 --> 00:01:010.16] [SPEAKER_02]  Ja, ik heb dus al die mail met wat kleine instructies gestuurd en daar ook dat consent-form.
+[00:01:010.66 --> 00:01:012.33] [SPEAKER_02]  Ik weet niet of je die al hebt doorgenomen.
+[00:00:059.53 --> 00:00:059.81] [participant13]  Oké.
+[00:01:013.56 --> 00:01:017.50] [participant13]  Ik heb hem zo diagonaal gekend, heb ik hem doorgenodigd.
+[00:01:017.54 --> 00:01:018.42] [participant13]  Ik moet hem nog tekenen.
+[00:01:018.45 --> 00:01:022.57] [SPEAKER_02]  Oké, maar als je er een blik op hebt geworpen, dan is dat voldoende voor nu.
+[00:01:023.27 --> 00:01:027.23] [SPEAKER_02]  Maar ja, het zou fijn zijn inderdaad als je hem nog kan ondertekenen en terugsturen inderdaad.
+[00:01:027.43 --> 00:01:033.25] [SPEAKER_02]  Maar oké, ik zal even de websitelink erbij pakken en in de chat sturen.
+[00:01:033.81 --> 00:01:038.13] [SPEAKER_02]  Oh ja, waar het dus op neerkomt, we hebben dus die webomgeving, die online omgeving,
+[00:01:038.39 --> 00:01:046.29] [SPEAKER_02]  met daarin eigenlijk twee keer een lijstje met kandidaten en dan een uitleg over waarom die kandidaat
+[00:01:046.29 --> 00:01:049.65] [SPEAKER_02]  een goede match is voor een bepaalde vacature.
+[00:01:050.35 --> 00:01:053.31] [SPEAKER_02]  En die twee lijstjes zijn gegenereerd door twee verschillende modellen.
+[00:01:053.77 --> 00:01:059.21] [SPEAKER_02]  Dus het is eigenlijk een kwestie van even die vacature lezen, dan door die lijst met mogelijkheden heen gaan
+[00:01:059.21 --> 00:02:003.47] [SPEAKER_02]  en dan proberen de beste match eruit te halen.
+[00:02:004.65 --> 00:02:009.87] [SPEAKER_02]  En dan na elke van die twee rondes, dan heb ik dus een lijst met vragen om een beetje te kijken
+[00:02:009.87 --> 00:02:013.51] [SPEAKER_02]  hoe goed die omgeving werkt.
+[00:01:027.44 --> 00:01:028.20] [Roan]  Maar oké.
+[00:01:033.74 --> 00:01:034.14] [SPEAKER_03]  Ja, maar...
+[00:02:004.67 --> 00:02:005.17] [SPEAKER_03]  Ja, dat klopt.
+[00:02:015.21 --> 00:02:019.05] [SPEAKER_02]  Dus ja, als je je scherm ook even zou kunnen delen, dan kan ik...
+[00:02:019.44 --> 00:02:021.12] [participant13]  Dat kan ik, even kijken.
+[00:02:023.72 --> 00:02:024.76] [participant13]  Ehm, velen.
+[00:02:033.90 --> 00:02:037.94] [participant13]  We hebben toestemming nodig om een scherm te leren gaan naar beveiliging en privacy.
+[00:02:039.79 --> 00:02:042.45] [SPEAKER_02]  Oké, kan ik dat doen of is dat...
+[00:02:041.49 --> 00:02:041.51] [participant13]  Ja, ik weet het.
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.51] [participant13] 
+[00:02:041.51 --> 00:02:041.61] [participant13]  Ik weet het.
+[00:02:041.63 --> 00:02:041.69] [participant13]  Ik weet het.
+[00:02:041.69 --> 00:02:041.73] [participant13]  Ik weet het.
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:041.73 --> 00:02:041.75] [participant13]  Ik weet het.
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.75 --> 00:02:041.75] [participant13] 
+[00:02:041.73 --> 00:02:041.73] [participant13] 
+[00:02:042.78 --> 00:02:047.90] [participant13]  Ik zet hem hier aan, dus dan moet het normaal lukken.
+[00:02:052.03 --> 00:02:055.96] [participant13]  Dus je kan de inhoud van je scherm niet vastleggen totdat je de app sluit.
+[00:03:033.69 --> 00:03:034.56] [participant13]  Ja, dan zijn we er weer.
+[00:03:036.00 --> 00:03:037.16] [SPEAKER_02]  Ja, dat klopt.
+[00:03:037.18 --> 00:03:039.30] [SPEAKER_02]  Ik moest dus de app sluiten.
+[00:03:038.75 --> 00:03:039.87] [participant13]  Ik laat het sluiten, ja.
+[00:03:041.13 --> 00:03:042.71] [participant13]  Scherm kan delen, wachten.
+[00:03:048.85 --> 00:03:050.29] [participant13]  Nou, delen.
+[00:03:051.51 --> 00:03:052.23] [participant13]  Scherm.
+[00:03:053.65 --> 00:03:054.83] [SPEAKER_03]  Nu kun jij mijn film zien.
+[00:03:053.78 --> 00:03:054.93] [SPEAKER_02]  Ja, kan jij mij dat even laten zien?
+[00:03:055.03 --> 00:03:056.38] [SPEAKER_02]  Ja, oké.
+[00:03:059.51 --> 00:04:008.73] [participant13]  Dus, daar ga ik zo meteen een cv vanuit een cv dan zo.
+[00:04:030.13 --> 00:04:031.35] [Roan]  Dat verwacht ik wel op zoek te roeien.
+[00:04:035.52 --> 00:04:037.00] [participant13]  Volg de linksdelei survivor diskutes in deinned silently vlog!
+[00:04:037.72 --> 00:04:038.36] [Roan]  Ja, dat klopt.
+[00:04:039.10 --> 00:04:039.45] [SPEAKER_03]  Oké.
+[00:04:040.86 --> 00:04:043.69] [SPEAKER_03]  Yes.
+[00:04:048.95 --> 00:04:050.51] [participant13]  Waar wil je dat ik naartoe ga?
+[00:04:050.79 --> 00:04:051.93] [participant13]  Waarom zie ik hier het beeld?
+[00:04:052.11 --> 00:04:056.06] [SPEAKER_02]  Oh, ja, hij schuift een beetje ofzo. Ja, in het midden.
+[00:05:001.17 --> 00:05:005.64] [SPEAKER_02]  Ja, jouw functie, voor mij, je bent niet een echte recruiter, toch?
+[00:05:005.67 --> 00:05:012.90] [SPEAKER_02]  Het is meer in een recruitmentbedrijf dan meer een niet recruitmentfunctie.
+[00:05:013.08 --> 00:05:014.50] [SPEAKER_02]  Of heb ik dat verkeerd begrepen?
+[00:05:015.83 --> 00:05:018.09] [participant13]  Dat heb je verkeerd begrijp ik ben een extra, ik ga over.
+[00:05:018.21 --> 00:05:018.53] [participant13]  Oh, nou.
+[00:05:018.16 --> 00:05:020.32] [SPEAKER_02]  Oh, nou, dan in dit geval dus recruiter.
+[00:05:022.18 --> 00:05:022.34] [SPEAKER_03]  Ja.
+[00:05:029.67 --> 00:05:031.83] [participant13]  Dus, ja, en dan is dit een vacature.
+[00:05:032.67 --> 00:05:034.61] [participant13]  Dus we zoeken een personeelsassistent.
+[00:05:034.88 --> 00:05:035.16] [SPEAKER_03]  Mhmm.
+[00:05:036.67 --> 00:05:042.67] [participant13]  Het bedrijf in Maastricht, het is een HR-functie, hyperdienstverband, full-time salaris range,
+[00:05:043.01 --> 00:05:046.35] [participant13]  minimale ervaring, opleidingsniveau. Oké.
+[00:05:048.07 --> 00:05:049.89] [participant13]  Je wilt dat ik dit doorlees?
+[00:05:050.00 --> 00:05:056.02] [SPEAKER_02]  Ja, het hoeft niet heel gedetailleerd, maar het is een beetje om een idee te krijgen van waar de match bij hoort.
+[00:05:057.68 --> 00:05:057.86] [SPEAKER_03]  Ja, oké.
+[00:06:017.66 --> 00:06:018.32] [participant13]  Nou voor deze vrij..
+[00:06:032.26 --> 00:06:034.82] [SPEAKER_03]  Ja, nu wegdrukken en dan komen we schujeren alleen nog!
+[00:06:033.07 --> 00:06:033.21] [Roan]  Ja.
+[00:06:057.28 --> 00:07:006.70] [SPEAKER_02]  Oké, ja, nee, hier is het dus de omgeving en er zijn in dit geval dus vijf kandidaten door dat model gematcht aan de vacature die je net hebt gelezen.
+[00:07:007.78 --> 00:07:011.70] [SPEAKER_02]  En dan is het nu dus een kwestie om die kandidaten dus te bekijken.
+[00:07:011.80 --> 00:07:015.64] [SPEAKER_02]  Er staat dus een uitleg bij waarom het model denkt dat het een goede match is geweest.
+[00:07:016.14 --> 00:07:026.18] [SPEAKER_02]  En dan dus aan de hand van die uitleg en de vacature van net is het dus eigenlijk de bedoeling om de meest geschikte kandidaat voor de vacature te identificeren.
+[00:07:007.76 --> 00:07:007.94] [SPEAKER_03]  Ja.
+[00:07:028.12 --> 00:07:028.44] [participant13]  Oké.
+[00:07:029.63 --> 00:07:030.87] [participant13]  Het zijn er vijf kandidaten.
+[00:07:030.90 --> 00:07:032.82] [SPEAKER_02]  Ja, die vijf personen inderdaad.
+[00:08:015.25 --> 00:08:017.45] [participant13]  Het cv van de kandidaat kan ik niet lezen.
+[00:08:019.11 --> 00:08:027.27] [SPEAKER_02]  Een beknopte versie, als je hovert over die rode bal waar Senna de Boer staat in dat netwerk.
+[00:08:027.37 --> 00:08:029.95] [SPEAKER_02]  Als je erover hovert, of misschien erop klikt en dan erover hovert.
+[00:08:030.05 --> 00:08:033.17] [SPEAKER_02]  Ik weet niet precies hoe het op Mac normaal gaat.
+[00:08:034.41 --> 00:08:035.45] [SPEAKER_02]  Ah nee, dat doet hij niet.
+[00:08:035.77 --> 00:08:039.55] [SPEAKER_02]  Ja, nee, dus er staat in principe geen cv bij dan.
+[00:08:042.07 --> 00:08:047.71] [participant13]  Dus het model dat hier ontwikkeld is, dat heeft een bepaalde basis van het cv van deze SEMA.
+[00:08:047.95 --> 00:08:048.17] [SPEAKER_03]  Hm-hm.
+[00:08:055.07 --> 00:08:055.71] [participant13]  Dat ze...
+[00:08:058.17 --> 00:08:059.87] [participant13]  ...wel of niet past, waar kan ik dat zien?
+[00:09:000.18 --> 00:09:002.95] [SPEAKER_02]  Oh ja, in dit geval is het dus de top vijf.
+[00:09:003.00 --> 00:09:006.71] [SPEAKER_02]  Dus dit zijn allemaal waarvan u denkt, dit zijn goede matches.
+[00:09:008.10 --> 00:09:013.44] [participant13]  Oké, dus Senna heeft eerder gewerkt als afdelingsassistent R&D bij Galactic.
+[00:09:015.02 --> 00:09:019.46] [participant13]  Terwijl de waarde van deze connectie laag lijkt te zijn, duidde het toch op enige ervaring en ondersteunende rol
+[00:09:020.30 --> 00:09:022.82] [participant13]  wat relevant kan zijn voor de functie van personeelsassistent.
+[00:09:023.92 --> 00:09:029.06] [participant13]  Oké, ten tweede bezit Senna de boer de vaardigheid de voorrading.
+[00:09:029.78 --> 00:09:036.54] [participant13]  Deze vaardigheid is belangrijk in de functie en het XAI-model beschouwde het als een belangrijke factor voor de match.
+[00:09:041.14 --> 00:09:047.40] [participant13]  Ten derde toont de grafiek aan dat de functie personeelsassistent bij Galactic valt onder de rol van assistent.
+[00:09:047.76 --> 00:09:050.80] [participant13]  Senna de boer heeft eerder gewerkt als afdelingsassistent R&D.
+[00:09:050.84 --> 00:09:055.42] [participant13]  Wat sugeert dat hij als zij bekend is met ondersteunen in de taken verantwoordelijkheden.
+[00:09:055.86 --> 00:09:057.92] [participant13]  Wat waardevol kan zijn voor de rol van personeelsassistent.
+[00:09:058.12 --> 00:10:004.94] [participant13]  Terwijl sommige verbindingswaarden in de grafiek laag lijken, heeft de combinatie van deze connectie wel geschikt een match geïdenticeerd.
+[00:10:004.94 --> 00:10:010.64] [participant13]  Het model had rekening met meerdere factoren en kon dus aan Senna over de juiste ervaringen gaan geven in de verschillende assistenten.
+[00:10:011.76 --> 00:10:012.86] [participant13]  Oké, apart.
+[00:10:015.91 --> 00:10:017.63] [SPEAKER_02]  Ja, nee, oh, kijk uit.
+[00:10:018.79 --> 00:10:019.89] [SPEAKER_02]  Ja, het rolt een beetje snel.
+[00:10:020.91 --> 00:10:025.95] [SPEAKER_02]  Ja, nee, en dat is dus eigenlijk een soortgelijke uitleg, staat er bij de andere kandidaten ook.
+[00:10:026.05 --> 00:10:031.93] [SPEAKER_02]  En aan de hand daarvan is dus de taak om de beste match te bepalen.
+[00:10:018.72 --> 00:10:018.94] [SPEAKER_03]  Ja.
+[00:10:020.93 --> 00:10:021.01] [SPEAKER_03]  Ja.
+[00:10:033.41 --> 00:10:037.35] [participant13]  Oké, moet ik de beste match gaan bepalen nu voor jullie of voor jou?
+[00:10:037.49 --> 00:10:038.53] [participant13]  Of wat wil je dat ik doe?
+[00:10:038.63 --> 00:10:045.35] [SPEAKER_02]  Ja, het is eigenlijk de omgeving, het uiteindelijke doel is dus dat het ondersteunend werkt voor recruiters,
+[00:10:045.43 --> 00:10:050.37] [SPEAKER_02]  dus dat die een lijstje krijgen en dan een beetje kunnen kijken waarom het model denkt dat het een goede match is.
+[00:10:050.87 --> 00:10:054.35] [SPEAKER_02]  En dan aan de hand daarvan dus mensen daadwerkelijk kunnen gaan bellen.
+[00:10:054.97 --> 00:11:000.53] [SPEAKER_02]  Dus in dit geval, er zijn geen goede antwoorden of goede of slechte antwoorden, het is meer een kwestie van,
+[00:11:000.53 --> 00:11:010.15] [SPEAKER_02]  ja, gebruik de omgeving zoals je het normaal zou doen, met als doel om dus een match te identificeren.
+[00:11:011.71 --> 00:11:012.11] [SPEAKER_03]  Oké.
+[00:11:014.44 --> 00:11:018.34] [participant13]  Dit zijn dan zogezegd kandidaten die zelf reageren op een vacature.
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.23 --> 00:11:019.23] [participant13] 
+[00:11:019.27 --> 00:11:024.03] [SPEAKER_02]  Ja, het zou in principe kunnen zijn kandidaten die reageren of nieuwe matches.
+[00:11:024.25 --> 00:11:032.81] [SPEAKER_02]  In deze situatie doet dat er niet toe, maar je kan ervan uitgaan dat ze allemaal in ieder geval enige interesse zouden hebben erin.
+[00:11:036.04 --> 00:11:044.56] [participant13]  Oké, want dat maakt dan verschil, hè, omdat als je deze tool gebruikt om bijvoorbeeld een database aan kandidaten te screenen,
+[00:11:044.60 --> 00:11:048.90] [participant13]  om op die manier te weten welke kandidaten dat het beste past en die je dan proactief kan benaderen,
+[00:11:049.02 --> 00:11:052.12] [participant13]  dat is een andere mogelijkheid, hè.
+[00:11:053.93 --> 00:12:002.23] [SPEAKER_02]  Ja, in principe wat het meest overeenkomt met de gebruikelijke situatie in jouw dagelijkse werk,
+[00:12:002.37 --> 00:12:004.43] [SPEAKER_02]  dat is degene waar je vanuit kan gaan.
+[00:12:038.60 --> 00:12:040.74] [participant13]  Wie is Jules Rosmalen?
+[00:12:041.72 --> 00:12:047.34] [SPEAKER_02]  Ja, dat is dus in principe iemand die er los van staat, maar die wordt dus eigenlijk gebruikt als een soort bruggetje.
+[00:12:047.44 --> 00:12:054.76] [SPEAKER_02]  Als je kijkt bij dat netwerk, dan zie je dus dat die persoon vroeger bij EITCO heeft gewerkt als personeelsassistent
+[00:12:054.76 --> 00:12:059.10] [SPEAKER_02]  en ook een overeenkomende baan heeft gehad met Sam Appelscha.
+[00:12:059.42 --> 00:13:005.24] [SPEAKER_02]  Dus het is een derde persoon die als een soort bruggetje fungeert.
+[00:13:006.48 --> 00:13:007.36] [SPEAKER_03]  Oké.
+[00:13:036.48 --> 00:13:050.86] [SPEAKER_03]  De linking die gehoeden gewoon een wijziging nodig heeft.
+[00:13:050.86 --> 00:13:050.86] [SPEAKER_03] 
+[00:13:050.86 --> 00:13:050.86] [SPEAKER_03] 
+[00:13:050.86 --> 00:13:050.86] [SPEAKER_03] 
+[00:14:000.39 --> 00:14:002.83] [participant13]  Dit vind ik persoonlijk de best passende tot nu toe.
+[00:14:030.39 --> 00:15:000.37] [participant13]  Dan lock ik deze wel.
+[00:15:005.39 --> 00:15:006.63] [participant13]  Oké, apart.
+[00:15:010.36 --> 00:15:015.60] [SPEAKER_02]  Oké, dus heb je dan een nummer 1? Nog steeds dezelfde?
+[00:15:015.84 --> 00:15:018.72] [participant13]  Ja, ik denk dat Chris de Vries de nummer één is.
+[00:15:019.86 --> 00:15:021.92] [participant13]  De rest zou ik niet eens uitnodigen.
+[00:15:021.95 --> 00:15:024.37] [SPEAKER_02]  Oké, allright, dus een duidelijke nummer 1.
+[00:15:024.61 --> 00:15:027.09] [SPEAKER_02]  Nou, dat is in principe helemaal prima.
+[00:15:028.83 --> 00:15:035.03] [SPEAKER_02]  Ja, dan gaat het dus even focussend op deze uitleg, zou ik dan een aantal vragen gaan
+[00:15:035.03 --> 00:15:035.29] [SPEAKER_02]  stellen.
+[00:15:036.37 --> 00:15:042.77] [SPEAKER_02]  Dus de eerste is, kijkend naar deze voorspelling, welke informatie of kenmerken denk je dat
+[00:15:042.77 --> 00:15:045.33] [SPEAKER_02]  het belangrijkst waren voor de match?
+[00:15:024.41 --> 00:15:025.47] [Roan]  Nou, dat is in principe...
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:036.42 --> 00:15:036.42] [SPEAKER_03] 
+[00:15:049.40 --> 00:15:052.16] [participant13]  Effectief de werkervaring.
+[00:15:052.98 --> 00:15:058.04] [SPEAKER_02]  Oké, en dan specifiek die headhunting consultant neem ik aan dan?
+[00:15:058.41 --> 00:16:004.43] [participant13]  Ja, oké, ja, omdat dit wijst op een HR-achtergrond, iets dat de andere vier kandidaten niet hebben.
+[00:16:004.62 --> 00:16:009.27] [participant13]  En dat wordt wel gevraagd, één tot drie jaar HR-achtergrond, als ik me goed herinner.
+[00:16:009.30 --> 00:16:012.62] [SPEAKER_02]  Ja, klopt, dat staat inderdaad in de vacature. Oké, duidelijk.
+[00:16:014.26 --> 00:16:017.96] [SPEAKER_02]  Is er ook iets wat eruit komt als minder belangrijk of niet belangrijk?
+[00:16:019.58 --> 00:16:026.16] [participant13]  Ja, ik vind dit allemaal, dat heb je bij elke kandidaat gelezen, dus eigenlijk een beetje
+[00:16:028.66 --> 00:16:034.30] [participant13]  hun netwerk, dat ze mensen kennen die dit of dat ze mensen kennen die dat, of dat ze...
+[00:16:034.30 --> 00:16:038.20] [participant13]  Kijk, wat ik wel redelijk interessant vind, maar wat ik zelf niet per se zou gebruiken
+[00:16:038.20 --> 00:16:045.88] [participant13]  is in mijn eigen job, is de link met de achtergrond van medewerkers die de functie al gedaan
+[00:16:045.88 --> 00:16:052.02] [participant13]  hebben, dat zou kunnen zijn voor dit soort vacatures.
+[00:16:052.57 --> 00:16:054.89] [SPEAKER_02]  Oké, ja, Marjannes inderdaad.
+[00:16:055.30 --> 00:17:000.42] [participant13]  Maar je weet natuurlijk nooit, want dan zou je wel moeten weten, de persoon naar wie dat
+[00:17:000.42 --> 00:17:003.86] [participant13]  er gerefereerd wordt, was die succesvol in zijn job, ja of nee?
+[00:17:004.00 --> 00:17:005.74] [participant13]  Want anders heb je er nog niks aan.
+[00:17:006.05 --> 00:17:012.53] [SPEAKER_02]  Ja, ja, precies. Dus als dat een goede match geweest zou zijn, dan kan het handig zijn om te zien dat ze bijvoorbeeld overlap hebben in bepaalde vaardigheden.
+[00:17:013.05 --> 00:17:016.81] [SPEAKER_02]  Maar ja, als het geen goede match was, dan heeft dat niet zoveel zin.
+[00:17:017.31 --> 00:17:017.97] [SPEAKER_02]  Oké, duidelijk.
+[00:17:021.77 --> 00:17:027.99] [SPEAKER_02]  Ja, dan gaat de volgende vraag een beetje over hoe duidelijk het model nu is.
+[00:17:028.21 --> 00:17:035.35] [SPEAKER_02]  Dus, ja, helpt deze uitleg een beetje te begrijpen waarom het systeem deze specifieke aanbeveling heeft gegeven?
+[00:17:037.51 --> 00:17:043.79] [participant13]  Ja, op zich helpt het wel, alhoewel ik moet zeggen dat dit stuk daarin eigenlijk het belangrijkste is.
+[00:17:044.09 --> 00:17:046.35] [participant13]  Dit is één keer leuk om te zien.
+[00:17:046.46 --> 00:17:046.74] [SPEAKER_03]  M-hm.
+[00:17:047.33 --> 00:17:049.87] [participant13]  En vervolgens kijk je er volgens mij niet meer naar.
+[00:17:051.63 --> 00:17:056.13] [participant13]  Dit, ja, weet ik niet, misschien niet, misschien wel.
+[00:17:056.93 --> 00:18:003.21] [participant13]  Sowieso zou ik dan moeten begrijpen wat, ja, staat hier, dus groen is dan zogezegd de vacature.
+[00:18:003.46 --> 00:18:005.66] [SPEAKER_02]  Ja, dat is het.
+[00:18:006.63 --> 00:18:008.81] [participant13]  Groot, dat is het netwerk.
+[00:18:009.11 --> 00:18:009.11] [participant13] 
+[00:18:010.65 --> 00:18:015.05] [participant13]  En geel, dat zijn de vacature types, dus wat deze persoon al eerder gedaan heeft dan.
+[00:18:015.21 --> 00:18:015.77] [participant13]  Ja, ja, ja.
+[00:18:019.29 --> 00:18:023.77] [participant13]  Ja, ik vind de gelezen tekst nog altijd het meest duidelijk.
+[00:18:023.96 --> 00:18:032.10] [SPEAKER_02]  Oké, ja prima. En als je zeg maar het begrip van waarom het model dus deze verspelling heeft gemaakt
+[00:18:032.10 --> 00:18:036.92] [SPEAKER_02]  en op een schaal van 1 tot 10 een cijfer zou moeten geven, wat zou dat dan ongeveer zijn?
+[00:18:039.44 --> 00:18:041.70] [participant13]  Wil jij nog eens herhalen wat je precies wil weten?
+[00:18:041.80 --> 00:18:049.24] [SPEAKER_02]  Dus hoe duidelijk het nu op basis van de uitleg is waarom precies deze voorspelling is gedaan,
+[00:18:049.60 --> 00:18:050.70] [SPEAKER_02]  waarom deze match is gemaakt.
+[00:18:051.94 --> 00:18:054.94] [participant13]  Ja, dat is op basis van de uitleg, is dat wel duidelijk.
+[00:18:056.06 --> 00:18:059.26] [participant13]  Er wordt gewoon gezocht naar overlap.
+[00:18:059.94 --> 00:19:003.70] [participant13]  En dat kan op basis van woorden, dat kan op basis van...
+[00:19:003.70 --> 00:19:005.04] [participant13]  Ja, het gaat op basis van tekst.
+[00:19:005.54 --> 00:19:011.28] [participant13]  En de tekst waarin jullie zoeken, daarin wordt gekeken naar woorden die overlappen met factuurtekst.
+[00:19:011.88 --> 00:19:019.28] [participant13]  En daar worden linken gelegd tussen, in dit geval ook namen en een netwerk van de kandidaten,
+[00:19:019.36 --> 00:19:020.32] [participant13]  of de potentiële kandidaten.
+[00:19:020.42 --> 00:19:021.40] [participant13]  Dus ik begrijp hoe het werkt.
+[00:19:021.84 --> 00:19:026.74] [SPEAKER_02]  Oké, en ja, dan zou je daar een specifiek cijfer, dus van 1 tot 10 aan vast kunnen knopen,
+[00:19:026.80 --> 00:19:028.72] [SPEAKER_02]  van hoe duidelijk dat begrip is?
+[00:19:030.31 --> 00:19:033.27] [participant13]  Ja, wat je eigenlijk hier... Ja, dat is mij duidelijk.
+[00:19:033.43 --> 00:19:035.79] [participant13]  Laten we er een acht op plakken, als je een cijfer moet weten.
+[00:19:036.59 --> 00:19:040.37] [participant13]  Volgens mij, wat je hier doet, is voor een stuk hetzelfde als een ectonomy search,
+[00:19:042.25 --> 00:19:048.01] [participant13]  die ook gebruikt wordt door heel veel andere database providers eigenlijk,
+[00:19:048.19 --> 00:19:049.67] [participant13]  regroupment database providers.
+[00:19:050.01 --> 00:19:055.85] [participant13]  Daar heb je ectonomy searches en die kun je dan heel specifiek op woorden laten zoeken,
+[00:19:055.85 --> 00:20:001.25] [participant13]  ook op woorden die ze hadden moeten ontbreken of op nn-woorden die er al twee in.
+[00:20:002.51 --> 00:20:004.83] [participant13]  Volgens mij werkt het een beetje vergelijkbaar.
+[00:20:001.48 --> 00:20:001.68] [SPEAKER_03]  Ja.
+[00:20:004.91 --> 00:20:008.75] [SPEAKER_02]  Ja, ja, nee, klopt, dat is inderdaad goed geïdentificeerd.
+[00:20:008.83 --> 00:20:011.73] [SPEAKER_02]  Hij kijkt inderdaad naar overlappende, ja, dus termen en begrippen.
+[00:20:011.93 --> 00:20:017.85] [SPEAKER_02]  En dan vervolgens wat hij ook doet, is dat hij er een gewichtje aan hangt van hoe belangrijk is deze overlap.
+[00:20:018.49 --> 00:20:020.05] [SPEAKER_02]  Maar oké, en 8, dat is duidelijk.
+[00:20:021.23 --> 00:20:027.31] [SPEAKER_02]  En dat is dus, ja, specifiek vooral gebaseerd op de tekst, niet zozeer op die twee grafieken.
+[00:20:028.03 --> 00:20:028.97] [SPEAKER_03]  Hé...
+[00:20:028.58 --> 00:20:035.62] [participant13]  Je zou hierin kunnen toevoegen, Roan, bijvoorbeeld het percentage waarvan jij denkt dat een kandidaat
+[00:20:035.62 --> 00:20:035.96] [participant13]  matcht.
+[00:20:036.08 --> 00:20:039.94] [participant13]  Dat is bijvoorbeeld in onze database zo, als ik een bepaalde search doe in mijn database,
+[00:20:040.48 --> 00:20:043.32] [participant13]  dan krijg ik ook een percentage van match, zeg maar.
+[00:20:043.38 --> 00:20:050.00] [participant13]  Dat gaat van 100% naar 0% en dan weet ik van ja, de bovenste 50% zeg maar, die bekijk ik
+[00:20:050.00 --> 00:20:051.52] [participant13]  wel en de andere niet, zoiets.
+[00:20:051.60 --> 00:20:058.52] [SPEAKER_02]  Ja, dat kan inderdaad zeker. In principe doet het model dat ook, alleen in dit geval hebben we er niet bij gezet,
+[00:20:058.60 --> 00:21:008.82] [SPEAKER_02]  omdat we willen dat mensen zelf alles goed bekijken. En als er anders staat, oh deze is 98%, dan heb je snel dat mensen neigen om die sowieso te kiezen.
+[00:21:009.40 --> 00:21:012.08] [SPEAKER_02]  Maar ja, nee, er kan zeker inderdaad een percentage bij.
+[00:21:014.28 --> 00:21:021.30] [SPEAKER_02]  Oké, en de uitleg die dus gegeven wordt, is die logisch? Is dat een redelijke uitleg?
+[00:21:023.31 --> 00:21:025.45] [participant13]  Je bedoelt een geschreven uitleg over de match, hè?
+[00:21:025.57 --> 00:21:028.85] [SPEAKER_02]  Ja, is er er één waarvan je denkt van, ah ja, daar kan ik me wel in vinden.
+[00:21:030.57 --> 00:21:037.24] [participant13]  Ja, hier en daar wat minder, maar dat zal allemaal nog gefinetuned moeten worden in elkaar.
+[00:21:037.57 --> 00:21:045.46] [participant13]  Dus, kijk, als je hier bijvoorbeeld zegt, het lijkt erop dat Chris de Gris goed zou kunnen passen bij de functie van paneel door op basis van de informatie die we hebben,
+[00:21:045.55 --> 00:21:047.72] [participant13]  laten we eens kijken naar de connecties die we hebben ontdekt.
+[00:21:048.33 --> 00:21:052.68] [participant13]  Ja, oké, dat is gewoon het standaard zinnetje dat je eigenlijk elke keer erin zet.
+[00:21:052.83 --> 00:21:055.72] [participant13]  Wat ik wel interessant vind is dit, dat je eigenlijk heel kort...
+[00:21:051.78 --> 00:21:052.06] [SPEAKER_03]  Ja.
+[00:21:056.93 --> 00:22:002.23] [participant13]  Je ziet van, oké, dit is de naam van de kandidaat, dit is het bedrijf waar hij solliciteert,
+[00:22:002.27 --> 00:22:006.83] [participant13]  hij woont in Maastricht, op 3,7 kilometer van waar we hem willen hebben.
+[00:22:006.96 --> 00:22:007.18] [SPEAKER_03]  Ja.
+[00:22:008.67 --> 00:22:015.43] [participant13]  Ehm, kwaliteitscertificaten hebben echt kwaliteit, dan denk ik, die vaardigheden.
+[00:22:016.63 --> 00:22:020.61] [participant13]  Ja, op zich staat dat hier allemaal vrij duidelijk, hè, gewoon.
+[00:22:020.87 --> 00:22:021.09] [SPEAKER_03]  Ja.
+[00:22:024.26 --> 00:22:029.84] [participant13]  Wat je misschien zou willen zien is nog hoe zwaar het weegt.
+[00:22:029.92 --> 00:22:032.78] [participant13]  In die zin, hoe lang heeft iemand gewerkt in een bepaalde functie?
+[00:22:032.86 --> 00:22:035.86] [participant13]  Als je dat daar op de een of andere manier in zou kunnen krijgen,
+[00:22:036.12 --> 00:22:039.56] [participant13]  ja, dat geeft er ook wat meer waarde aan de kandidaat.
+[00:22:039.77 --> 00:22:045.53] [SPEAKER_02]  Ja, ja, dus dat er in dit geval bijvoorbeeld dan in plaats van bovendien heeft Chris ervaring als headhunting consultant,
+[00:22:045.65 --> 00:22:049.25] [SPEAKER_02]  dat er staat heeft Chris twee jaar ervaring ofzo als headhunting consultant.
+[00:22:049.77 --> 00:22:051.35] [SPEAKER_02]  Dat is duidelijk, oké.
+[00:22:052.47 --> 00:22:056.13] [SPEAKER_02]  Helpt deze uitleg of zou die ook helpen met het daadwerkelijk maken van een beslissing,
+[00:22:056.19 --> 00:22:059.95] [SPEAKER_02]  dus bijvoorbeeld deze persoon opbellen voor een gesprek of iets in die geest?
+[00:23:001.22 --> 00:23:001.94] [participant13]  Ja, dat denk ik wel.
+[00:23:002.03 --> 00:23:007.97] [SPEAKER_02]  En daar op een schaal van 1 tot 10 ongeveer, hoe nuttig zou die daarvoor zijn.
+[00:23:007.98 --> 00:23:016.01] [participant13]  Nou ja, als je dan ook gelijk het telefoonnummer bijzet, dan is de kans dat die gemeld wordt wel groot.
+[00:23:016.14 --> 00:23:017.53] [participant13]  Laten we er ook maar een 8 op plakken dan.
+[00:23:017.94 --> 00:23:018.36] [SPEAKER_02]  Ja, duidelijk.
+[00:23:019.52 --> 00:23:024.08] [SPEAKER_02]  Ja, en die uitleg voegt dan wel daadwerkelijk ook wat toe ten opzichte van gewoon alleen
+[00:23:024.08 --> 00:23:026.72] [SPEAKER_02]  deze persoon is een match met zoveel procent.
+[00:23:027.00 --> 00:23:028.70] [SPEAKER_02]  Is het wel fijn om die tekst erbij te hebben?
+[00:23:028.86 --> 00:23:030.06] [SPEAKER_02]  Of is dat...
+[00:23:030.06 --> 00:23:030.92] [SPEAKER_02]  Absoluut, absoluut.
+[00:23:030.95 --> 00:23:031.91] [participant13]  Ja, oké.
+[00:23:031.69 --> 00:23:041.91] [SPEAKER_02]  Oké, ja en hoe zou je dan de uitleg gebruiken in een dagelijkse setting?
+[00:23:042.07 --> 00:23:046.79] [SPEAKER_02]  Gewoon een beetje als een beginnende indicatie of iets in die geest?
+[00:23:048.01 --> 00:23:049.81] [participant13]  Er ligt er een klein beetje aan.
+[00:23:051.22 --> 00:23:057.16] [participant13]  In welke fase van het proces dat je deze software wilt implementeren,
+[00:23:057.36 --> 00:23:059.82] [participant13]  wil je dit gaan implementeren helemaal aan het begin,
+[00:23:059.98 --> 00:24:003.78] [participant13]  om ook effectief kandidaten of potentiële kandidaten te screenen
+[00:24:003.78 --> 00:24:008.20] [participant13]  vanuit hun publicitatiepool of vanuit LinkedIn of vanuit een database?
+[00:24:009.42 --> 00:24:013.76] [participant13]  Ja, dan is dit eigenlijk een tool om je te doen aanzetten,
+[00:24:013.88 --> 00:24:017.50] [participant13]  deze mensen zelf te bellen voor een eerste kennismaking,
+[00:24:017.94 --> 00:24:019.78] [participant13]  eventueel een stukje uitleg.
+[00:24:020.46 --> 00:24:025.04] [participant13]  Als je deze tool gaat inzetten, bijvoorbeeld in een latere fase,
+[00:24:025.12 --> 00:24:027.66] [participant13]  waarbij je reeds geïnterviewde kandidaten,
+[00:24:028.44 --> 00:24:034.08] [participant13]  de rapportage is daarvan, als je dat door deze tool laat gaan,
+[00:24:034.36 --> 00:24:036.06] [participant13]  dan zou je het eventueel zelfs kunnen gebruiken
+[00:24:036.06 --> 00:24:038.36] [participant13]  als voorstellingsrapportage naar je klanten.
+[00:24:039.06 --> 00:24:043.16] [SPEAKER_02]  Oké, duidelijk. Dat is handig om te weten, dat hadden we nog niet eerder gehoord.
+[00:24:043.34 --> 00:24:047.78] [SPEAKER_02]  Maar dat, ja, fijn om die twee verschillende settings duidelijk te hebben.
+[00:24:049.20 --> 00:24:054.56] [SPEAKER_02]  Oké, ja. Denk je dat de voorspelling van het model betrouwbaar is?
+[00:24:054.90 --> 00:24:057.72] [SPEAKER_02]  Ja, dat het te vertrouwen valt?
+[00:24:059.33 --> 00:25:000.89] [participant13]  Ja, dat vind ik moeilijk om te beantwoorden.
+[00:25:001.01 --> 00:25:005.41] [participant13]  Als ik kijk op de vijf CV's die hier naar voren geschoven zijn, dan zou ik van die vijf
+[00:25:005.41 --> 00:25:006.23] [participant13]  tot vier afwijzen.
+[00:25:006.35 --> 00:25:012.51] [participant13]  Dus dan zou de conclusie zijn dat het niet kwalitatief is, de voorspelling.
+[00:25:014.29 --> 00:25:018.11] [participant13]  Maar ja, ik weet natuurlijk niet welke andere kandidaten je nog in die database had zitten,
+[00:25:018.15 --> 00:25:020.01] [participant13]  als er dan maar zes in zaten, of vijf, ja.
+[00:25:020.61 --> 00:25:025.48] [SPEAKER_02]  Ja, oké, oké, dat hangt dus af van de extra context.
+[00:25:026.37 --> 00:25:031.20] [SPEAKER_02]  Ja, dan op een schaal van 1 tot 10 weer, het vertrouwen hier klinkt dan niet heel hoog.
+[00:25:032.27 --> 00:25:033.49] [participant13]  Nee, voorlopig niet, nee.
+[00:25:036.39 --> 00:25:037.91] [participant13]  Mag ik er een laagcijfer aan geven?
+[00:25:037.93 --> 00:25:038.47] [participant13]  Zeker, zeker.
+[00:25:037.85 --> 00:25:039.67] [SPEAKER_02]  Zeker, zeker. Dat is helemaal prima.
+[00:25:040.71 --> 00:25:045.49] [participant13]  Ja, ik geef daar dan een 3 aan, omdat ik geen 2 wil geven.
+[00:25:046.78 --> 00:25:049.56] [SPEAKER_02]  Oké, maar in ieder geval laag, dus nee, dat is duidelijk.
+[00:25:049.90 --> 00:25:055.22] [SPEAKER_02]  En dan dus ook omdat je een beetje niet kan weten wat er verder nog voor opties waren.
+[00:25:055.30 --> 00:26:000.20] [SPEAKER_02]  Je moet eigenlijk gewoon er maar vanuit gaan dat deze vijf de beste vijf waren, maar je kan het niet dubbelchecken, zeg maar.
+[00:26:001.43 --> 00:26:007.43] [participant13]  Nee, ik kan het niet double-checken. Plus, ook al waren dit niet de enige vijf, maar waren er bijvoorbeeld honderd,
+[00:26:009.35 --> 00:26:013.91] [participant13]  dan zou ik twijfelen aan vals-negatieven, of sorry, vals-positieven,
+[00:26:014.13 --> 00:26:017.25] [participant13]  want de andere vier die ik hier zie vind ik gewoon niet geschikt.
+[00:26:017.37 --> 00:26:020.67] [participant13]  En dan denk ik van, oké, als dit de manier is waarop deze tool screent,
+[00:26:020.81 --> 00:26:026.41] [participant13]  wat dan met die andere negentig bijvoorbeeld, hè, zijn die dan wel goed genoeg gescreend?
+[00:26:026.49 --> 00:26:027.97] [participant13]  Dus daar de juiste link gelegd.
+[00:26:029.42 --> 00:26:032.18] [participant13]  Plus wat je hier doet is je screent hier op Nederland.
+[00:26:033.16 --> 00:26:039.62] [participant13]  Ga je dit ook, stel dat je er tussen een paar Engelse CV's hebt of je hebt CV's met spelfouten.
+[00:26:039.81 --> 00:26:041.42] [participant13]  Hoe ga je dat oplossen?
+[00:26:042.27 --> 00:26:046.09] [participant13]  Welke invloed heeft dat op de ranking van de kandidaat, zeg maar?
+[00:26:046.30 --> 00:26:054.68] [SPEAKER_02]  Ja, dus ook wat extra duidelijkheid over het proces, zeg maar, zou helpen met, ja, hoe betrouwbaar het is.
+[00:26:055.48 --> 00:26:056.28] [SPEAKER_02]  Nee, dat is duidelijk.
+[00:26:055.78 --> 00:26:056.34] [participant13]  Nee, dat is duidelijk.
+[00:26:056.34 --> 00:27:000.22] [participant13]  Ja, kijk, er staat hier bijvoorbeeld ook helemaal niks genoemd over salaris.
+[00:27:000.59 --> 00:27:000.91] [SPEAKER_03]  Oké.
+[00:27:001.52 --> 00:27:005.12] [participant13]  Je weet wel wat de benchmark is, want dat staat in de vacature, maar je weet niet wat
+[00:27:005.12 --> 00:27:006.58] [participant13]  de kandidaten zelf verdienen.
+[00:27:007.54 --> 00:27:010.38] [participant13]  Op de basis daarvan weet je ook niet of het een goede match is.
+[00:27:010.48 --> 00:27:016.10] [participant13]  Het kan heel goed zijn dat dit de enige goede match is, maar dat die op 4000 of 5000 euro
+[00:27:016.10 --> 00:27:017.46] [participant13]  zit en dan valt die buiten de range.
+[00:27:017.55 --> 00:27:018.91] [SPEAKER_03]  Oké.
+[00:27:018.26 --> 00:27:021.28] [SPEAKER_02]  Oké, ja, nee, dat is duidelijk.
+[00:27:021.92 --> 00:27:024.92] [SPEAKER_02]  Maar als dus bijvoorbeeld het model, als alle vijf deze
+[00:27:024.92 --> 00:27:029.42] [SPEAKER_02]  zeg maar plausibel waren en eentje stak er bovenuit, dan zou dat wel al het vertrouwen
+[00:27:029.42 --> 00:27:031.00] [SPEAKER_02]  een stuk beter hebben gemaakt, omdat het dan
+[00:27:032.28 --> 00:27:035.20] [SPEAKER_02]  overkomt alsof het model beter weet wat er aan de hand is eigenlijk.
+[00:27:036.60 --> 00:27:048.60] [participant13]  Ja, precies. Want kijk, uiteindelijk als je dit wil gaan gebruiken, dan wil je niet alleen dat de juiste kandidaat eruit gehaald wordt,
+[00:27:049.52 --> 00:27:053.78] [participant13]  maar dan wil je ook dat alle potentiële kandidaten eruit gehaald worden.
+[00:27:053.95 --> 00:28:000.45] [SPEAKER_02]  Ja, oké, dus dat er geen mogelijke match over het hoofd gezien wordt, zeg maar.
+[00:28:001.64 --> 00:28:009.34] [participant13]  Nee, en dan denk ik, dan zit ik in elkaar als volg dat ik het liever heb dat er dan één of twee te veel uitkomen dan één of twee te weinig.
+[00:28:009.44 --> 00:28:012.44] [SPEAKER_02]  Ja, dus liever wat te...
+[00:28:013.84 --> 00:28:016.72] [SPEAKER_02]  Hoe zeg je dat? Laks dan te streng moet hij zijn.
+[00:28:017.04 --> 00:28:017.16] [SPEAKER_02]  Ja.
+[00:28:017.50 --> 00:28:017.90] [SPEAKER_02]  Oké.
+[00:28:018.00 --> 00:28:018.06] [SPEAKER_02]  Ja.
+[00:28:018.86 --> 00:28:019.74] [SPEAKER_02]  Duidelijk, oké.
+[00:28:019.98 --> 00:28:024.38] [SPEAKER_02]  Nou, dan is dit het einde van de eerste ronde, dus dan kun je rechtsboven op klaar klikken.
+[00:28:018.83 --> 00:28:019.75] [SPEAKER_03]  Duidelijk, oké.
+[00:28:029.30 --> 00:28:029.64] [SPEAKER_03]  Oké?
+[00:28:033.32 --> 00:28:034.36] [participant13]  Oké.
+[00:28:038.24 --> 00:28:046.27] [SPEAKER_02]  Ja, dat zijn dus weer dezelfde personen, maar nu is de uitleg anders, door een ander model gegenereerd.
+[00:28:047.78 --> 00:28:048.08] [participant13]  Oké.
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:048.10 --> 00:28:048.10] [SPEAKER_03] 
+[00:28:049.32 --> 00:28:051.58] [participant13]  Ik had het een behoorlijke eerlijkheid als afdelingsassistent.
+[00:28:052.99 --> 00:28:053.81] [Roan]  Met de grond in je tapje bonen, en dan gaan we naar de..
+[00:28:053.81 --> 00:28:054.35] [Roan]  In de grond...
+[00:28:054.35 --> 00:28:054.51] [Roan]  Okay, jou eingang uit de grond.
+[00:28:054.51 --> 00:28:054.59] [Roan]  Oké...
+[00:28:054.59 --> 00:28:054.59] [Roan] 
+[00:28:054.59 --> 00:28:054.59] [Roan] 
+[00:28:054.59 --> 00:28:054.59] [Roan] 
+[00:29:021.95 --> 00:29:026.83] [participant13]  Het kan om mij liggen, maar ik vind het niet significant anders dan wat ik eerst over Senne de Boer gelezen heb.
+[00:29:026.95 --> 00:29:031.01] [SPEAKER_02]  Nee, klopt. Het is gebaseerd op dezelfde data, zeg maar, hetzelfde netwerk.
+[00:29:031.15 --> 00:29:037.23] [SPEAKER_02]  Alleen is, wat ik dus zei, hij kijkt op die termen en vervolgens hangt hij er een gewicht aan.
+[00:29:037.75 --> 00:29:043.99] [SPEAKER_02]  En in dit geval heeft het model dus andere dingen als belangrijker of minder belangrijk besneppeld.
+[00:29:044.37 --> 00:29:046.19] [SPEAKER_02]  En dat is het verschil tussen de twee modellen, zeg maar.
+[00:29:047.48 --> 00:29:047.68] [SPEAKER_03]  Ja.
+[00:31:005.66 --> 00:31:007.53] [participant13]  Dat stond ook bij de voorhoringen.
+[00:31:009.47 --> 00:31:013.13] [SPEAKER_02]  Uhm... Dat hij een aanzienlijk gewicht had. Dat weet ik niet uit mijn hoofd.
+[00:31:013.19 --> 00:31:015.19] [SPEAKER_02]  Ik kan even checken of dat bij die andere er ook staat.
+[00:31:016.94 --> 00:31:018.32] [Roan]  Ehhh...
+[00:31:022.76 --> 00:31:027.02] [SPEAKER_02]  Nee, daar staat niet bij dat het een aanzienlijk gewicht met zich meebrengt.
+[00:31:028.77 --> 00:31:029.03] [SPEAKER_03]  Oké.
+[00:32:028.77 --> 00:32:038.31] [SPEAKER_03]  Ja.
+[00:32:038.43 --> 00:32:038.87] [participant13]  Oké.
+[00:32:040.49 --> 00:32:043.69] [participant13]  Ik vind het niet significant anders.
+[00:32:045.87 --> 00:32:050.37] [participant13]  Het voorbeeld dat ik dan wel van dit zie, het wordt iets uitgebreider beschreven volgens
+[00:32:050.37 --> 00:32:050.67] [participant13]  mij.
+[00:32:051.85 --> 00:32:055.03] [participant13]  En dit vind ik dan wel interessant, dat er een zwaard aan gehangen wordt.
+[00:32:055.45 --> 00:33:003.47] [SPEAKER_02]  Ja, oké, dat is inderdaad ook het grootste verschil tussen die twee modellen, hoe dat bepaald wordt, dat gewicht.
+[00:33:004.53 --> 00:33:012.43] [SPEAKER_02]  En als je hier ook bijvoorbeeld kijkt naar dat netwerk, Hiro en met die ene Ned, Ned was alles een stuk meer gelijk.
+[00:33:012.83 --> 00:33:021.25] [SPEAKER_02]  En hier zie je inderdaad dat die ene naar het Hunting Consultant een stuk dikker is, dus inderdaad meer heeft meegewogen.
+[00:33:023.33 --> 00:33:026.29] [SPEAKER_02]  Oké, maar de keuze is weer dan, Christof Ries?
+[00:33:027.72 --> 00:33:031.62] [participant13]  Ja, oké. Het zou gek zijn als dat nu anders zou zijn.
+[00:33:031.67 --> 00:33:032.59] [SPEAKER_02]  Ja, nee, precies.
+[00:33:034.29 --> 00:33:041.51] [SPEAKER_02]  Allright, ja, nee, en dan hier gok ik dan weer op basis van dat headhunting consultant voornamelijk.
+[00:33:043.03 --> 00:33:043.17] [SPEAKER_02]  Ja.
+[00:33:043.51 --> 00:33:049.15] [SPEAKER_02]  Oké, en er is niet iets anders wat hier nog uit naar voren kwam wat dat heeft veranderd
+[00:33:049.15 --> 00:33:051.07] [SPEAKER_02]  of wat extra heeft bijgedragen?
+[00:33:052.59 --> 00:33:056.51] [participant13]  Nee, nee. Het staat leuk begrepen hier, maar dat zal voor mij niet bijdragen.
+[00:33:056.93 --> 00:33:057.57] [participant13]  Oké, allright.
+[00:34:000.05 --> 00:34:011.65] [SPEAKER_02]  Oké, ja, dan, ja, deze uitleg, ja, helpt deze uitleg weer met het begrijpen waarom het
+[00:34:011.65 --> 00:34:016.81] [SPEAKER_02]  model deze verspelling heeft gedaan en dan weer dus op een schaal van 1 tot 10 eigenlijk.
+[00:34:018.90 --> 00:34:024.94] [participant13]  Ja, ik denk dat de antwoorden die ik zou geven nu op de vragen eigenlijk allemaal hetzelfde zijn als bij de vorige.
+[00:34:025.03 --> 00:34:025.31] [SPEAKER_03]  M-hm.
+[00:34:027.26 --> 00:34:030.78] [participant13]  Maar dat ik dan als ik moet kiezen tussen de twee modellen, dit model prefereer.
+[00:34:030.92 --> 00:34:035.54] [SPEAKER_02]  Oké, dus dan waar die andere een 8 was, is dit dan een 8,5 of een 9 ofzo?
+[00:34:037.78 --> 00:34:037.86] [SPEAKER_03]  Ja.
+[00:34:038.53 --> 00:34:043.15] [SPEAKER_02]  Oké, en hetzelfde geldt voor hoe logisch de uitleg is?
+[00:34:044.60 --> 00:34:046.00] [participant13]  Ja, ik vind het net zo logisch.
+[00:34:046.27 --> 00:34:051.61] [SPEAKER_02]  Oh, oké, dus net zo logisch, maar hij is wel iets, iets, iets, ja, iets betere formule.
+[00:34:051.47 --> 00:34:051.69] [participant13]  Nou...
+[00:34:053.12 --> 00:34:059.40] [participant13]  Nou, het enige essentiële verschil voor mij is dat je praat over het uitzienlijke gewicht dat eraan gehangen wordt.
+[00:34:059.80 --> 00:35:006.72] [participant13]  Dus in dit geval vind ik dat dit systeem beter kan beoordelen dat dit belangrijk is voor die functie.
+[00:35:006.80 --> 00:35:007.60] [participant13]  Oké, dus dat is...
+[00:35:008.92 --> 00:35:012.92] [participant13]  Of dat dan effectief te maken heeft met het beter beoordelen of met toevallig...
+[00:35:013.90 --> 00:35:020.58] [participant13]  Kijk, want ik neem aan dat jij als consultant die dit gebruikt, dat jij aan dit soort termen zelf een gewicht gaat toewijzen.
+[00:35:020.58 --> 00:35:024.68] [participant13]  Je gaat zelf aangeven, als je dit vindt, dan heeft dat het zwaarste gewicht.
+[00:35:024.76 --> 00:35:027.04] [participant13]  Als je dit terugvindt, dan heeft dat een minder gewicht.
+[00:35:028.58 --> 00:35:029.98] [participant13]  Ja, dat veronderstel ik tenminste.
+[00:35:007.11 --> 00:35:007.11] [SPEAKER_02] 
+[00:35:030.43 --> 00:35:030.61] [SPEAKER_02]  Ja.
+[00:35:032.49 --> 00:35:033.83] [SPEAKER_02]  Ja, nee, nee, snap ik.
+[00:35:035.05 --> 00:35:040.70] [participant13]  Betekent dat dat je bij het andere systeem daar geen gewichten aan kan hangen als controlconcijnte als je dat gebruikt?
+[00:35:041.55 --> 00:35:046.27] [SPEAKER_02]  Ja, nee, in principe is het dus, dat andere model hangt er ook gewichten aan,
+[00:35:046.53 --> 00:35:050.77] [SPEAKER_02]  maar in dit geval, in ieder geval bij dit voorbeeld van Chris de Vries,
+[00:35:051.55 --> 00:35:055.07] [SPEAKER_02]  hing hij aan beide paden, zeg maar, in dat netwerk ongeveer evenveel.
+[00:35:055.21 --> 00:35:059.63] [SPEAKER_02]  Dus dan kun je niet zeggen aan deze hangt een aanzienlijk gewicht,
+[00:36:000.17 --> 00:36:001.89] [SPEAKER_02]  want ja, het is ongeveer evenveel.
+[00:36:001.97 --> 00:36:007.45] [SPEAKER_02]  En in dit geval, omdat hij dus een duidelijker verschil heeft tussen die twee paden,
+[00:36:008.33 --> 00:36:012.35] [SPEAKER_02]  hangt hij er daarom ook termen aan van een aanzienlijk gewicht.
+[00:36:013.23 --> 00:36:015.01] [SPEAKER_02]  Ja, snap ik.
+[00:36:017.39 --> 00:36:017.91] [SPEAKER_02]  Oké.
+[00:36:017.91 --> 00:36:022.31] [SPEAKER_02]  Ja, heeft dit, dat het dus inderdaad wat anders geformuleerd is,
+[00:36:022.35 --> 00:36:026.83] [SPEAKER_02]  heeft dat nog impact op het vertrouwen of hoe betrouwbaar het model overkomt?
+[00:36:028.23 --> 00:36:029.15] [SPEAKER_02]  Nee, niet op z'n.
+[00:36:029.49 --> 00:36:033.61] [SPEAKER_02]  Oké, dus dat cijfer blijft dan een 2a3 nog steeds?
+[00:36:033.67 --> 00:36:033.97] [SPEAKER_02]  Ja, ik...
+[00:36:033.56 --> 00:36:038.86] [participant13]  Ja, ik zal dan hier wel iets hoger cijfer geven dan...
+[00:36:038.86 --> 00:36:041.72] [participant13]  Nou, dan doe die andere maar een 2 en dan mag je deze een 3 laten.
+[00:36:042.51 --> 00:36:046.35] [SPEAKER_02]  Ja, nee, dat is helemaal prima.
+[00:36:046.75 --> 00:36:050.97] [SPEAKER_02]  Het is ook fijn om kritische feedback daarop te krijgen.
+[00:36:053.79 --> 00:36:057.11] [SPEAKER_02]  Het komt niet lullig over op zo'n laagcijfer, dat is juist fijn.
+[00:36:058.53 --> 00:36:058.81] [SPEAKER_02]  Nee.
+[00:36:044.50 --> 00:36:044.88] [SPEAKER_03]  Ehh...
+[00:36:044.99 --> 00:36:045.11] [Roan]  Ja.
+[00:37:002.13 --> 00:37:008.31] [SPEAKER_02]  Ja, maar dan blijft het dus eigenlijk hetzelfde gelden, dat het nog steeds, je trekt wel in twijfel of het daadwerkelijk een goede beslissing is geweest,
+[00:37:008.39 --> 00:37:018.93] [SPEAKER_02]  omdat eigenlijk die andere opties zo matig zijn, dat je nog steeds, dus bijvoorbeeld met die vals positives en ook de vals negatives, daar eigenlijk weinig over kan zeggen.
+[00:37:020.19 --> 00:37:020.37] [SPEAKER_02]  Ja.
+[00:37:020.57 --> 00:37:021.35] [SPEAKER_02]  Oké, duidelijk.
+[00:37:022.53 --> 00:37:032.93] [SPEAKER_02]  Allright, ja dan als laatste, ja ik had al een beetje het vermoeden, iets van een cv bijvoorbeeld zou fijn zijn om direct toegang toe te krijgen,
+[00:37:033.31 --> 00:37:041.17] [SPEAKER_02]  maar is er verder nog iets wat handig kan zijn om toegevoegd te hebben aan deze omgeving, iets wat, ja eigenlijk een must have zou zijn een beetje.
+[00:37:044.41 --> 00:37:052.11] [participant13]  Ja, kijk, als jij vanuit deze omgeving gaat bepalen of jij contact gaat opnemen met potentiële
+[00:37:052.11 --> 00:37:057.51] [participant13]  kandidaten, dan wil je ze eigenlijk met een klik op de knop op een sortlist krijgen.
+[00:37:057.72 --> 00:37:057.86] [SPEAKER_03]  Oké.
+[00:37:058.19 --> 00:38:004.55] [participant13]  Want stel dat je 50 kandidaten moet screenen en er zijn maar 10 die interessant zijn, dan
+[00:38:004.55 --> 00:38:008.51] [participant13]  wil je die eigenlijk via een klik op de knop op een shortlist krijgen waarmee je dan weer
+[00:38:008.51 --> 00:38:009.29] [participant13]  verder kan werken.
+[00:38:009.39 --> 00:38:012.89] [participant13]  Je wil dan eigenlijk ook dat de kandidaten die niet aan aanmerking komen, dat je die
+[00:38:012.89 --> 00:38:014.73] [participant13]  met één klik op de knop kunt afwijzen.
+[00:38:015.01 --> 00:38:017.41] [participant13]  Dat je daar een reactie naar kan sturen.
+[00:38:017.89 --> 00:38:020.25] [participant13]  Dat zijn belangrijke add-ons, zeg maar.
+[00:38:020.36 --> 00:38:025.91] [SPEAKER_02]  Oké, ja, dus eigenlijk van die dingen om het wat makkelijker en eleganter te maken.
+[00:38:026.03 --> 00:38:028.24] [SPEAKER_02]  Dus inderdaad, dat hij automatisch de mensen afwijst.
+[00:38:027.15 --> 00:38:027.93] [participant13]  Ja, dat klopt.
+[00:38:030.53 --> 00:38:034.28] [participant13]  Dat je het praktischer maakt. Je wilt ook het hele cv zien van de kandidaat.
+[00:38:034.39 --> 00:38:034.97] [participant13]  Ja, ja, dat klopt.
+[00:38:036.30 --> 00:38:036.86] [participant13]  Inclusief contactgegeven.
+[00:38:037.05 --> 00:38:040.20] [SPEAKER_02]  Ja, nee, dat is zeker inderdaad een goeie.
+[00:38:040.32 --> 00:38:044.82] [SPEAKER_02]  Dus dan hadden ze bijvoorbeeld, ja, als je bij Christof Ries, dat er zo'n linkje bij staat
+[00:38:044.82 --> 00:38:047.80] [SPEAKER_02]  en als je daarop klikte dat ze z'n cv opent, zoiets.
+[00:38:048.91 --> 00:38:049.64] [SPEAKER_02]  Ja, bijvoorbeeld, ja.
+[00:38:050.24 --> 00:38:050.64] [SPEAKER_02]  Oké.
+[00:38:052.38 --> 00:38:055.14] [SPEAKER_02]  Ja, en is er nog informatie die overbodig is?
+[00:38:055.20 --> 00:38:058.14] [SPEAKER_02]  Ik kreeg wel het gevoel die eigenlijk die twee grafiekjes voegen niet heel veel toe,
+[00:38:058.36 --> 00:38:059.66] [SPEAKER_02]  maar verder nog?
+[00:39:000.31 --> 00:39:000.57] [SPEAKER_03]  Ja.
+[00:39:001.19 --> 00:39:001.79] [SPEAKER_03]  Nee.
+[00:39:003.46 --> 00:39:007.98] [participant13]  Ik zou die twee grafiekjes, wat ik zeg, dat zou ik één keer bekijken.
+[00:39:008.16 --> 00:39:017.32] [participant13]  Ja, dit kan nog eventueel, maar ik vind de verschillende poppings gewoon niet interessant genoeg.
+[00:39:018.32 --> 00:39:020.88] [participant13]  Dit zou ik niet toevoegen.
+[00:39:021.12 --> 00:39:022.48] [participant13]  Oké, ja.
+[00:39:022.90 --> 00:39:028.18] [participant13]  En ik snap dat dat voor ontwikkelaars of voor mensen die ermee bezig zijn natuurlijk juist het leukste is,
+[00:39:028.28 --> 00:39:030.04] [participant13]  want dan maak je iets visueel.
+[00:39:030.20 --> 00:39:030.60] [participant13]  Ja, ja.
+[00:39:031.24 --> 00:39:035.88] [participant13]  Maar de praktische bruikbaarheid van dit soort dingen vind ik persoonlijk altijd net wat minder.
+[00:39:017.37 --> 00:39:017.63] [SPEAKER_03]  M-hm.
+[00:39:022.33 --> 00:39:022.53] [SPEAKER_02]  Ja.
+[00:39:022.50 --> 00:39:022.62] [SPEAKER_03]  Oké.
+[00:39:036.05 --> 00:39:041.11] [SPEAKER_02]  Oké, ja, dus het is fijner om gewoon inderdaad dat tekstje te hebben en de rest, dat doet er eigenlijk niet toe.
+[00:39:041.71 --> 00:39:042.99] [SPEAKER_02]  Die tekst is voldoende.
+[00:39:043.41 --> 00:39:046.95] [SPEAKER_02]  Oké, ja, nee duidelijk, ook dat is fijn om te weten.
+[00:39:048.35 --> 00:39:053.11] [SPEAKER_02]  Oké, ja, dan kun je nu dus weer rechtsbovenop klaar drukken en dan slaat hij alle gegevens.
+[00:39:043.53 --> 00:39:043.91] [SPEAKER_03]  Oké, ja.
+[00:39:043.95 --> 00:39:044.55] [Roan]  Ja, dat klopt.
+[00:39:048.29 --> 00:39:049.05] [Roan]  Uhm, oké, ja, dat kun je...
+[00:39:052.87 --> 00:39:056.63] [participant13]  Wat gebeurt er als ik die naar bedrijfsweer ga verzetten?
+[00:39:056.62 --> 00:40:000.22] [SPEAKER_02]  Ja, je kan erop klikken, het maakt niks kapot.
+[00:40:000.78 --> 00:40:007.18] [SPEAKER_02]  Hier dan laat hij het dus zien vanuit de kant van het bedrijf bedacht, want bijvoorbeeld
+[00:40:007.18 --> 00:40:010.90] [SPEAKER_02]  het kan zijn, ja in dit geval stond het er niet tussen, maar als er bijvoorbeeld een
+[00:40:010.90 --> 00:40:016.28] [SPEAKER_02]  salaris eis zou zijn van een kandidaat ofzo, dan kan een goede uitleg voor de kandidaat
+[00:40:016.28 --> 00:40:020.72] [SPEAKER_02]  zijn, hé, je krijgt het juiste salaris, maar je kan niet vervolgens tegen het bedrijf zeggen,
+[00:40:021.24 --> 00:40:024.42] [SPEAKER_02]  je moet deze persoon dit salaris betalen, dus daarom is het een goede match.
+[00:40:024.42 --> 00:40:030.88] [SPEAKER_02]  Dus vandaar dat je de twee kanten hebt waar hij dus mogelijk andere dingen belangrijk
+[00:40:031.62 --> 00:40:032.62] [SPEAKER_02]  kan aanvinken.
+[00:40:034.26 --> 00:40:037.76] [SPEAKER_02]  Maar ja, in dit geval was dat dus niet heel relevant.
+[00:40:038.00 --> 00:40:042.62] [SPEAKER_02]  Oké, zoals er staat, einde van het experiment en de resultaten zijn opgeslagen.
+[00:40:044.28 --> 00:40:048.92] [SPEAKER_02]  Ja, nee, hartstikke bedankt, hartstikke fijn om feedback te krijgen.
+[00:40:049.94 --> 00:40:053.48] [SPEAKER_02]  Ja, bedankt dus daarvoor.
+[00:40:050.33 --> 00:40:050.85] [SPEAKER_03]  Ja, nee.
+[00:40:052.17 --> 00:40:053.47] [SPEAKER_03]  Bedankt, daarvoor.
+[00:40:054.59 --> 00:41:010.03] [participant13]  Ja, dat is heel graag gedaan. Ik neem aan dat jullie dit verder gaan ontwikkelen. Ik had het idee dat het met name over een tool ging die via video-opnames kon bepalen of kandidaten eventueel tijdens een interview de juiste indruk maken.
+[00:41:010.55 --> 00:41:016.71] [participant13]  Maar dat is niet aan de orde. Het is voornamelijk nu op basis van AI-teksten die geschreend worden, zeg maar.
+[00:41:016.84 --> 00:41:025.78] [SPEAKER_02]  Ja, het gaat vooral over tekstverwerking, inderdaad, dus data uit cv's halen en aan de hand daarvan.
+[00:41:026.12 --> 00:41:033.30] [SPEAKER_02]  Maar ja, op basis van een interview of een sollicitatiegesprek aan de hand daarvan een voorspelling maken,
+[00:41:033.38 --> 00:41:036.58] [SPEAKER_02]  dat zou eigenlijk ook een heel interessant onderzoeksrichting zijn.
+[00:41:036.68 --> 00:41:040.38] [SPEAKER_02]  Maar ja, daar zijn we niet mee bezig, maar dat is wel een interessant vervolgonderzoek misschien.
+[00:41:026.26 --> 00:41:027.00] [Roan]  Maar ja, het was...
+[00:41:040.77 --> 00:41:043.15] [participant13]  Ik weet dat jullie collega's dat volgens mij doen.
+[00:41:043.37 --> 00:41:047.99] [participant13]  Dan zou je aan Bas moeten vragen, maar ik heb ooit daar een gesprek met hen over gehad.
+[00:41:048.07 --> 00:41:050.15] [participant13]  Ik denk een jaar of anderhalf geleden ofzo.
+[00:41:050.32 --> 00:41:050.56] [SPEAKER_03]  Ja.
+[00:41:052.05 --> 00:41:059.57] [participant13]  Maar ja, kijk maar. Voor jouw onderzoek of voor jullie onderzoek is het interessant om ook naar andere modellen te kijken.
+[00:42:000.13 --> 00:42:006.03] [participant13]  Wij werken bijvoorbeeld met een database die halen wij bij OTIS, dat is O-T-X-I-S.
+[00:42:006.10 --> 00:42:006.38] [SPEAKER_03]  M-hm.
+[00:42:007.32 --> 00:42:012.12] [participant13]  Ik weet niet of jij die kent, Autos Recruitment, die werken met een autonomy-sort.
+[00:42:012.53 --> 00:42:015.69] [SPEAKER_02]  Ja, dus dat moet je aan het begin vermelden.
+[00:42:016.19 --> 00:42:022.51] [SPEAKER_02]  Ja, het is in principe handig om bij anderen, want wij hebben het vooral in samenwerking gedaan met Randstad, de Randstad Groep Nederland.
+[00:42:023.13 --> 00:42:031.93] [SPEAKER_02]  Dus wij hebben het een beetje op basis van wat zij als standaard gebruikte, hebben het ontworpen.
+[00:42:032.35 --> 00:42:040.57] [SPEAKER_02]  Maar ja, nee, het is inderdaad fijn om ook andere inzichten te krijgen, want ja, natuurlijk wat Randstad doet is niet per se de goede oplossing.
+[00:42:042.63 --> 00:42:043.23] [SPEAKER_02]  Dus ja, nee, dat is het.
+[00:42:043.23 --> 00:42:043.49] [SPEAKER_02]  Ja, dat is het.
+[00:42:015.60 --> 00:42:015.74] [participant13]  Ja.
+[00:42:015.84 --> 00:42:016.90] [Roan]  Ja, het is...
+[00:42:042.97 --> 00:42:047.99] [participant13]  Nee, want ik denk dat de vraag die je moet stellen natuurlijk is hoe praktisch en zetbaar
+[00:42:047.99 --> 00:42:052.83] [participant13]  is dit en ga je dit als los systeem ergens neerzetten of ga je dit incorporeren in een
+[00:42:052.83 --> 00:42:056.17] [participant13]  reeds bestaande mortude, zeg maar.
+[00:42:056.57 --> 00:43:006.30] [SPEAKER_02]  Ja, dat is in principe het eindelijke doel zou moeten zijn om bestaande modellen uitlegbaar
+[00:43:006.30 --> 00:43:007.05] [SPEAKER_02]  te kunnen maken.
+[00:43:007.16 --> 00:43:011.26] [SPEAKER_02]  Dus dat hij in plaats van dat hij gewoon zegt dit is een match van 74% dat hij ook erbij
+[00:43:011.26 --> 00:43:014.68] [SPEAKER_02]  kan geven waarom het model dat heeft verspeld.
+[00:43:015.53 --> 00:43:017.28] [SPEAKER_02]  Maar ja, dat zou je voor verschillende dingen moeten doen.
+[00:43:015.49 --> 00:43:022.17] [participant13]  Je zou dat eigenlijk dusdanig moeten uitwerken, opzetten en koppelen aan LinkedIn.
+[00:43:023.33 --> 00:43:028.47] [participant13]  Omdat steeds meer recruiters gebruiken LinkedIn om matches te maken.
+[00:43:028.69 --> 00:43:035.01] [participant13]  En ik weet dat veel recruiters die niet specifiek uit een bepaald vakgebied komen, maar wel daarin werken,
+[00:43:035.19 --> 00:43:038.03] [participant13]  het heel moeilijk vinden om de oordelen te horen.
+[00:43:038.15 --> 00:43:043.19] [participant13]  Hoe zwaar dat een profiel wel of niet matcht, of een kandidaat wel of niet matcht met het profiel dat ze zoeken.
+[00:43:043.19 --> 00:43:047.65] [participant13]  En als je dan dit als tussenoplossing kunt aanbieden, dan heb je wel wat om te verkopen natuurlijk.
+[00:43:047.93 --> 00:43:052.69] [SPEAKER_02]  Ja, oké, nee, dat is een goeie. We hebben al een tijdje geleden gekeken om met LinkedIn samen te werken,
+[00:43:053.07 --> 00:43:058.97] [SPEAKER_02]  maar die hadden op dat moment dat er geen onderzoekssamenwerkingen vrij waren.
+[00:43:059.89 --> 00:44:005.05] [SPEAKER_02]  Maar ja, mocht er eentje vrij komen, dan is dat zeker inderdaad een goeie om te weten.
+[00:44:005.11 --> 00:44:009.85] [SPEAKER_02]  Want ik wist niet dat LinkedIn nu zo veel gebruikt werd.
+[00:44:011.08 --> 00:44:013.82] [participant13]  Ja, volgens mij wel, steeds meer.
+[00:44:014.14 --> 00:44:014.66] [participant13]  Oké, ja.
+[00:44:015.24 --> 00:44:022.70] [participant13]  En wat LinkedIn ook doet, is ze verkopen eigenlijk recruiterseats aan bedrijven, waardoor bedrijven
+[00:44:022.70 --> 00:44:026.50] [participant13]  die LinkedIn gebruiken om te zoeken naar kandidaten, dat die steeds meer...
+[00:44:011.26 --> 00:44:011.34] [SPEAKER_03]  Ja.
+[00:44:014.47 --> 00:44:014.61] [SPEAKER_03]  Ja.
+[00:44:028.26 --> 00:44:033.72] [participant13]  Mogelijkheden hebben binnen hun zoekresultaten, sneller contactgegevens, meer matches per search,
+[00:44:034.16 --> 00:44:039.24] [participant13]  niet enkel in je eerste netwerk, eerste lijnsnetwerk, maar ook in je tweede of derde lijnsnetwerk.
+[00:44:039.68 --> 00:44:045.30] [participant13]  Dat soort trucjes zijn natuurlijk verkooptrucjes allemaal, want ze schermen eigenlijk gewoon steeds meer af.
+[00:44:045.40 --> 00:44:047.96] [participant13]  En als je wil blijven doen wat je al deed, dan moet je daarvoor gaan betalen.
+[00:44:048.09 --> 00:44:048.66] [SPEAKER_02]  Ja, precies.
+[00:44:049.31 --> 00:44:051.21] [participant13]  Maar het wordt wel veelzijdig gebruikt.
+[00:44:051.83 --> 00:45:000.33] [SPEAKER_02]  Oké, nee, dat is zeker een goede en inderdaad daarin recruiters kunnen helpen, dat zou natuurlijk ideaal zijn.
+[00:45:001.59 --> 00:45:002.11] [SPEAKER_02]  Maar dat is een goede.
+[00:45:003.83 --> 00:45:004.45] [SPEAKER_02]  Oké, ja.
+[00:45:004.59 --> 00:45:006.13] [SPEAKER_02]  Succes. Succes ermee.
+[00:45:006.23 --> 00:45:008.83] [SPEAKER_02]  Hartstikke bedankt en fijne avond nog.
+[00:45:001.15 --> 00:45:001.41] [participant13]  Ja.
+[00:45:004.22 --> 00:45:005.04] [participant13]  Ja, succes.
+[00:45:005.18 --> 00:45:005.90] [participant13]  Ja, succes.
+[00:45:005.90 --> 00:45:005.90] [participant13] 
+[00:45:009.84 --> 00:45:015.62] [participant13]  Dankjewel, voor jou hetzelfde. Komt er nog een vervolg op of gaan we nog een keer iets van jullie horen of hoe gaan we verder?
+[00:45:015.79 --> 00:45:020.25] [SPEAKER_02]  Ja, in principe zijn we nu dus bezig met een paper schrijven.
+[00:45:020.37 --> 00:45:025.79] [SPEAKER_02]  We zijn nog op zoek naar recruiters en bedrijfsvertegenwoordigers om te interviewen,
+[00:45:025.85 --> 00:45:028.73] [SPEAKER_02]  want we willen in principe van die drie stakeholder types aan het begin,
+[00:45:028.75 --> 00:45:034.21] [SPEAKER_02]  willen we er allemaal tien geïnterviewd hebben om een duidelijk, een breed beeld te hebben.
+[00:45:035.07 --> 00:45:039.73] [SPEAKER_02]  Maar zodra dat klaar is, dan gaan we een paper schrijven en dan wordt die gepubliceerd.
+[00:45:040.11 --> 00:45:044.69] [SPEAKER_02]  Dus als je daar interesse in hebt, dan kan ik die zodra die online staat naar je mailen.
+[00:45:045.61 --> 00:45:045.77] [participant13]  Ja.
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:045.81 --> 00:45:045.81] [SPEAKER_03] 
+[00:45:046.88 --> 00:45:050.22] [participant13]  Dat is goed, hou maar een beetje contact, dat lijkt me wel leuk.
+[00:45:050.37 --> 00:45:055.01] [SPEAKER_02]  Allright, en als je nog collega's hebt die misschien mee willen doen met het onderzoek,
+[00:45:055.17 --> 00:45:059.97] [SPEAKER_02]  dan voel je je dan vrij om de mail met data naar ze door te sturen ofzo.
+[00:46:000.17 --> 00:46:002.79] [SPEAKER_02]  Wij kunnen altijd meer deelnemers gebruiken.
+[00:46:003.23 --> 00:46:003.67] [SPEAKER_02]  Dus ja.
+[00:46:003.87 --> 00:46:005.41] [SPEAKER_02]  Is goed, ik zal er wel wat naar denken.
+[00:46:005.47 --> 00:46:006.99] [SPEAKER_02]  Allright, top, hartstikke bedankt.
+[00:46:007.07 --> 00:46:007.47] [SPEAKER_02]  Nou, terug!
+[00:46:008.70 --> 00:46:009.00] [SPEAKER_03]  Tot zo.

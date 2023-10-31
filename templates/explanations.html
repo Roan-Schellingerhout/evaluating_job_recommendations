@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dashboard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/static/favico.ico">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/style.css">
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../static/script.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/vis-network@9.1.6/dist/vis-network.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="/"><img src="../static/pngegg.png" width="35em" height="35em"></a>
+      </div>
+      <!-- <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#" class="active">Dashboard</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav> -->
+      {% if direction == 'recruiter' %}
+      <div class="graph-switch recruiter">
+        Kandidaatweergave
+        <label class="toggle-switch-big">
+          <input type="checkbox" class="direction-switch" data-target="direction">
+          <span class="toggle-slider-big" style="margin: 0px !important;"></span>
+        </label>
+        Bedrijfsweergave
+      </div>
+      {% else %}
+      <div class="graph-switch recruiter" style="display: none !important;">
+        Kandidaatweergave
+        <label class="toggle-switch">
+          <input type="checkbox" class="direction-switch" data-target="direction">
+          <span class="toggle-slider" style="margin: 0px !important;"></span>
+        </label>
+        Bedrijfsweergave
+      </div>  
+      {% endif %}
+      <div>
+        <form method="POST" action="/debrief.html">
+          <input class="btn btn-success submit_btn" type="submit" name="button" id="submit_button" value="Klaar">
+        </form>
+      </div>
+    </header>
+    
+    <div class="split">
+      <div class="legend">
+        <div class="legend_text"><div class="box green"></div> &nbsp; Vacatures</div>
+        <div class="legend_text"><div class="box yellow"></div> &nbsp; Vacature types</div>
+        <div class="legend_text"><div class="box pink"></div> &nbsp; Kandidaten</div>
+      </div>
+    <div class="hero">
+
+        <div class="child">
+          <div class="list">
+            
+            <div class="commentloop">
+              {% for i in list_items %}
+                  <div class="commentwrap">
+                    <button class="votecomment" onclick="update_obj('{{ i }}')" value="'{{ i }}'">
+                      {{ i }}
+                    </button>
+                  </div>
+              {% endfor %}
+            </div>
+
+          </div>
+        </div>
+
+      <div class="child2">
+      <h2>Dashboard</h2>
+      <div class="toggle-buttons">
+        {% if direction != 'bedrijf' %}
+          <label class="disabled"><input type="checkbox" class="toggle" data-target="text1" checked>Tekst</label>
+          <label><input type="checkbox" class="toggle" data-target="graph1" id="graph1c">Grafiek</label>
+          <label><input type="checkbox" class="toggle" data-target="graph2" id="graph2c">Netwerk</label>
+        {% else %}
+          <label class="disabled"><input type="checkbox" class="toggle" data-target="graph2" id="graph2c" checked>Netwerk</label>
+          <label><input type="checkbox" class="toggle" data-target="text1" id="text_1">Tekst</label>
+          <label><input type="checkbox" class="toggle" data-target="graph1" id="graph1c">Grafiek</label>
+        {% endif %}
+
+        
+      </div>
+      <div class="graph-container">
+        
+      
+        {% if direction != "bedrijf" %}
+          <div class="text top" id="text1">
+            <div class="graph-switch">
+              {% if direction == 'recruiter' %}
+                <label class="toggle-switch">
+                  <input type="checkbox" class="view-switch" data-target="text" id="text_checked" checked>
+                  <span class="toggle-slider" style="margin: 0px !important;"></span>
+                </label>
+              {% else %}
+                <label class="toggle-switch">
+                  <input type="checkbox" class="view-switch" data-target="text" id="text_checked">
+                  <span class="toggle-slider" style="margin: 0px !important;"></span>
+                </label>
+              {% endif %}
+              Volledige weergave
+            </div>
+            <div id="actual_text">
+            </div>
+          </div>
+
+          <div class="graph_1 top full-view" id="graph1">
+            <div class="graph-switch" style="margin-bottom: -2.5rem;">
+              <label class="toggle-switch">
+                <input type="checkbox" class="view-switch" data-target="graph1" id="graph_1_checked" checked>
+                <span class="toggle-slider" style="margin: 0px !important;"></span>
+              </label>
+              Volledige weergave
+            </div>
+            <div id="title"></div>
+            <canvas id="graph_1" class="graph_1_canvas"></canvas>
+
+            <p id="desc_1">De lengte van de balken in de bovenstaande grafiek geeft aan hoe belangrijk het bijbehorende item is geweest voor de voorspelling. 
+                           Als er bijvoorbeeld een grote balk staat bij een kandidaat, kan dat betekenen dat die kandidaat veel lijkt op de huidige kandidaat, en daarom veel invloed heeft gehad op de voorspelling.</p>
+          </div>
+
+          <div class="graph_2" id="graph2">
+            <div class="graph-switch" style="margin-bottom: -2.5rem;">
+              <label class="toggle-switch">
+                <input type="checkbox" class="view-switch" data-target="graph2" id="graph_2_checked">
+                <span class="toggle-slider" style="margin: 0px !important;"></span>
+              </label>
+              Volledige weergave
+            </div>
+            
+            <div id="title_2"><b>Een grafische weergave van de denkwijze van het model:</b></div>
+
+            <div id="graph2_holder" style="height: 25rem;"></div>
+
+            <p id="desc_2">Deze grafiek geeft aan welke verbinding tussen de kandidaat en vacature het belangrijkst waren voor de voorspelling. Het dikste pad is het belangrijkst, en het dunste pad het minst belangrijk.
+              Als er bijvoorbeeld een pad loopt van de kandidaat, naar een bedrijf, naar de aanbevolen vacature, kan dat betekenen dat de vacature is aanbevolen vanwege het feit dat de kandidaat in het verleden al bij dit bedrijf heeft gewerkt.</p>
+          </div>
+        </div>
+
+      {% else %}
+        <div class="graph_2 top" id="graph2">
+          <div class="graph-switch" style="margin-bottom: -2.5rem;">
+            <label class="toggle-switch">
+              <input type="checkbox" class="view-switch" data-target="graph2" id="graph_2_checked">
+              <span class="toggle-slider" style="margin: 0px !important;"></span>
+            </label>
+            Volledige weergave
+          </div>
+          
+          <div id="title_2"><b>Een grafische weergave van de denkwijze van het model:</b></div>
+
+          <div id="graph2_holder" style="height: 25rem;"></div>
+
+          <p id="desc_2">Dit netwerk geeft aan welke verbinding tussen de vacature en kandidaat het belangrijkst waren voor de voorspelling. Het dikste pad is het belangrijkst, en het dunste pad het minst belangrijk.
+                         Als er bijvoorbeeld een pad loopt van de vacature, naar een sector, naar de aanbevolen kandidaat, kan dat betekenen dat de kandidaat is aanbevolen vanwege diens ervaring in de relevante sector. <br><br> Hover over de items in het netwerk om extra informatie, zoals CVs en beschrijvingen, weer te geven.
+          </p>
+        </div>
+
+        <div class="text" id="text1">
+          <div class="graph-switch">
+            <label class="toggle-switch">
+              <input type="checkbox" class="view-switch" data-target="text" id="text_checked">
+              <span class="toggle-slider" style="margin: 0px !important;"></span>
+            </label>
+            Volledige weergave
+          </div>
+          <div id="actual_text">
+          </div>
+        </div>
+
+        <div class="graph_1 full-view" id="graph1">
+          <div class="graph-switch" style="margin-bottom: -3rem;">
+            <label class="toggle-switch">
+              <input type="checkbox" class="view-switch" data-target="graph1" id="graph_1_checked" checked>
+              <span class="toggle-slider" style="margin: 0px !important;"></span>
+            </label>
+            Volledige weergave
+        </div>
+        <div id="title"></div>
+        <canvas id="graph_1" class="graph_1_canvas"></canvas>
+
+        <p id="desc_1"></p>
+      </div>
+    {% endif %}
+    
+
+    </div>
+
+    <div id="networkJSON-results" class="results" style="display:none"></div>
+
+    <div id="obj_storage" style="display:none">{{start_data}}</div>
+
+    <div id="direction-store" class="results" style="display:none">
+      {%- if direction == "recruiter" -%}
+        kandidaat
+      {%- else -%}
+        {{direction|safe}}
+      {%- endif -%}
+    </div>
+
+    <script type="text/javascript">
+      // Get the checkboxes and the target div
+
+      var dir = document.getElementById("direction-store").textContent;
+
+      const checkbox = document.querySelector('#graph2c');
+      const checkbox2 = document.querySelector("#graph_2_checked");     
+
+      // Add event listeners to the checkboxes
+      checkbox.addEventListener('change', updateMargin);
+      checkbox2.addEventListener('change', updateMargin);
+
+      if (dir == "bedrijf"){
+        const checkbox = document.querySelector("#graph1c");
+        const checkbox2 = document.querySelector("#text_1");
+
+        // Add event listeners to the checkboxes
+        checkbox.addEventListener('change', updateMargin);
+        checkbox2.addEventListener('change', updateMargin);
+      }
+
+      const childDiv = document.querySelector('.child2');
+
+      // Function to update the margin
+      function updateMargin() {
+        // Check if at least one checkbox is checked
+        if (checkbox.checked || checkbox2.checked) {
+          // Add the margin-top property to the child div      
+          // if (window.screen.width * window.devicePixelRatio <= 1400) {
+          //   childDiv.style.marginTop = '50em';
+          // }
+          // else if (window.screen.width * window.devicePixelRatio <= 1920) {
+          //   childDiv.style.marginTop = '25em';
+          // } else {
+          //   childDiv.style.marginTop = '10em';
+          // }
+
+          var resolution = window.innerWidth * window.devicePixelRatio;
+
+          console.log(resolution);
+
+          // childDiv.style.marginTop = '25%'; //String((10000 / resolution)**(1/2) * 15) + 'em';
+
+        } else {
+          // Remove the margin-top property from the child div
+          childDiv.style.marginTop = '';
+        }
+      }
+    </script>
+
+    <script type="text/javascript">
+      $(".direction-switch").on("change", function() {
+        var current = document.getElementById("direction-store").textContent;
+
+        if (current == "recruiter") {
+          current = "kandidaat"
+        };
+        
+        if (current == "kandidaat"){
+          document.getElementById("direction-store").innerHTML = "bedrijf";
+          switch_bars(document.getElementById("graph_1_checked").checked);
+          switch_graph(document.getElementById("graph_2_checked").checked);
+          switch_text(document.getElementById("text_checked").checked);
+        } 
+        else {
+          document.getElementById("direction-store").innerHTML = "kandidaat"
+          switch_bars(document.getElementById("graph_1_checked").checked);
+          switch_graph(document.getElementById("graph_2_checked").checked);
+          switch_text(document.getElementById("text_checked").checked);
+        }
+      });
+    </script>
+
+    <script type="text/javascript">
+      $(".view-switch").on("change", function() {
+        var target = $(this).data("target");
+        
+        // $("#" + target).addClass("full-view");
+
+        if (target == "graph1"){
+          switch_bars(this.checked);
+        } 
+        else if (target == "graph2"){
+          switch_graph(this.checked);
+        }
+        else {
+          switch_text(this.checked);
+        }
+      });
+    </script>
+
+    
+    <script type="text/javascript">
+      var network = null;
+      
+      // document.getElementById('graph_1_checked').checked = true;
+      // document.getElementById('graph_2_checked').checked = false;
+      
+      update_obj(document.getElementById("obj_storage").textContent);
+      button_color(document.getElementById("obj_storage").textContent);
+
+      function button_color(obj) {
+        var buttons = document.querySelectorAll(".votecomment");
+
+        buttons.forEach(function(item) {
+          if (item.value == "'" + String(obj) + "'"){
+            item.style.backgroundColor = "#28a745";       
+            item.style.color = "white";      
+          }
+          else {
+            item.style.backgroundColor = "white";
+            item.style.color = "black";
+          }
+        });
+      };
+      
+      function update_obj(obj) {
+        
+        document.getElementById("obj_storage").innerHTML = obj;
+        document.getElementById("submit_button").setAttribute("name", obj);
+        network = switch_graph(document.getElementById('graph_2_checked').checked);
+
+        network.stabilize();
+
+        switch_bars(document.getElementById('graph_1_checked').checked);
+        switch_text(document.getElementById('text_checked').checked);
+        
+        button_color(obj);
+        // store all data in a json contained in this function
+        // the `obj` variable determines which explanation is shown
+        // forward value of that key to the other functions
+      };
+           
+      function switch_graph(full) {
+
+          var obj = document.getElementById('obj_storage').textContent;
+          var graph = {{graph|safe}}
+          var graph_alt = {{graph_alt|safe}}
+          var dir = document.getElementById("direction-store").textContent;
+
+          // console.log(graph["Chris de Vries"][String(obj)]["simple"]);
+
+          var control = '{{direction}}'
+
+          if (control != 'recruiter') {
+
+            // On the candidate-side, we lock the candidate, and show different jobs
+            if (dir != "bedrijf") {
+              var nodes_1 = new vis.DataSet(graph["Chris de Vries"][String(obj)]["full"].nodes);
+              var edges_1 = new vis.DataSet(graph["Chris de Vries"][String(obj)]["full"].links);
+
+              var nodes_2 = new vis.DataSet(graph["Chris de Vries"][String(obj)]["simple"].nodes);
+              var edges_2 = new vis.DataSet(graph["Chris de Vries"][String(obj)]["simple"].links);
+            }
+            else { // On the company-side, we lock the job, and show different candidates
+              var nodes_3 = new vis.DataSet(graph["Personeelsassistent, Aydco"][String(obj)]["full"].nodes);
+              var edges_3 = new vis.DataSet(graph["Personeelsassistent, Aydco"][String(obj)]["full"].links);
+
+              var nodes_4 = new vis.DataSet(graph["Personeelsassistent, Aydco"][String(obj)]["simple"].nodes);
+              var edges_4 = new vis.DataSet(graph["Personeelsassistent, Aydco"][String(obj)]["simple"].links);
+            }
+          }
+          else { // In the case of the recruiter, there is an additional graph (company-side)           
+            var nodes_1 = new vis.DataSet(graph[String(obj)]["Personeelsassistent, Aydco"]["full"].nodes);
+            var edges_1 = new vis.DataSet(graph[String(obj)]["Personeelsassistent, Aydco"]["full"].links);
+
+            var nodes_2 = new vis.DataSet(graph[String(obj)]["Personeelsassistent, Aydco"]["simple"].nodes);
+            var edges_2 = new vis.DataSet(graph[String(obj)]["Personeelsassistent, Aydco"]["simple"].links);
+
+            var nodes_3 = new vis.DataSet(graph_alt["Personeelsassistent, Aydco"][String(obj)]["full"].nodes);
+            var edges_3 = new vis.DataSet(graph_alt["Personeelsassistent, Aydco"][String(obj)]["full"].links);
+
+            var nodes_4 = new vis.DataSet(graph_alt["Personeelsassistent, Aydco"][String(obj)]["simple"].nodes);
+            var edges_4 = new vis.DataSet(graph_alt["Personeelsassistent, Aydco"][String(obj)]["simple"].links);
+          }
+
+          var container = document.getElementById('graph2_holder');
+
+          var options = {
+          edges: {
+            scaling: {min: 3.5},
+            arrows: {
+              to: {enabled: true, scaleFactor:1, type:'arrow'}
+            },
+            arrowStrikethrough: false,
+            chosen: true,
+            color: {
+              color:'#575757',
+              highlight:'#9696ff',
+              hover: '#adc6c9',
+              inherit: 'from',
+              opacity:1.0
+            },
+            dashes: false,
+            font: {
+              color: '#343434',
+              size: 20, // px
+              face: 'arial',
+              background: 'none',
+              strokeWidth: 2, // px
+              strokeColor: '#ffffff',
+              align: 'horizontal',
+              multi: false,
+              vadjust: 0,
+              bold: {
+                color: '#343434',
+                size: 14, // px
+                face: 'arial',
+                vadjust: 0,
+                mod: 'bold'
+              },
+              ital: {
+                color: '#343434',
+                size: 14, // px
+                face: 'arial',
+                vadjust: 0,
+                mod: 'italic'
+              },
+              boldital: {
+                color: '#343434',
+                size: 14, // px
+                face: 'arial',
+                vadjust: 0,
+                mod: 'bold italic'
+              },
+              mono: {
+                color: '#343434',
+                size: 15, // px
+                face: 'courier new',
+                vadjust: 2,
+                mod: ''
+              }
+            }
+          },
+          layout: {
+            improvedLayout: true,
+            hierarchical: {
+              enabled: true,
+              levelSeparation: 310,
+              nodeSpacing: 250,
+              treeSpacing: 575,
+              blockShifting: true,
+              edgeMinimization: true,
+              parentCentralization: true,
+              direction: "LR",
+              sortMethod: "directed",
+              shakeTowards: "roots"
+            }
+          },
+          configure: {
+            enabled: false,
+            filter: 'physics, layout',
+            showButton: true
+          },
+          nodes: {
+            shape: 'dot'
+          },
+          physics: {
+            enabled: true,
+            hierarchicalRepulsion: {
+              centralGravity: 4.25,
+              springLength: 375,
+              springConstant: 0.5,
+              nodeDistance: 200,
+              damping: 1,
+              avoidOverlap: 1
+            },
+            maxVelocity: 50,
+            minVelocity: 0.1,
+            solver: 'hierarchicalRepulsion',
+            stabilization: {
+              enabled: true,
+              iterations: 100000,
+              updateInterval: 50,
+              // onlyDynamicEdges: true,
+              fit: true
+            },
+            timestep: 0.5,
+            adaptiveTimestep: true
+          }
+        };
+
+          network = new vis.Network(container, {nodes: nodes_2, edges: edges_2}, options);
+
+          var title = document.getElementById("title_2");
+          var desc = document.getElementById("desc_2");
+
+          var dir = document.getElementById("direction-store").textContent;
+          var company = dir == "bedrijf";
+
+          if (dir == "bedrijf"){
+            var company = true;
+          }
+          else {
+            var company = false;
+          }
+
+          if(!company && full){
+            network.setData({nodes: nodes_1, edges: edges_1});
+            network.setOptions(options);
+          } 
+          else if (!company && !full){
+            network.setData({nodes: nodes_2, edges: edges_2});
+            network.setOptions(options);
+          }
+          else if (company && full) {
+            network.setData({nodes: nodes_3, edges: edges_3});
+            network.setOptions(options);
+          }
+          else {
+            network.setData({nodes: nodes_4, edges: edges_4});
+            network.setOptions(options);
+          }
+
+          network.stabilize();
+          return network;
+        };
+
+      // switch_bars(true); // Full view is on by default
+
+      function switch_bars(full) {
+        var title = document.getElementById("title");
+        var desc = document.getElementById("desc_1");
+        var obj = document.getElementById('obj_storage').textContent;
+        var dir = document.getElementById("direction-store").textContent;
+
+        var data = {{ data|safe }}
+
+        var control = '{{direction}}'
+
+        if (control != 'recruiter') {
+
+            // console.log(graph[String(obj)]["j147542"]);
+
+            // On the candidate-side, we lock the candidate, and show different jobs
+            if (dir != "bedrijf") {
+              current = data["Chris de Vries"][String(obj)]
+
+              if (full) { 
+                data = current["full"]
+              } else {
+                data = current["simple"]
+              }
+            }
+            else { // On the company-side, we lock the job, and show different candidates            
+              current = data["Personeelsassistent, Aydco"][String(obj)]
+
+              if (full) { 
+                data = current["full"]
+              } else {
+                data = current["simple"]
+              }
+            }
+          }
+          else { // In the case of the recruiter, there is an additional graph (company-side)
+            
+            if (dir == "candidate") {
+              current = data[String(obj)]["Personeelsassistent, Aydco"] // candidate
+
+              if (full) { 
+                data = current["full"]
+              } else {
+                data = current["simple"]
+              }
+
+            } else {
+              current = data["Personeelsassistent, Aydco"][String(obj)] // company
+
+              if (full) { 
+                data = current["full"]
+              } else {
+                data = current["simple"]
+              }
+            }
+          }
+
+        data["bg_data"] = [];
+
+        data["cdata"].forEach(function (item, index) {
+          data["bg_data"][index] = item + "44"
+        });
+
+        // full candidate
+        if(dir == "candidate"){
+
+          const ctx = document.getElementById("graph_1");
+
+          title.innerHTML = "<h5>Exacte bijdrage van verschillende <br> eigenschappen aan de voorspelling:</h5>"
+          desc.innerHTML = "De lengte van de balken in de bovenstaande grafiek geeft aan hoe belangrijk het bijbehorende item is geweest voor de voorspelling. Als er bijvoorbeeld een grote balk staat bij een kandidaat, kan dat betekenen dat die kandidaat veel lijkt op de huidige kandidaat, en daarom veel invloed heeft gehad op de voorspelling."
+
+          var lgd = document.querySelectorAll(".legend_text");    
+          lgd.forEach(function(item) { 
+            item.style.display = "block";
+          });
+
+          let chartStatus = Chart.getChart("graph_1"); 
+          if (chartStatus != undefined) {
+            chartStatus.destroy();
+          }
+
+          new Chart(ctx, {
+              type: "bar",
+              data: {
+                  labels: data["xdata"],
+                  datasets: [{
+                    label: "Belangrijkheid",
+                    data: data["ydata"],
+                    backgroundColor: data["bg_data"],
+                    borderColor: data["cdata"]
+                  }],
+                  
+              },
+              options: {
+                plugins: {
+                  legend: {
+                    display: false,
+                  },
+                  title: {
+                    display: true,
+                    text: "Kandidaat-gerichte uitleg"
+                  }
+                },
+                indexAxis: 'y',
+                scales: {
+                  y: {
+                    ticks: {
+                      callback: function(value){
+                        if (this.getLabelForValue(value).length > 15){
+                          return this.getLabelForValue(value).substr(0, 15) + "...";
+                        }
+                        return this.getLabelForValue(value);
+                      }
+                    }
+                  },
+                  x: {
+                      max: 10,
+                      title: {
+                        display: true,
+                        text: "Bijdrage aan de voorspelling"
+                      }
+                    }
+                  },
+                  maxBarThickness: 50 * window.devicePixelRatio, // Set the maximum width of the bars to 50 pixels times the device's pixel ratio
+                  maxBarLength: 70 * window.devicePixelRatio // Set the maximum height of the bars to 100 pixels times the device's pixel ratio
+                }
+              });
+          }
+        // Simple candidate
+        else {
+          const ctx = document.getElementById("graph_1");
+
+          title.innerHTML = "<h5>Exacte bijdrage van verschillende <br> eigenschappen aan de voorspelling:</h5>"
+          desc.innerHTML = "De lengte van de balken in de bovenstaande grafiek geeft aan hoe belangrijk het bijbehorende item is geweest voor de voorspelling. Als er bijvoorbeeld een grote balk staat bij een kandidaat, kan dat betekenen dat die kandidaat veel lijkt op de huidige kandidaat, en daarom veel invloed heeft gehad op de voorspelling."
+
+          var lgd = document.querySelectorAll(".legend_text");    
+          lgd.forEach(function(item) { 
+            item.style.display = "block";
+          });
+
+          let chartStatus = Chart.getChart("graph_1"); 
+          if (chartStatus != undefined) {
+            chartStatus.destroy();
+          }
+
+          new Chart(ctx, {
+              type: "bar",
+              data: {
+                  labels: data["xdata"],
+                  datasets: [{
+                    label: "Belangrijkheid",
+                    data: data["ydata"],
+                    backgroundColor: data["bg_data"],
+                    borderColor: data["cdata"]
+                  }]
+              },
+              options: {
+                plugins: {
+                  legend: {
+                    display: false,
+                  },
+                  title: {
+                    display: true,
+                    text: "Bedrijf-gerichte uitleg"
+                  }
+                },
+                indexAxis: 'y',
+                scales: {
+                  y: {
+                    ticks: {
+                      callback: function(value){
+                        if (this.getLabelForValue(value).length > 15){
+                          return this.getLabelForValue(value).substr(0, 15) + "...";
+                        }
+                        return this.getLabelForValue(value);
+                      }
+                    }
+                  },
+                  x: {
+                      max: 10,
+                      title: {
+                        display: true,
+                        text: "Bijdrage aan de voorspelling"
+                      }
+                    }
+                  },
+                  maxBarThickness: 50 * window.devicePixelRatio, // Set the maximum width of the bars to 50 pixels times the device's pixel ratio
+                  maxBarLength: 70 * window.devicePixelRatio // Set the maximum height of the bars to 100 pixels times the device's pixel ratio
+                }
+              });
+        }
+      };
+
+
+
+    function switch_text(full) {
+    
+      var text_box = document.getElementById("actual_text");
+      var dir = document.getElementById("direction-store").textContent;
+      var obj = document.getElementById("obj_storage").textContent;
+      var text = {{text|safe}};
+      var setting = "{{setting}}";
+
+      var type = "full";
+
+      if (!full) {
+        var type = "simple";
+      }
+
+      text_box.innerHTML = text[String(obj)][String(setting)][String(type)];
+    }
+
+    if ("{{direction}}" == "recruiter") {
+      switch_text(true);
+    } else {
+      switch_text(false);
+    }
+
+
+// You have to explain the rationale behind an explanation generated by an XAI model to lay users, who are not necessarily technically inclined. I will give you the explanation for why the model determined a specific job (j62302) to be good match for a candidate (Chris de Vries). The explanation is based on a graph structure, which contains the following nodes and edges:
+
+
+// The edge values indicate how important the XAI model found the edge to be for the explanation. Base your explanation on the path(s) from the target user to the target job in their entirety. Please make sure to be as clear and accessible as possible. Do not refer to individual values or edges; instead, focus on full paths between the target user and job. Try to refrain from using graph-related words. I.e., explain it like how a more experienced person would explain it to someone who is quite new to the topic.
+
+// Your explanation should be in Dutch, and be a full text in completed sentences. Do not use bullet points or anything of the sorts. Be concrete and straight to the point, but not too direct. Format in HTML.
+
+
+
+    </script>
+
+    <script type="text/javascript">
+      // update_obj({{users|safe}}[0]);
+      const graph_2 = document.querySelector('#graph2_holder');
+      graph_2.addEventListener("mousedown", update_network);
+
+      const cb = document.querySelector('#graph2c');
+      cb.addEventListener('change', run_animation);
+
+      function run_animation(){
+        // network.setOptions({"layout": {"hierarchical": true}}); 
+        // network.setOptions({physics: {enabled : true}});
+        network.startSimulation();
+        network.stabilize();
+        network.fit();
+
+      };
+
+      function update_network(){
+        network.on("dragStart", function () {
+          network.stopSimulation();
+          network.setOptions({"layout": {"hierarchical": false}}); 
+          network.setOptions({physics: {enabled : false}});
+        });
+
+        // network.on("animationFinished", function () {
+        //   network.setOptions({physics: {enabled : true}});
+        //   network.fit();
+        // });
+      };
+    </script>
+
+
+  </body>
+</html>

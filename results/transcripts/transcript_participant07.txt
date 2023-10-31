@@ -1,0 +1,530 @@
+[00:00:003.61 --> 00:00:003.79] [Roan]  Hallo.
+[00:00:008.72 --> 00:00:009.50] [participant07]  Hallo.
+[00:00:009.82 --> 00:00:010.78] [participant07]  Hoi, goedemorgen.
+[00:00:011.32 --> 00:00:011.76] [participant07]  Welkom.
+[00:00:011.76 --> 00:00:011.78] [participant07]  Ja.
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.78 --> 00:00:011.78] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.80 --> 00:00:011.80] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.82] [participant07] 
+[00:00:011.82 --> 00:00:011.96] [participant07]  Ja.
+[00:00:011.96 --> 00:00:011.98] [participant07]  Ja.
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.98 --> 00:00:011.98] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:011.96 --> 00:00:011.96] [participant07] 
+[00:00:014.12 --> 00:00:015.86] [Roan]  Niet overkicken, we zijn er!
+[00:00:015.49 --> 00:00:017.39] [participant07]  Hallo, goedemorgen.
+[00:00:017.48 --> 00:00:018.24] [Roan]  Nee, ik hoor je niet.
+[00:00:019.86 --> 00:00:021.96] [Roan]  Ach, die is wel...
+[00:00:036.16 --> 00:00:036.34] [participant07]  Ja.
+[00:00:048.16 --> 00:00:049.98] [Roan]  Ja, kun je nog iets zeggen?
+[00:00:050.44 --> 00:00:051.60] [Roan]  Hallo? Ja, top.
+[00:00:052.06 --> 00:00:052.84] [Roan]  Fijn, tot morgen.
+[00:00:052.92 --> 00:00:054.40] [Roan]  Ik moet de instellingen aanpassen.
+[00:00:054.70 --> 00:00:055.60] [Roan]  Ja, geen probleem.
+[00:00:052.14 --> 00:00:052.84] [participant07]  Heel goed, zie je morgen.
+[00:00:054.44 --> 00:00:055.64] [participant07]  Ja, ja, geen probleem.
+[00:00:056.86 --> 00:00:057.94] [participant07]  Ja, hé, welkom.
+[00:00:058.36 --> 00:01:001.94] [participant07]  Ja, hartstikke bedankt dat je hebt aangegeven mee te willen doen met ons onderzoek.
+[00:01:002.52 --> 00:01:004.32] [participant07]  Ja, laten we maar meteen beginnen.
+[00:01:005.70 --> 00:01:009.34] [participant07]  Ik stuur in de chat een link naar een website.
+[00:01:009.44 --> 00:01:012.28] [participant07]  Als je die kan openen en dan je scherm kan delen.
+[00:01:012.38 --> 00:01:012.96] [participant07]  Ik zet even aan.
+[00:01:013.90 --> 00:01:014.66] [participant07]  Kan, zo.
+[00:00:056.99 --> 00:00:057.87] [Roan]  Ja, nee, welkom.
+[00:01:012.88 --> 00:01:013.22] [Roan]  Ja.
+[00:01:017.40 --> 00:01:017.68] [Roan]  Oké.
+[00:01:017.82 --> 00:01:025.74] [Roan]  O, hier, ja, share screen. Ja, sorry.
+[00:01:026.04 --> 00:01:027.94] [Roan]  Ik werk nooit met Zoom, dus ik moet even...
+[00:01:027.94 --> 00:01:028.56] [Roan]  Ah, oké, ja, ja, ja, dat is wel leuk.
+[00:01:030.26 --> 00:01:030.54] [Roan]  Deze.
+[00:01:031.08 --> 00:01:031.80] [Roan]  Kun je dit nu zien?
+[00:01:027.50 --> 00:01:028.20] [participant07]  Ah, oké, oké.
+[00:01:031.07 --> 00:01:031.83] [participant07]  Doe je dit nu zien?
+[00:01:032.63 --> 00:01:033.59] [participant07]  Nee, nog niet.
+[00:01:033.75 --> 00:01:036.51] [participant07]  Misschien mogen we nog even op confirm klikken of iets in die geest.
+[00:01:036.66 --> 00:01:038.74] [Roan]  Oh, dat zou kunnen. Ja, ik ook.
+[00:01:039.75 --> 00:01:042.11] [participant07]  Even kijken, hij is nu aan het laden. Ja, nu zie ik het.
+[00:01:042.33 --> 00:01:043.31] [participant07]  Ja, oké, oké.
+[00:01:043.55 --> 00:01:051.09] [participant07]  Ja, dit is dus de webomgeving. Bovenaan staan wat instructies die kort samenvatten wat de bedoeling zometeen is.
+[00:01:051.23 --> 00:01:056.25] [participant07]  Dus ja, lees die even door en als het nog niet helemaal duidelijk is, dan kan ik ook nog even verder wat uitleg geven.
+[00:01:056.95 --> 00:01:057.03] [participant07]  Ja.
+[00:01:057.27 --> 00:01:059.73] [participant07]  Maar ja, voor nu, lees dat eens even door en vul alles in.
+[00:01:056.93 --> 00:01:057.27] [Roan]  Het is dat ik zou willen.
+[00:02:000.33 --> 00:02:001.25] [Roan]  Ja, oké.
+[00:02:035.28 --> 00:02:035.68] [Roan]  Oké.
+[00:02:036.03 --> 00:02:036.44] [Roan]  Oké.
+[00:02:036.97 --> 00:02:037.38] [Roan]  Oké.
+[00:02:037.38 --> 00:02:039.29] [Roan]  Ik moet hier even mijn gegevens inbuilen.
+[00:02:039.47 --> 00:02:040.13] [Roan]  Ja, klopt.
+[00:02:052.36 --> 00:02:052.66] [Roan]  Oh.
+[00:02:056.09 --> 00:03:000.43] [participant07]  En dan als ik het goed begrijp, bedrijfsvertegenwoordiger.
+[00:03:000.55 --> 00:03:006.21] [participant07]  Jouw taak is echt mensen aannemen en door CV's heen gaan enzo?
+[00:03:006.27 --> 00:03:007.47] [participant07]  Ja, onder andere.
+[00:03:007.89 --> 00:03:011.21] [participant07]  Dan bedrijfsvertegenwoordiger kun je aanklikken.
+[00:03:006.20 --> 00:03:006.40] [Roan]  Ja.
+[00:03:015.04 --> 00:03:015.50] [Roan]  Ja, die.
+[00:03:015.70 --> 00:03:020.92] [participant07]  Ja, dan is hier dus een vacature, dus ja, die kun je dan ook doorlezen.
+[00:03:021.14 --> 00:03:026.90] [participant07]  En dan zometeen komen er dus twee rondes waarin dus vijf kandidaten zijn aanbevolen voor de vacature.
+[00:03:027.44 --> 00:03:029.74] [participant07]  Met dan de uitleg met waarom ze zijn aanbevolen.
+[00:03:030.56 --> 00:03:035.48] [participant07]  Ja, en dan in beide rondes is het dus de bedoeling om de beste kandidaat uit die vijf te kiezen.
+[00:03:035.60 --> 00:03:037.42] [participant07]  En dan vervolgens stel ik dus wat vragen over de uitleg.
+[00:03:037.54 --> 00:03:041.12] [participant07]  En binnen die twee rondes is het verschil dat de uitleg anders is.
+[00:03:041.60 --> 00:03:041.96] [participant07]  Oh, ja.
+[00:03:041.96 --> 00:03:043.20] [participant07]  Dat willen we dan vergelijken.
+[00:03:043.34 --> 00:03:045.46] [participant07]  Dus ja, voor nu lees de vacature even rustig door.
+[00:03:030.23 --> 00:03:030.53] [Roan]  Ja.
+[00:04:017.46 --> 00:04:017.66] [participant07]  Oké.
+[00:04:053.62 --> 00:05:021.30] [Roan]  Jelly ten DasyCat.
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.30 --> 00:05:021.30] [Roan] 
+[00:05:021.28 --> 00:05:021.28] [Roan] 
+[00:05:021.49 --> 00:05:021.87] [participant07]  All right.
+[00:05:023.37 --> 00:05:024.37] [participant07]  Ga door dan.
+[00:05:024.40 --> 00:05:025.35] [participant07]  Ja, klik je op ga door inderdaad.
+[00:05:028.06 --> 00:05:028.76] [participant07]  Kijken, ja.
+[00:05:029.37 --> 00:05:034.76] [participant07]  Dan heb je hier dus aan de linkerkant de vijf kandidaten die zijn aanbevolen en aan de
+[00:05:034.76 --> 00:05:037.29] [participant07]  rechterkant heb je de dashboard met de uitleg.
+[00:05:037.40 --> 00:05:043.43] [participant07]  Dus nu staat het netwerk open en je hebt ook een textuele uitleg die in een tekstje uitlegt
+[00:05:043.43 --> 00:05:047.29] [participant07]  waarom de persoon is aanbevolen en een grafiekje, een staafdiagram.
+[00:05:047.29 --> 00:05:053.40] [participant07]  Dus je kan de omgeving gebruiken zoals je zelf het makkelijkst vindt.
+[00:05:053.67 --> 00:05:058.69] [participant07]  En dan moet je dus uit deze vijf één persoon kiezen en dan aan de hand van die persoon die
+[00:05:058.69 --> 00:06:000.85] [participant07]  je hebt gekozen stel ik dan een aantal vragen.
+[00:05:053.38 --> 00:05:053.62] [Roan]  Ja.
+[00:06:001.85 --> 00:06:003.33] [Roan]  Oké, oké, goed.
+[00:06:031.85 --> 00:06:045.87] [Roan]  Kom tot het einde de tijd.
+[00:06:053.43 --> 00:06:056.65] [participant07]  Ja, de tekst staat in de grafiek, als je in de grafiek scrolt dan zoekt hij je in.
+[00:06:057.85 --> 00:06:059.17] [participant07]  Ja, ik snap het niet.
+[00:06:057.86 --> 00:06:059.12] [Roan]  Ja, ik zal beginnen.
+[00:07:000.10 --> 00:07:001.34] [Roan]  Dit is dan de geschreven.
+[00:07:024.66 --> 00:07:029.94] [Roan]  Het gaat dan ook bij de geschreven uitleg van de andere kandidaten zien.
+[00:07:030.46 --> 00:07:035.88] [participant07]  Ja, als je door het lijstje heen gaat, dan springt hij over naar de volgende persoon.
+[00:07:036.00 --> 00:07:037.18] [Roan]  Ja, ja, ja, sorry.
+[00:07:037.90 --> 00:07:046.50] [participant07]  Nee, geen probleem. En ja, ik weet niet of je het had gezien, maar ook rechtsboven bij het tekstje is een knopje om de volledige weergave aan te zetten.
+[00:07:046.64 --> 00:07:051.76] [participant07]  Dus dan wordt het tekst wat uitgebreider. Sommige mensen zien die over het hoofd, maar wij zijn er even op.
+[00:07:039.00 --> 00:07:039.94] [Roan]  Ja, dat is...
+[00:07:050.61 --> 00:07:050.95] [Roan]  Ja.
+[00:07:052.50 --> 00:07:054.76] [Roan]  Ja, precies. Oké, ja.
+[00:08:022.50 --> 00:08:045.96] [Roan]  Ja, oké.
+[00:13:027.53 --> 00:13:028.65] [Roan]  Moet ik er één lekkers aan?
+[00:13:028.84 --> 00:13:031.20] [participant07]  Ja, ja, ja, het lijkt alsof je een beetje twijfelt.
+[00:13:033.66 --> 00:13:033.94] [participant07]  Wat?
+[00:13:034.04 --> 00:13:034.66] [participant07]  Wat zei je voor je tussen?
+[00:13:033.83 --> 00:13:033.83] [Roan] 
+[00:13:036.61 --> 00:13:040.23] [Roan]  Het is Chris en Taylor.
+[00:13:040.51 --> 00:13:043.39] [participant07]  Uhum, en ook basis waarvan?
+[00:13:044.68 --> 00:13:050.98] [Roan]  Nou, eigenlijk op basis van hun ervaring, goede ervaring.
+[00:13:056.68 --> 00:14:000.32] [Roan]  Ik denk dat ze allebei wel zouden kunnen passen, maar dan zou ik even...
+[00:14:037.36 --> 00:14:039.60] [Roan]  Ja, ik denk toch dat ik...
+[00:14:040.96 --> 00:14:041.46] [participant07]  Toch voor Taylor?
+[00:14:042.38 --> 00:14:042.58] [participant07]  Ja.
+[00:14:042.84 --> 00:14:043.22] [participant07]  Allright.
+[00:14:045.02 --> 00:14:045.78] [participant07]  Ja, duidelijk.
+[00:14:046.36 --> 00:14:046.98] [participant07]  Hier, klaar.
+[00:14:047.02 --> 00:14:048.12] [participant07]  Nog niet op klaar klikken.
+[00:14:048.64 --> 00:14:049.40] [participant07]  Ja, nee, voor nu.
+[00:14:050.34 --> 00:14:051.48] [participant07]  Ja, ik stel dus een aantal vragen.
+[00:14:051.58 --> 00:14:052.86] [participant07]  Oh, nog niet.
+[00:14:053.54 --> 00:14:054.16] [participant07]  Oh, sorry.
+[00:14:054.34 --> 00:14:055.18] [participant07]  Ja, nee, geen probleem.
+[00:14:055.76 --> 00:15:000.86] [participant07]  Als je eentje terug haalt, ik denk dat hij dan, ja, dan staat hij weer op de goede.
+[00:15:001.46 --> 00:15:003.06] [participant07]  Dus dan kun je weer op Taylor klikken.
+[00:15:003.58 --> 00:15:003.72] [participant07]  Ja.
+[00:15:004.34 --> 00:15:006.52] [participant07]  En dan de tekst en de grafiek kun je weer aanschuiven.
+[00:15:006.82 --> 00:15:007.72] [participant07]  Ja, nee.
+[00:15:008.26 --> 00:15:010.94] [participant07]  Ik stel dus een aantal vragen aan de hand van Taylor.
+[00:15:010.94 --> 00:15:010.94] [participant07] 
+[00:15:010.94 --> 00:15:010.94] [participant07] 
+[00:15:010.94 --> 00:15:017.04] [participant07]  De uitleg hier om een beetje te achterhalen hoe goed hij werkt.
+[00:15:017.78 --> 00:15:022.76] [participant07]  Maar de eerste is, ja, welke informatie of kenmerken denk je dat het belangrijkst waren
+[00:15:022.76 --> 00:15:023.90] [participant07]  voor deze voorspelling?
+[00:15:024.00 --> 00:15:025.54] [participant07]  Welke hebben het meest meegewogen?
+[00:14:042.46 --> 00:14:042.54] [Roan]  Ja.
+[00:14:048.50 --> 00:14:048.76] [Roan]  Ja.
+[00:15:003.69 --> 00:15:003.73] [Roan]  Ja, oké, ik ben er.
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.73] [Roan] 
+[00:15:003.73 --> 00:15:003.77] [Roan]  Ik ben er.
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.77 --> 00:15:003.77] [Roan] 
+[00:15:003.75 --> 00:15:003.75] [Roan] 
+[00:15:030.86 --> 00:15:042.06] [Roan]  Ja, als je kijkt naar de vorige ervaringen, dat is de rol van assistent, die zie je hier althans heel...
+[00:15:042.42 --> 00:15:042.58] [participant07]  M-hm.
+[00:15:043.33 --> 00:15:044.75] [Roan]  Uit terugkomen aan hier ook.
+[00:15:045.25 --> 00:15:045.41] [participant07]  Ja.
+[00:15:045.84 --> 00:15:047.10] [Roan]  En hier ook in de tekst.
+[00:15:051.14 --> 00:15:056.62] [Roan]  En het stukje dat ze administratief medewerker is geweest.
+[00:15:057.18 --> 00:16:001.56] [Roan]  Dus eigenlijk op basis hier, dit heeft wel meegerogen in de voorspellingen,
+[00:16:001.66 --> 00:16:003.74] [Roan]  wat je hier en hier dan kijkt aan in de tekst.
+[00:16:004.00 --> 00:16:004.04] [Roan]  Ja.
+[00:16:005.60 --> 00:16:008.40] [Roan]  Dus dat lijkt het het meest te hebben.
+[00:16:007.66 --> 00:16:008.94] [participant07]  meest te hebben, meest gehoord.
+[00:16:009.14 --> 00:16:010.08] [participant07]  All right, ja, helemaal goed.
+[00:16:011.36 --> 00:16:014.98] [participant07]  Ja, nou, dan de volgende is dus op een schaal van 1 tot 10,
+[00:16:015.10 --> 00:16:021.02] [participant07]  in hoeverre helpt de uitleg te begrijpen waarom het systeem deze aanbevelingen heeft gemaakt?
+[00:16:021.14 --> 00:16:025.46] [participant07]  Dus als het ware, hoe duidelijk zijn de argumenten van het systeem nu?
+[00:16:022.63 --> 00:16:023.25] [Roan]  Dat zijn de archewijden.
+[00:16:027.42 --> 00:16:031.22] [Roan]  Eh, 4? Ja, van 1 tot 5 zei je, hè?
+[00:16:031.32 --> 00:16:031.74] [Roan]  1 tot 10.
+[00:16:032.42 --> 00:16:033.82] [Roan]  1 tot 10, oh, sorry.
+[00:16:036.25 --> 00:16:038.13] [participant07]  Omgerekend een 8 dan?
+[00:16:038.83 --> 00:16:039.13] [participant07]  Ja.
+[00:16:040.65 --> 00:16:046.55] [participant07]  Oké, en welke onderdelen helpen daar het meest mee met het duidelijk maken daarvan?
+[00:16:046.65 --> 00:16:051.69] [participant07]  Is dat een combinatie van de drie of is een van de drie soorten uitleg het handigst geweest?
+[00:16:038.86 --> 00:16:039.08] [Roan]  Ja.
+[00:16:052.23 --> 00:16:057.93] [Roan]  Ja, voor mij persoonlijk wel. De tekst vind ik wel heel fijn erbij.
+[00:16:058.10 --> 00:16:058.36] [participant07]  M-hm.
+[00:17:001.40 --> 00:17:007.26] [Roan]  En dat leg je dan eigenlijk op die grafiek en op die netwerkplaatje.
+[00:17:007.40 --> 00:17:009.72] [Roan]  En dan kan ik het goed plaatsen, zeg maar.
+[00:17:009.81 --> 00:17:013.59] [participant07]  Ja, ja, dus die werken een beetje ondersteunend aan de tekst zelf.
+[00:17:013.85 --> 00:17:021.77] [participant07]  Oké. Ontbreekt er nog bepaalde informatie die zou kunnen helpen de aanbeveling beter te begrijpen?
+[00:17:022.07 --> 00:17:026.07] [participant07]  Dus ja, duidelijker beeld te krijgen over waarom deze persoon is aanbevolen?
+[00:17:029.45 --> 00:17:034.84] [Roan]  Ja, wat ik zelf lastig vond te begrijpen of waarom dat dan belangrijk wordt gezien,
+[00:17:034.97 --> 00:17:037.23] [Roan]  dat zijn die...
+[00:17:037.23 --> 00:17:041.89] [Roan]  Ja, ik bedoel hier ook dat diegene dan heeft samengewerkt met iemand
+[00:17:042.45 --> 00:17:044.86] [Roan]  die dan die en die functie heeft gehad.
+[00:17:044.88 --> 00:17:045.08] [Roan]  Ja.
+[00:17:044.83 --> 00:17:045.07] [participant07]  Ja.
+[00:17:048.79 --> 00:17:049.69] [Roan]  Ja, hoe moet ik dat zeggen?
+[00:17:052.21 --> 00:17:053.79] [Roan]  Waarom wordt dat al zo belangrijk?
+[00:17:054.21 --> 00:17:054.83] [Roan]  Zeg maar.
+[00:17:055.21 --> 00:17:058.11] [participant07]  Ja, dat voelt een beetje ver gezocht als het ware.
+[00:17:058.75 --> 00:18:001.55] [Roan]  Ja, en ook dat ik dan denk, hoe kom je aan die informatie?
+[00:18:001.77 --> 00:18:004.65] [Roan]  Maar dat gaat dan misschien met een stukje terug.
+[00:18:005.17 --> 00:18:005.55] [Roan]  Ja, ja, ja.
+[00:18:001.59 --> 00:18:001.90] [participant07]  Mijn potion!
+[00:18:003.63 --> 00:18:003.87] [participant07]  Ja.
+[00:18:004.78 --> 00:18:011.89] [participant07]  Ja, maar het is dus niet een heel logische match of een heel logisch verband om te zeggen
+[00:18:011.89 --> 00:18:018.71] [participant07]  je hebt met iemand samengewerkt die ook deze rol heeft vervuld, omdat er te veel onduidelijkheid
+[00:18:018.71 --> 00:18:019.60] [participant07]  daar zit als het ware.
+[00:18:019.81 --> 00:18:021.25] [Roan]  Ja, dat denk ik wel, ja.
+[00:18:022.00 --> 00:18:022.40] [participant07]  Allright.
+[00:18:024.48 --> 00:18:024.80] [participant07]  Ehm...
+[00:18:024.80 --> 00:18:026.54] [participant07]  Ja, nee, dan de volgende, haak ik er een beetje op in.
+[00:18:026.72 --> 00:18:029.64] [participant07]  Maar over het algemeen, is de uitleg wel logisch?
+[00:18:029.74 --> 00:18:034.32] [participant07]  Zijn de argumenten die gegeven worden wel logische redenen om zo iemand aan te bevelen?
+[00:18:036.37 --> 00:18:043.90] [Roan]  Ja, zeker inderdaad. Dat stukje van de vorige ervaring vind ik heel logisch en duidelijk.
+[00:18:044.03 --> 00:18:048.42] [Roan]  Alleen dan wat ik zeg, die verwijzing naar iemand anders met wie je dan ooit hebt samengewerkt,
+[00:18:048.48 --> 00:18:049.44] [Roan]  dat vind ik zelf iets minder.
+[00:18:036.90 --> 00:18:037.05] [participant07]  Ja.
+[00:18:049.63 --> 00:18:051.03] [participant07]  Ja, ja, nee, helemaal duidelijk.
+[00:18:052.85 --> 00:18:058.71] [participant07]  Ja, dan op een schaal van 1 tot 10 weer, in hoeverre helpt de uitleg met het maken van een beslissing?
+[00:18:058.79 --> 00:19:003.23] [participant07]  Dus bijvoorbeeld met deze persoon in gesprek gaan, iets in die geest.
+[00:19:003.71 --> 00:19:005.63] [participant07]  Ja, in hoeverre helpt het met die beslissing maken?
+[00:19:006.69 --> 00:19:009.29] [Roan]  De textuele uitleg, bedoel je ook gewoon het hele...
+[00:19:009.44 --> 00:19:011.46] [participant07]  Maar wel in zijn algemeen de combinatie van de drie.
+[00:19:010.94 --> 00:19:011.18] [Roan]  Oké.
+[00:19:013.12 --> 00:19:021.82] [Roan]  Eh, ik denk een 7, denk ik.
+[00:19:023.60 --> 00:19:032.82] [participant07]  Ja, op basis waarvan, omdat de argumenten logisch genoeg zijn, is dat een...
+[00:19:033.40 --> 00:19:034.24] [Roan]  Ja, ja.
+[00:19:035.14 --> 00:19:035.32] [participant07]  Ja.
+[00:19:035.84 --> 00:19:036.44] [participant07]  Oké, all right.
+[00:19:037.46 --> 00:19:041.64] [participant07]  Ehm, ja, nee, eh, dan de volgende weer.
+[00:19:042.06 --> 00:19:047.96] [participant07]  Ja, op een schaal van 1 tot 10, in hoeverre denk je dat de voorspelling die het model heeft gemaakt betrouwbaar is?
+[00:19:048.04 --> 00:19:051.34] [participant07]  Dus dat dat een juiste voorspelling is geweest?
+[00:20:005.79 --> 00:20:009.41] [Roan]  Ja, de informatie komt natuurlijk van een CV, ja.
+[00:20:009.65 --> 00:20:011.97] [Roan]  Tenminste, dat krijg ik niet.
+[00:20:014.63 --> 00:20:023.33] [Roan]  En ik vind het vrij logisch, dus ik zou zeggen, ja, ook een 7, denk ik.
+[00:20:023.52 --> 00:20:035.60] [participant07]  Oké, en dat is dus wederom omdat de uitleg vrij logisch is en de match redelijk lijkt te kloppen.
+[00:20:036.08 --> 00:20:037.74] [Roan]  Ja, het zou kunnen, ja.
+[00:20:039.01 --> 00:20:040.05] [participant07]  Allright, duidelijk.
+[00:20:042.05 --> 00:20:044.41] [participant07]  Ja, nee, dan kun je nu wel op klaar drukken.
+[00:20:044.55 --> 00:20:047.01] [participant07]  En dan hoop ik dat u niet in de war is geraakt.
+[00:20:047.65 --> 00:20:049.85] [participant07]  Ja, nu is hij dus wel in de war geraakt.
+[00:20:050.29 --> 00:20:056.61] [participant07]  Als je heel even naar dat debrief.html weg kan halen uit de balk bovenin.
+[00:20:057.13 --> 00:20:059.81] [participant07]  Gewoon de webpagina bovenin.
+[00:20:049.78 --> 00:20:050.50] [Roan]  Boring.
+[00:21:001.19 --> 00:21:003.59] [participant07]  Dus gewoon naar alleen.nl.
+[00:21:004.21 --> 00:21:005.63] [participant07]  Ja, oké.
+[00:21:006.53 --> 00:21:009.53] [participant07]  Dan, oh, moet je wel heel even je gifs opnieuw invullen.
+[00:21:020.35 --> 00:21:022.09] [participant07]  En dan weer bedrijfsvertegenwoordiger.
+[00:21:022.75 --> 00:21:025.61] [participant07]  En dan zie je weer de vacature, dus dan kun je weer naar beneden.
+[00:21:026.67 --> 00:21:028.83] [participant07]  En dan nog niet meteen op klaardrukken.
+[00:21:028.83 --> 00:21:032.91] [participant07]  Ja, dit is al de tweede ronde, want hij kiest in een willekeurige volgorde.
+[00:21:033.15 --> 00:21:035.29] [participant07]  Dus nu kun je dit zien als de volgende ronde.
+[00:21:035.49 --> 00:21:039.85] [participant07]  Dus het is hier weer, neem ze alle vijf even door en maak weer een beslissing.
+[00:21:040.17 --> 00:21:042.99] [participant07]  En dat kan dezelfde zijn, maar het mag nu ook een andere zijn.
+[00:21:044.25 --> 00:21:046.29] [participant07]  Dus ja, neem het weer even door.
+[00:21:022.67 --> 00:21:022.91] [Roan]  Ja.
+[00:21:028.81 --> 00:21:028.95] [Roan]  Ja.
+[00:21:048.49 --> 00:21:050.35] [Roan]  Maar de informatie is wel gewoon iets aan het worden.
+[00:21:050.97 --> 00:21:057.17] [participant07]  De data is hetzelfde, maar in dit geval de gewichten van hoeveel bepaalde dingen hebben meegewogen is veranderd.
+[00:21:057.35 --> 00:22:002.53] [participant07]  Dus de tekst zal erop lijken, maar je kan bijvoorbeeld zeggen, dit is heel belangrijk en dit minder, dat soort dingen.
+[00:22:002.61 --> 00:22:003.79] [participant07]  Ja, ja, ja, oké.
+[00:22:002.51 --> 00:22:005.53] [Roan]  Ja, ja, ja, oké, ja, ik snap het.
+[00:23:049.35 --> 00:23:056.92] [participant07]  Ja, één opmerking. De cv's zijn allemaal nep, dus het kan zijn dat die niet helemaal overeen komen met de rest van de data.
+[00:23:057.74 --> 00:24:001.18] [participant07]  Want cv's mag je niet zomaar van mensen online zetten.
+[00:24:001.81 --> 00:24:002.46] [participant07]  Nee, dat is nou niet.
+[00:24:002.46 --> 00:24:004.90] [participant07]  Dus het kan zijn dat daar rare dingen in staan die niet helemaal overeen komen.
+[00:23:057.48 --> 00:23:058.12] [Roan]  Ja, ja, ja.
+[00:24:001.73 --> 00:24:002.55] [Roan]  Native Snowy
+[00:24:004.80 --> 00:24:006.94] [Roan]  Ja, daar was ik even benieuwd.
+[00:25:011.62 --> 00:25:034.78] [Roan]  Ja, ik heb het gevoel dat het een beetje te laat is.
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:25:034.78] [Roan] 
+[00:25:034.78 --> 00:26:004.76] [Roan]  Ja, ik heb het gevoel dat het een beetje te laat is.
+[00:26:004.78 --> 00:26:034.76] [Roan]  Ja, ik heb het gevoel dat het een beetje te laat is.
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:26:034.76] [Roan] 
+[00:26:034.76 --> 00:27:004.74] [Roan]  Ja, ik heb het gevoel dat het een beetje te laat is.
+[00:27:004.76 --> 00:27:034.74] [Roan]  Ja, ik heb het gevoel dat het een beetje te laat is.
+[00:27:037.16 --> 00:27:039.16] [Roan]  Ja, dan kies ik toch weer een dollar voor de zijkant.
+[00:27:040.42 --> 00:27:041.70] [participant07]  Verteler opnieuw.
+[00:27:042.40 --> 00:27:042.53] [participant07]  Ja.
+[00:27:043.29 --> 00:27:050.96] [participant07]  Oké, ja, dan herhaal ik die drie 1 op 10 vragen even.
+[00:27:051.07 --> 00:27:056.37] [participant07]  Dan is het dus vergelijkend met de vorige uitleg, ja, of dat veranderd is of het verbeterd,
+[00:27:056.37 --> 00:28:001.16] [participant07]  verslechterd is, dat een beetje in het achterhoofd houden.
+[00:28:001.92 --> 00:28:008.22] [participant07]  Dus de eerste is met in hoeverre helpt de uitleg met het begrijpen van waarom de match
+[00:28:008.22 --> 00:28:009.22] [participant07]  is gemaakt door het systeem.
+[00:28:009.94 --> 00:28:012.22] [participant07]  Is dat hier wat duidelijker geworden, is het onduidelijker?
+[00:28:013.01 --> 00:28:013.77] [participant07]  Ongeveer hetzelfde.
+[00:27:042.32 --> 00:27:042.48] [Roan]  Ja.
+[00:27:057.73 --> 00:27:058.03] [Roan]  Mhmm.
+[00:28:001.64 --> 00:28:001.96] [Roan]  Ehm...
+[00:28:015.58 --> 00:28:020.96] [Roan]  Ja, op zich staat er in het tekst minder uitleg qua woorden, zeg maar.
+[00:28:021.26 --> 00:28:023.88] [Roan]  Maar dat maakt het wel iets duidelijker, vind ik.
+[00:28:024.29 --> 00:28:025.85] [participant07]  Oké, dus hij is ietsje duidelijker geworden?
+[00:28:026.17 --> 00:28:026.37] [participant07]  Ja.
+[00:28:026.83 --> 00:28:029.85] [participant07]  Oké, dus net was het dan een 8 en nu een 8,5 of een 9?
+[00:28:030.11 --> 00:28:030.99] [Roan]  Ja, ja.
+[00:28:030.75 --> 00:28:033.45] [participant07]  Ja. Welke van de twee zou je geven?
+[00:28:033.97 --> 00:28:034.69] [participant07]  De acht en een half.
+[00:28:034.87 --> 00:28:036.11] [participant07]  Oké, acht en een half, duidelijk.
+[00:28:037.51 --> 00:28:044.17] [participant07]  Ja, dan de volgende is dus weer, ja, op een schaal van 1 tot 10, in hoe ver helpt het met het maken van een beslissing?
+[00:28:044.27 --> 00:28:047.43] [participant07]  Is dat ook wat verbeterd dan? Of is dat, ja?
+[00:28:048.25 --> 00:28:053.27] [Roan]  Ja, dat zou ik nu ook, wat had ik eerst, 7,5, ja.
+[00:28:053.05 --> 00:28:056.18] [participant07]  Dus nu in 7,5 weer, dus ook ietsje beter.
+[00:28:057.35 --> 00:28:058.85] [participant07]  En waar komt dat dan door?
+[00:28:059.24 --> 00:29:002.12] [participant07]  Ook omdat het wat duidelijker geformuleerd is?
+[00:29:002.94 --> 00:29:004.11] [participant07]  Ja, dat ook.
+[00:29:003.05 --> 00:29:007.95] [Roan]  Ja, dat ook inderdaad. En dan weer ondersteunen met dat netwerk en die grafiek.
+[00:29:008.83 --> 00:29:009.97] [participant07]  Oké, top.
+[00:29:011.97 --> 00:29:017.43] [participant07]  En dan de laatste, ja, weer op een schaal van 1 tot 10, in hoeverre denk je dat het model betrouwbaar is?
+[00:29:017.59 --> 00:29:020.95] [participant07]  Is dat nog verbeterd of...?
+[00:29:023.08 --> 00:29:025.20] [Roan]  Dus daar heb je deilly-ballen nog.
+[00:29:024.99 --> 00:29:032.97] [participant07]  Ja, precies. Dus dat is gewoon, hoewel het wat duidelijker is, is het niet per se of de match beter is.
+[00:29:033.69 --> 00:29:041.09] [participant07]  Dat komt er niet duidelijk naar voren. Oké. Ja, dan als laatste nog even kort, want we zijn op de tijd.
+[00:29:041.63 --> 00:29:049.51] [participant07]  Ja, mist er nog nu bepaalde informatie die echt mee zou helpen met het maken, ja, met het gebruiken van het systeem, met het maken van een beslissing?
+[00:29:050.19 --> 00:29:053.95] [participant07]  Dus ja, bepaalde informatie die daarin zou kunnen helpen.
+[00:29:055.06 --> 00:30:002.82] [Roan]  Ja, wat ik niet zo snel terugzie in de grafiek en de tekst en de verbindingen zelfs, het netwerk,
+[00:30:003.54 --> 00:30:008.34] [Roan]  is de opleiding bijvoorbeeld van iemand.
+[00:30:008.76 --> 00:30:015.56] [Roan]  Dat werd in de vacature wel ook genoemd, een bepaalde opleiding, geloof ik, en dat zie je zo eigenlijk niet terug.
+[00:30:007.84 --> 00:30:008.52] [participant07]  Van imams.
+[00:30:015.98 --> 00:30:016.68] [participant07]  Ja, precies.
+[00:30:018.35 --> 00:30:018.87] [Roan]  Ja, dat.
+[00:30:019.12 --> 00:30:029.48] [participant07]  Dus eigenlijk van die dingen die in iemands cv wel altijd staan, maar die hier niet naar voren kwamen, terwijl ze wel belangrijk kunnen zijn voor de vacature.
+[00:30:030.14 --> 00:30:038.42] [participant07]  Oké, duidelijk. Dat is inderdaad iets wat aangepast kan worden, maar in dit systeem niet eens meegenomen.
+[00:30:038.42 --> 00:30:046.42] [participant07]  Maar dat is een goede. Oké, als je dan nu rechtsboven op klaar drukt en dan meteen doorgaat naar de volgende ronde.
+[00:30:047.62 --> 00:30:054.40] [participant07]  Ja, dus hier, ga door. En dan weer op Taylor Meijer klikt en dan weer op klaar. Dan slaat hij de gegevens op.
+[00:30:054.98 --> 00:31:002.42] [participant07]  Ja, dat snap ik. Dus ja, nu is hij wel geslagen. Dus ja, nee, je kan het sluiten. Hartstikke bedankt.
+[00:31:003.46 --> 00:31:011.30] [participant07]  Oké. Ja, nee, superfijn om feedback te krijgen. Ja, nee, dus hartstikke bedankt voor het meedoen.
+[00:31:012.10 --> 00:31:017.42] [participant07]  Ja, en nog één ding. Ik had zo'n consentsformulier opgestuurd. Zou je die nog terug kunnen sturen?
+[00:31:017.64 --> 00:31:022.42] [participant07]  Terugsturen, ja. Top, hartstikke bedankt. Allright. Doei doei. Fijne dag nog.
+[00:31:022.42 --> 00:31:023.24] [participant07]  Hai hai. Doei.
+[00:30:024.89 --> 00:30:025.06] [Roan]  Ja.
+[00:30:028.51 --> 00:30:028.79] [Roan]  Ja.
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:030.16 --> 00:30:030.16] [Roan] 
+[00:30:038.88 --> 00:30:039.64] [Roan]  Ja, nee.
+[00:30:054.95 --> 00:30:055.63] [Roan]  Ja, dat snap ik.
+[00:30:057.52 --> 00:30:057.71] [Roan]  Ja.
+[00:31:010.73 --> 00:31:011.57] [Roan]  Geen probleem.
+[00:31:017.39 --> 00:31:018.09] [Roan] whispers...
+[00:31:037.86 --> 00:31:040.42] [participant07]  Hoi, je bent nog gemute.
+[00:31:045.66 --> 00:31:047.56] [participant07]  Nu hoor ik je.
+[00:31:048.38 --> 00:31:052.10] [participant07]  Sorry dat je even moest wachten, het vorige interview liep een beetje uit.
+[00:31:054.32 --> 00:31:058.70] [participant07]  Welkom, hartstikke bedankt dat je hebt aangegeven mee te willen doen met ons onderzoek.
+[00:32:001.08 --> 00:32:005.44] [participant07]  Ik zal maar meteen de link sturen, hier is een link naar een website.
+[00:32:005.44 --> 00:32:008.70] [participant07]  Als je die kan openen en dan je scherm kan delen.
+[00:31:046.55 --> 00:31:047.57] [Roan]  Ja, ja, nu hoor ik je.
+[00:31:053.22 --> 00:31:054.24] [Roan]  Ja, nee.
+[00:32:013.12 --> 00:32:015.30] [Roan]  Ja, even kijken...

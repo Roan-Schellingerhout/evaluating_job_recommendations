@@ -1,0 +1,120 @@
+<html>
+   <head>
+     <title>Instructies</title>
+     <link rel="icon" type="image/x-icon" href="/static/favico.ico">
+
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+     <style type="text/css">
+     
+     .buttonHolder {
+        width: 80%;
+        text-align: center;
+        box-sizing: border-box;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2%;
+      }
+
+      .form-control {
+        width: 50% !important;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .btn1 {
+        padding: 4.375rem 5.75rem !important;
+        margin-top: 5%;
+        margin-left: 2%;
+      }
+      .btn{
+        width: 27.5%;
+        font-size: larger;
+      }
+
+      .textbox{
+        width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5em;
+        text-align: center;
+        font-size: large;
+      }
+
+      .dataform {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .fg1 {
+        width: 45%;
+        margin-left: 40%;
+        margin-right: auto;
+      }
+
+      .fg2 {
+        width: 22.5%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .form-control {
+        margin-left: 0 !important;
+      }
+      
+     </style>
+
+    
+    
+   </head>    
+    <body>         
+
+      <div class="textbox">
+        <h4>Instructies:</h4>U krijgt zometeen een CV dan wel een vacature te zien. Deze moet u zorgvuldig doorlezen, waarna u zich moet inleven in deze CV/vacature. Vervolgens krijgt u een lijst met aanbevolen items te zien, samen met een specifieke uitleg. Als u de CV heeft gelezen, zullen dit vacatures zijn die als relevant zijn voorspeld voor deze persoon. Als u de vacature heeft gelezen, zullen dit kandidaten zijn die als relevant zijn voorspeld voor deze positie. Aan u is het vervolgens de taak om de meest relevante baan/vacature te vinden voor de CV of vacature die u heeft gelezen. <br> Het is dus <b>niet</b> de bedoeling dat u een vacature/kandidaat kiest die het best bij u als persoon past.
+        <br><br>Vul uw gegevens in en druk vervolgens hieronder op de knop die overeenkomt met uw functie om te beginnen!
+        <br><br><br>
+      </div>
+
+      <form class="dataform" method="POST" action="/view_texts.html">
+        <div class="form-group fg1">
+          <label for="exampleInputEmail1">E-mailadres</label>
+          <input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Vul uw e-mailadres in">
+          <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+        </div>
+        <div class="form-group fg1">
+          <label for="Vakgebied">Vakgebied</label>
+          <input type="text" class="form-control" name="vakgebied" placeholder="Vul uw voornaamste vakgebied in">
+          <small id="emailHelp" class="form-text text-muted">Bijvoorbeeld: financiën, HR, ICT, gezondheidszorg, etc.</small>
+        </div>
+        <div class="form-row align-items-center">
+          <div class="col-md-3 mb-3" style="margin-left: 37.5%; margin-right: -10%;">
+            <label for="Leeftijd">Leeftijd</label><br>
+            <input type="number" class="form-control" name="leeftijd" placeholder="Vul uw leeftijd in ">
+          </div>
+  
+          <div class="col-md-3 mb-3">
+            <label for="geslacht">Geslacht</label><br>
+            <select name="geslacht" class="form-control">
+              <option selected>Selecteer...</option>
+              <option>Man</option>
+              <option>Vrouw</option>
+              <option>Anders</option>
+            </select>
+            </div>
+          </div>
+        </div>
+        
+        
+
+        <div class="buttonHolder">
+          <input class="btn btn-primary btn1" type="submit" name="button" value="Recruiter">
+          <input class="btn btn-success btn1" type="submit" name="button" value="Kandidaat">
+          <input class="btn btn-info btn1" type="submit" name="button" value="Bedrijfsvertegenwoordiger">
+       </form>
+      </div> 
+
+    </body>    
+</html>

@@ -1,0 +1,432 @@
+<!doctype html>
+<HTML>
+<HEAD>
+  <meta charset="utf-8" />
+  <TITLE>Staafdiagram uitleg</TITLE>
+  <link rel="icon" type="image/x-icon" href="/static/favico.ico">
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+  <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- http://visjs.org/index.html#download_install -->
+  <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <style type="text/css">
+    
+    #wrapper {
+      margin-top: 1%;
+    }
+
+    #mynetwork {
+      width: 75%;
+      height: 40em;
+      border: 2px solid lightgray;
+      margin-left: 1%;
+      display: inline-block;
+    }
+    
+    #exp_types {
+      margin-left: 20%;
+      margin-top: 1%;
+      height: 50em;
+      display: inline-block;
+      vertical-align:top;
+      justify-content: center
+    }
+
+    .big {
+      width: 20em;
+      height: 5em;
+      text-align: center;
+      margin: 1em;
+    }
+
+
+    .custom-switch.custom-switch-lg .custom-control-label {
+        padding-left: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::before {
+        height: 2rem;
+        width: calc(3rem + 0.75rem);
+        border-radius: 4rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::after {
+        width: calc(2rem - 4px);
+        height: calc(2rem - 4px);
+        border-radius: calc(3rem - (2rem / 2));
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-input:checked ~ .custom-control-label::after {
+        transform: translateX(calc(2rem - 0.25rem));
+    }
+
+    #togg{
+      float: right;
+      margin-right: 1em;
+      margin-top: 2em;
+      padding-bottom: 5em;
+      width: 12.5%;
+    }
+
+    .chart-legend li span {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      margin-right: 5px;
+    }
+
+    .box {
+      float: left;
+      height: 20px;
+      width: 20px;
+      margin-bottom: 15px;
+      border: 1px solid black;
+      clear: both;
+    }
+
+    .pink {
+      background-color: #f2688444;
+    }
+
+    .green {
+      background-color: #2bc25344;
+    }
+
+    .yellow {
+      background-color: #fcba0344;
+    }
+
+    .legend_text {
+      margin-bottom: 15px;
+    }
+
+    #title {
+      margin-left: 1%;
+    }
+
+    .custom-control-label {
+      padding-top: .45em;
+    }
+    
+    </style>
+</HEAD>
+
+<BODY>
+<div id="togg">  
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="simple_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="simple_view"><b>Simpele weergave</b></label>
+  </div>
+
+  {% if direction == 'recruiter' %}
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% else %}
+  <div class="custom-control custom-switch custom-switch-lg" style="display:none">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% endif %}
+
+  <br><br><br><br><br><br>
+  <div class="legend_text"><div class="box green"></div> &nbsp; Vacatures</div>
+  <div class="legend_text"><div class="box yellow"></div> &nbsp; Vacature types</div>
+  <div class="legend_text"><div class="box pink"></div> &nbsp; Kandidaten</div>
+
+
+</div>
+
+<div id="wrapper">
+  {% if direction != 'company'%}
+  <div id="title"><h5>Staafdiagram uitleg voor de match (u4119, j147542):</h5></div>
+  {% else %}
+  <div id="title"><h5>Staafdiagram uitleg voor de match (j147542, u4119):</h5></div>
+  {% endif %}
+  <canvas id="myChart" style="max-width:75%; max-height: 750px;"></canvas>
+
+  <div id="exp_types">
+    <button class="btn btn-primary big" type="submit" id="bar" value="Graph explanation" onclick="window.location.href = 'view_graph.html'">Graaf uitleg</button> 
+    <button class="btn btn-info big" type="submit" id="text" value="Text explanation" onclick="window.location.href = 'view_texts.html'">Geschreven uitleg</button>
+  </div>
+</div>
+
+<!-- Add an invisible <div> element to the document, to hold the JSON data: -->
+
+<script type="text/javascript">
+
+// var container = document.getElementById("results");
+
+switch_graph();
+
+function switch_graph() {
+  var xvalues = {{ xdata|safe }}
+  var yvalues = {{ ydata|safe }}
+  var title = document.getElementById("title");
+
+  var border_colors = {{ bg_colors|safe }}
+  var bg_colors = []
+
+  border_colors.forEach(function (item, index) {
+    bg_colors[index] = item + "44"
+  });
+
+  /////////////////////////////////////////////////////////
+
+  var xvalues_simple = {{ xdata_simple|safe }}
+  var yvalues_simple = {{ ydata_simple|safe }}
+  
+  var border_colors_simple = {{ bg_colors_simple|safe }}
+  var bg_colors_simple = []
+
+  border_colors_simple.forEach(function (item, index) {
+    bg_colors_simple[index] = item + "44"
+  });
+
+  ////////////////////////////////////////////////////////
+
+  var xvalues_company = {{ company_xdata|safe }}
+  var yvalues_company = {{ company_ydata|safe }}
+  
+  var border_colors_company = {{ bg_colors_company|safe }}
+  var bg_colors_company = []
+
+  border_colors_company.forEach(function (item, index) {
+    bg_colors_company[index] = item + "44"
+  });
+
+  /////////////////////////////////////////////////////////
+
+  var xvalues_company_simple = {{ company_xdata_simple|safe }}
+  var yvalues_company_simple = {{ company_ydata_simple|safe }}
+  
+  var border_colors_company_simple = {{ bg_colors_company_simple|safe }}
+  var bg_colors_company_simple = []
+  
+  border_colors_company_simple.forEach(function (item, index) {
+    bg_colors_company_simple[index] = item + "44"
+  });
+
+  var simple = document.getElementById("simple_view");
+  var company = document.getElementById("company_view");
+
+
+  var dir = "{{ direction|string }}"
+  if (dir == "company"){
+    company.checked = true;
+  }
+
+    // full candidate
+  if(simple.checked == false && company.checked == false){
+    const ctx = document.getElementById("myChart");
+
+    title.innerHTML = "<h5>Staafdiagram uitleg voor de match (u4119, j147542):</h5>"
+
+    var lgd = document.querySelectorAll(".legend_text");    
+    lgd.forEach(function(item) { 
+      item.style.display = "block";
+    });
+
+    let chartStatus = Chart.getChart("myChart"); 
+    if (chartStatus != undefined) {
+      chartStatus.destroy();
+    }
+
+    new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels: xvalues,
+            datasets: [{
+              label: "Belangrijkheid",
+              data: yvalues,
+              backgroundColor: bg_colors,
+              borderColor: border_colors
+            }],
+            
+        },
+        options: {
+          plugins: {
+            legend: {
+              display: false,
+            },
+            title: {
+              display: true,
+              text: "Volledige kanidaat-gerichte uitleg"
+            }
+          },
+          indexAxis: 'y',
+          scales: {
+            x: {
+                max: 12,
+                title: {
+                  display: true,
+                  text: "Belangrijkheid"
+                }
+              }
+            }
+          }
+        });
+  }
+  // Simple candidate
+  else if(simple.checked == true && company.checked == false){
+    const ctx = document.getElementById("myChart");
+
+    title.innerHTML = "<h5>Staafdiagram uitleg voor de match (u4119, j147542):</h5>"
+
+    var lgd = document.querySelectorAll(".legend_text");    
+    lgd.forEach(function(item) {
+      item.style.display = "none";
+    });
+
+    let chartStatus = Chart.getChart("myChart"); 
+    if (chartStatus != undefined) {
+      chartStatus.destroy();
+    }
+
+    new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels: xvalues_simple,
+            datasets: [{
+              label: "Belangrijkheid",
+              data: yvalues_simple,
+              backgroundColor: bg_colors_simple,
+              borderColor: border_colors_simple
+            }]
+        },
+        options: {
+          plugins: {
+            legend: {
+              display: false,
+            },
+            title: {
+              display: true,
+              text: "Simpele kandidaat-gerichte uitleg"
+            }
+          },
+          indexAxis: 'y',
+          scales: {
+            x: {
+                max: 30,
+                title: {
+                  display: true,
+                  text: "Belangrijkheid (categorie)"
+                }
+              }
+            }
+          }
+        });
+  }
+// Full company
+else if(simple.checked == false && company.checked == true){
+  const ctx = document.getElementById("myChart");
+
+  title.innerHTML = "<h5>Staafdiagram uitleg voor de match (j147542, u4119):</h5>"
+
+  var lgd = document.querySelectorAll(".legend_text");    
+    lgd.forEach(function(item) { 
+      item.style.display = "block";
+    });
+
+  let chartStatus = Chart.getChart("myChart"); 
+    if (chartStatus != undefined) {
+      chartStatus.destroy();
+    }
+
+    new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels: xvalues_company,
+            datasets: [{
+              label: "Belangrijkheid",
+              data: yvalues_company,
+              backgroundColor: bg_colors_company,
+              borderColor: border_colors_company
+          }]
+        },
+        options: {
+          plugins: {
+            legend: {
+              display: false,
+            },
+            title: {
+              display: true,
+              text: "Volledige bedrijf-gerichte uitleg"
+            }
+          },
+          indexAxis: 'y',
+          scales: {
+            x: {
+                max: 12,
+                title: {
+                  display: true,
+                  text: "Belangrijkheid"
+                }
+              }
+            }
+          }
+        });
+}
+// Simple company
+else{
+  const ctx = document.getElementById("myChart");
+  let chartStatus = Chart.getChart("myChart"); 
+
+  title.innerHTML = "<h5>Staafdiagram uitleg voor de match (j147542, u4119):</h5>"
+  
+  var lgd = document.querySelectorAll(".legend_text");    
+    lgd.forEach(function(item) { 
+      item.style.display = "none";
+    });
+
+  if (chartStatus != undefined) {
+    chartStatus.destroy();
+  }
+
+    new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels: xvalues_company_simple,
+            datasets: [{
+            label: "Belangrijkheid",
+            data: yvalues_company_simple,
+            backgroundColor: bg_colors_company_simple,
+            borderColor: border_colors_company_simple
+            }]
+        },
+        options: {
+          plugins: {
+            legend: {
+              display: false,
+            },
+            title: {
+              display: true,
+              text: "Simpele bedrijf-gerichte uitleg"
+            }
+          },
+          indexAxis: 'y',
+          scales: {
+            x: {
+                max: 30,
+                title: {
+                  display: true,
+                  text: "Belangrijkheid (categorie)"
+                }
+              }
+            }
+          }
+        });
+  }
+};
+</script>

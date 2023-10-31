@@ -1,0 +1,377 @@
+[00:00:000.00 --> 00:00:005.68] [participant29]  Ja, dit kun je nu even invullen inderdaad. 241.
+[00:00:009.46 --> 00:00:012.42] [participant29]  Ja, nee, dus bovenaan die instructies, ik kan het even snel voor je samenvatten.
+[00:00:012.50 --> 00:00:017.22] [participant29]  Het is dus basically, je krijgt zo meteen een cv van iemand te lezen, met toevallig dezelfde naam.
+[00:00:020.64 --> 00:00:025.40] [participant29]  En ja, dan moet je dus die cv even doornemen en vervolgens krijg je vijf aanbevelingen,
+[00:00:026.06 --> 00:00:028.22] [participant29]  vijf aanbevallen, vacatures voor die persoon.
+[00:00:029.34 --> 00:00:035.18] [participant29]  En dan moet je dus aan de hand van de uitleg bij die aanbevelingen proberen te bepalen welke van de vijf de beste match is.
+[00:00:036.34 --> 00:00:040.08] [participant29]  En dan stel ik dus wat vragen over dat systeem en hoe je ermee om bent gegaan.
+[00:00:040.60 --> 00:00:045.00] [participant29]  En dan in de tweede ronde doen we hetzelfde, maar dan zijn die aanbevelingen gegenereerd door een ander model.
+[00:00:045.56 --> 00:00:047.26] [participant29]  Dus dat is basically het proces.
+[00:00:048.36 --> 00:00:052.48] [participant29]  Dus ja, je kan klikken op kandidaat en dan krijg je die aanbeveling te zien.
+[00:00:055.35 --> 00:00:058.29] [Roan]  En dat zijn dus de onderdelen die je logisch vindt.
+[00:00:058.25 --> 00:00:058.81] [participant29]  Ja, zeker.
+[00:01:003.72 --> 00:01:005.20] [Roan]  kort en dan..
+[00:01:010.00 --> 00:01:010.90] [Roan]  out ofReceeap
+[00:01:018.22 --> 00:01:018.95] [Roan]  Ik ben er heel blij mee.
+[00:01:020.14 --> 00:01:021.88] [Roan]  Ik ben er heel blij mee.
+[00:01:022.78 --> 00:01:023.67] [Roan]  Ik ben er heel blij mee.
+[00:01:028.83 --> 00:01:030.83] [Roan]  Ja, ik heb er echt geen zin in.
+[00:01:039.05 --> 00:01:042.05] [Roan]  Omdat mijn bedrijf niet helemaal actief is.
+[00:01:042.41 --> 00:01:043.47] [Roan]  Oké, oké, geen zorgen.
+[00:01:046.33 --> 00:01:047.89] [participant29]  Kokstechniek.
+[00:01:053.80 --> 00:01:054.80] [Roan]  In het andere kanteen...
+[00:01:058.43 --> 00:01:058.79] [participant29]  En dan?
+[00:02:015.12 --> 00:02:020.10] [participant29]  Ja, dit is dus die omgeving. Links is de lijst met opties, rechts de uitleg.
+[00:02:020.58 --> 00:02:022.80] [participant29]  Ja, je hebt dus een tekst, een grafiek en een netwerk.
+[00:02:023.94 --> 00:02:028.96] [participant29]  En ja, je kan volledige weergave en dat soort dingen allemaal toggelen.
+[00:02:029.20 --> 00:02:031.14] [participant29]  Gewoon aan de hand van hoe je het zelf fijn vindt.
+[00:02:031.20 --> 00:02:033.90] [participant29]  Dus je kan gewoon gebruiken hoe jij het zelf het logisch vindt.
+[00:02:034.20 --> 00:02:035.90] [participant29]  En dan moet je dus een keuze proberen te maken.
+[00:02:037.43 --> 00:02:038.13] [Roan]  Dus dat moet je dan ook maar één kiezen.
+[00:02:038.37 --> 00:02:038.57] [Roan]  Ja.
+[00:02:039.51 --> 00:02:039.63] [Roan]  Ja.
+[00:02:042.81 --> 00:02:045.81] [participant29]  Voor dus die cv die je net las.
+[00:02:046.45 --> 00:03:010.61] [Roan]  We moeten nu gaan!
+[00:03:010.61 --> 00:03:015.67] [Roan]  Ondertitels ingediend door de Amara.org gemeenschap
+[00:03:018.70 --> 00:03:021.80] [participant29]  Dit zie je nooit werken obviously, nu kunnen we het gewoon zo doen, mooi.
+[00:03:036.19 --> 00:03:036.38] [participant29]  oh
+[00:03:038.31 --> 00:03:038.61] [Roan]  Oké.
+[00:04:002.29 --> 00:04:002.99] [Roan]  Dat werkt ook voor deze.
+[00:04:005.01 --> 00:04:005.39] [participant29]  Allright.
+[00:04:006.31 --> 00:04:006.47] [participant29]  Klaar?
+[00:04:006.85 --> 00:04:007.11] [participant29]  Wat?
+[00:04:007.27 --> 00:04:008.15] [participant29]  Nee, nog niet op klaar drukken.
+[00:04:008.23 --> 00:04:009.57] [participant29]  Ik zal er dus nog wat vragen stellen.
+[00:04:012.17 --> 00:04:017.67] [participant29]  Ja, nee, dus de HR administratief specialist van bij Aholt Delheze.
+[00:04:019.65 --> 00:04:020.03] [participant29]  Allright.
+[00:04:020.97 --> 00:04:026.03] [participant29]  Ja, nee, dan de eerste is, welke informatie denk je dat het belangrijkste waren voor deze
+[00:04:026.03 --> 00:04:026.45] [participant29]  voorspelling?
+[00:04:026.53 --> 00:04:027.87] [participant29]  Wat heeft het meest meegewogen?
+[00:04:029.92 --> 00:04:031.00] [Roan]  Als in het model?
+[00:04:031.71 --> 00:04:033.01] [Roan]  Ja, ja, ja.
+[00:04:037.89 --> 00:04:038.45] [Roan]  Ehm...
+[00:04:040.98 --> 00:04:041.98] [Roan]  Ik denk weer...
+[00:04:042.00 --> 00:04:046.20] [participant29]  En dan specifiek die HR bedrijfspartner?
+[00:04:047.58 --> 00:04:052.78] [Roan]  Ja, uhm, ja, ik zou echt niet weten.
+[00:04:053.92 --> 00:04:059.30] [Roan]  Hij heeft meerdere dingen in zijn cv staan die te maken hebben met HR, dus daarom zou
+[00:04:059.30 --> 00:05:001.94] [Roan]  dat mij in ieder geval lijken als wat hij heeft meegewogen.
+[00:05:002.43 --> 00:05:008.61] [participant29]  Oké, maar in de tekst is het niet meteen echt duidelijk wat het meest heeft meegewogen voor deze specifieke.
+[00:05:009.44 --> 00:05:013.74] [Roan]  Uit de tekst zou ik ook denken hire een bedrijfspartner bij Somo Works.
+[00:05:014.10 --> 00:05:018.26] [Roan]  Meer omdat, cool dat iemand anders de functie heeft gedaan.
+[00:05:020.00 --> 00:05:025.70] [Roan]  Maar lijkt me dat werkervaring of klantenservice, specialistische interesse heeft zwaarder weegd.
+[00:05:025.90 --> 00:05:028.76] [Roan]  Maar bedrijfservaring is toch wel wat zwaarder lijkt mij.
+[00:05:013.84 --> 00:05:014.12] [participant29]  Ja.
+[00:05:020.84 --> 00:05:022.18] [participant29]  Ja, dat er heel erg aan hangt.
+[00:05:026.01 --> 00:05:026.27] [participant29]  Ja.
+[00:05:028.96 --> 00:05:030.16] [participant29]  Oké, ja, duidelijk.
+[00:05:031.62 --> 00:05:042.68] [participant29]  Ja, en dus die ene dat iemand anders in het verleden die rol heeft vervuld, die dus in christennetwerken zit, die zie je als minder belangrijk.
+[00:05:043.26 --> 00:05:043.60] [participant29]  Ja.
+[00:05:043.86 --> 00:05:044.16] [participant29]  All right.
+[00:05:046.36 --> 00:05:053.70] [participant29]  Ja, dan de volgende. Op een schaal van 1 tot 10, in hoeverre helpt de uitleg te begrijpen waarom het systeem die aanbeveling heeft gegeven?
+[00:05:054.18 --> 00:05:056.96] [participant29]  Dus, ja, hoe duidelijk is het wat de argumenten van het systeem zijn?
+[00:05:059.89 --> 00:06:006.39] [Roan]  Ja, ik vind het voor werkervaring en voor interesse, denk ik, voor kreatieven, vind ik het interessant.
+[00:06:006.87 --> 00:06:008.67] [Roan]  En vind ik het ook wel duidelijk.
+[00:06:010.27 --> 00:06:014.93] [Roan]  Qua, zeg maar, andere kandidaten, ja, ik vind wel dat het duidelijk vermeld wordt.
+[00:06:015.53 --> 00:06:019.43] [Roan]  Maar ik snap niet helemaal de onderliggende waarden ervan.
+[00:06:006.57 --> 00:06:006.80] [participant29]  Mhm.
+[00:06:008.80 --> 00:06:009.02] [participant29]  Mhm.
+[00:06:019.55 --> 00:06:021.15] [participant29]  Ja, je ziet de relevantie er niet van?
+[00:06:021.65 --> 00:06:021.99] [participant29]  Nee.
+[00:06:022.21 --> 00:06:023.99] [participant29]  Oké, dus het is wel duidelijk verwoord.
+[00:06:024.19 --> 00:06:026.99] [participant29]  Het is alsof je een slecht argument goed formuleert, zoals het ware.
+[00:06:027.09 --> 00:06:027.23] [participant29]  Ja.
+[00:06:027.43 --> 00:06:028.57] [participant29]  Ja, oké.
+[00:06:029.89 --> 00:06:030.23] [participant29]  Allright.
+[00:06:032.25 --> 00:06:038.19] [participant29]  Ja, en dat is dan, ja, ik neem aan specifiek heeft dat te maken met de tekst,
+[00:06:038.25 --> 00:06:040.39] [participant29]  want dat grafiek en dat netwerk heb je niet echt gebruikt.
+[00:06:021.64 --> 00:06:021.92] [Roan]  Nee.
+[00:06:041.15 --> 00:06:046.15] [Roan]  Nee, maar dat is vooral omdat ik dit niet helemaal snap.
+[00:06:046.79 --> 00:06:048.33] [Roan]  Oké, en dat netwerken ook niet helemaal?
+[00:06:049.01 --> 00:06:054.75] [Roan]  Nee, ik kan er wel achter komen, maar zeker momenteel is mijn brein te fucked om hierbij te achter te komen.
+[00:06:054.91 --> 00:06:055.35] [Roan]  Allright.
+[00:06:057.54 --> 00:07:005.06] [participant29]  Maar als je dus, ja, hoe duidelijk het beeld is van wat het systeem of waarom het systeem die beslissing heeft gemaakt is,
+[00:07:005.10 --> 00:07:008.30] [participant29]  dat de cijfer moet geven op 1 tot 10, wat zou dat dan ongeveer zijn?
+[00:07:009.66 --> 00:07:011.08] [participant29]  Sorry, wacht, kan je de vraag nog een keer stellen?
+[00:07:011.30 --> 00:07:014.86] [participant29]  Hoe duidelijk het is waarom het systeem deze aanbeveling heeft gemaakt,
+[00:07:015.08 --> 00:07:018.24] [participant29]  dus wat zeg maar als het ware de argumenten zijn geweest van het systeem.
+[00:07:019.95 --> 00:07:021.17] [participant29]  Ik zou het wel acht geven.
+[00:07:021.41 --> 00:07:022.75] [participant29]  Oké, oké, duidelijk.
+[00:07:024.91 --> 00:07:025.43] [participant29]  Ehm...
+[00:07:025.43 --> 00:07:031.75] [participant29]  Ja, ontbreekt u nog bepaalde informatie die beter zou kunnen helpen met begrijpen waarom die aanbeveling tot stand is gekomen?
+[00:07:033.45 --> 00:07:034.25] [Roan]  Oké.
+[00:07:038.04 --> 00:07:038.94] [participant29]  Niet echt eigenlijk.
+[00:07:039.26 --> 00:07:042.68] [participant29]  Oké, dus je hebt wel een redelijk duidelijk beeld van wat de beredenering is geweest.
+[00:07:043.54 --> 00:07:050.10] [Roan]  Ja, het is ook logisch. De aanbeveling is logisch.
+[00:07:050.68 --> 00:07:055.74] [Roan]  In het behoopte zou het allemaal best wel in het beeld passen, deze gewoon net wat meer.
+[00:07:056.64 --> 00:08:001.12] [Roan]  En wat de redenen die gegeven worden zijn ook concreet, to the point en duidelijk.
+[00:07:056.06 --> 00:07:056.28] [participant29]  Mhm.
+[00:08:001.44 --> 00:08:009.28] [participant29]  Oké, ja, nee, dus het spreekt allemaal wel redelijk voorzichtig, het is allemaal begrijpelijk en goed te gebruiken.
+[00:08:010.56 --> 00:08:018.50] [participant29]  Oké, ja, de volgende is of de uitleg logisch is, maar het klinkt dus een beetje alsof die eerste en derde bullet die zijn wel logisch, en die tweede eigenlijk niet.
+[00:08:018.80 --> 00:08:019.54] [participant29]  Dat, daar kom ik op te rippen.
+[00:08:019.94 --> 00:08:024.26] [Roan]  Ik vind de tweede wel logisch dat het erin staat, want bijvoorbeeld inderdaad,
+[00:08:024.36 --> 00:08:028.94] [Roan]  via je netwerk een bedrijf kennen, heeft waarde in het aanbevelen van een baan.
+[00:08:029.50 --> 00:08:035.56] [Roan]  Het is alleen meer dat, als ik zelf zou kijken naar een vacature,
+[00:08:036.16 --> 00:08:041.66] [Roan]  dan zou ik het een beetje raar vinden als een zware reden waarom een vacature wordt aangeboden zou zijn
+[00:08:041.66 --> 00:08:047.44] [Roan]  je homie heeft hier gewerkt in plaats van gewoon, dit is werk dat bij je past.
+[00:08:026.84 --> 00:08:027.08] [participant29]  Ja.
+[00:08:029.10 --> 00:08:029.28] [participant29]  Mhm.
+[00:08:035.93 --> 00:08:036.15] [participant29]  Mhm.
+[00:08:047.44 --> 00:08:054.34] [participant29]  Ja, ja, ja, precies. Dus misschien als het in plaats van een individu was, dat het was van, weet ik veel, mensen die op jou lijken,
+[00:08:054.38 --> 00:09:000.56] [participant29]  hebben in het verleden ook deze vacature met succes vervuld, zoiets, dan zou het wat meer, ja, wat beter zijn.
+[00:08:059.68 --> 00:09:003.96] [Roan]  Ja, we laten ons met vergelijkbare ervaringen hebben hier gewerkt.
+[00:09:002.24 --> 00:09:003.20] [participant29]  Ja, ja, precies.
+[00:09:003.22 --> 00:09:003.92] [participant29]  En die hebben hier gewerkt.
+[00:09:004.08 --> 00:09:007.40] [participant29]  Ja, ja, oké, want nu voelt het dan inderdaad een beetje van, ja oké, cool dat Jule dat
+[00:09:007.40 --> 00:09:011.82] [participant29]  heeft gedaan, maar ja, die persoon mocht ik toch nooit, dus like, boeiend.
+[00:09:011.98 --> 00:09:012.22] [participant29]  Ja, dat.
+[00:09:012.32 --> 00:09:013.52] [participant29]  Ja, ja, oké, duidelijk.
+[00:09:014.40 --> 00:09:017.58] [participant29]  Allright, en op een schaal van 1 tot 10, in hoeverre helpt de uitleg met het maken van
+[00:09:017.58 --> 00:09:018.76] [participant29]  een daadwerkelijke beslissing?
+[00:09:018.86 --> 00:09:023.62] [participant29]  Dus ja, als je Fris zou zijn of, nou, je bent Fris, maar Christof Ries zou zijn, of je dan
+[00:09:023.62 --> 00:09:027.32] [participant29]  je CV bijvoorbeeld op zou sturen of zou echt willen solliciteren bij dat bedrijf?
+[00:09:027.44 --> 00:09:038.20] [Roan]  Ik zou echt zeggen een 9, zeker omdat ze door die bullet points heel concreet ook te zien krijgen met welk werk het zich heeft vergeleken in je cv.
+[00:09:038.58 --> 00:09:038.64] [Roan]  Ja.
+[00:09:039.76 --> 00:09:046.64] [Roan]  Dus daardoor kon ik echt, dat heeft ook al überhaupt een rol gespeeld bij mijn keuze, omdat ik te kijken heb bij sommigen inderdaad, was van oké, hé,
+[00:09:047.00 --> 00:09:055.76] [Roan]  hier is dit kleine puntje wat dan niet echt in lijn zou vallen met, zeg maar, de cv had een overarching theme qua HR werk,
+[00:09:055.76 --> 00:09:058.82] [Roan]  met een paar punten die een beetje varieerden.
+[00:09:059.38 --> 00:10:005.20] [Roan]  En daardoor kon je inderdaad zien, want deze bijvoorbeeld valt veel meer inderdaad binnen de HR deel en binnen de contrasten.
+[00:09:035.98 --> 00:09:036.52] [participant29]  Dat is oké.
+[00:09:038.41 --> 00:09:038.65] [participant29]  Ja.
+[00:09:056.06 --> 00:09:056.18] [participant29]  Ja.
+[00:09:058.79 --> 00:09:058.99] [participant29]  Mhm.
+[00:10:004.97 --> 00:10:011.37] [participant29]  Dus als je dan in die uitleg kan zien van deze is aanbevolen omdat je werkveel ook een keer als vakkenvuller bij de Albert Heijn hebt gewerkt,
+[00:10:011.45 --> 00:10:015.87] [participant29]  dan kun je daardoor meteen zien van oh oké, dat was dus een soort foutje van het systeem, want dat boeit me eigenlijk niet.
+[00:10:016.45 --> 00:10:016.81] [participant29]  Inderdaad.
+[00:10:016.97 --> 00:10:017.27] [participant29]  Allright.
+[00:10:019.01 --> 00:10:027.09] [participant29]  Ehm, ja nee, dus hoe zou je, als je dit systeem dan zelf zou gebruiken in je dagelijks leven, hoe zou je dat dan ongeveer gebruiken?
+[00:10:027.27 --> 00:10:028.59] [participant29]  Wat voor rol zou dat vervullen?
+[00:10:034.25 --> 00:10:034.95] [participant29]  Hoe bedoel je?
+[00:10:035.55 --> 00:10:039.69] [participant29]  Ja, nee, bijvoorbeeld zou je het gebruiken als een soort indeed waar je gewoon alle mogelijkheden
+[00:10:039.69 --> 00:10:045.61] [participant29]  zou kijken of zou je het echt gebruiken als iets waar je beslissingen op baseert of als
+[00:10:045.61 --> 00:10:046.63] [participant29]  een soort ondersteuning.
+[00:10:048.16 --> 00:10:052.60] [Roan]  Als ik dit echt zou gebruiken zelf als ik een baan zou zoeken, zoals het er nu uit ziet,
+[00:10:053.10 --> 00:10:056.86] [Roan]  dan zou ik het waarschijnlijk inderdaad meer gebruiken als een beetje een deed of een linked-in
+[00:10:057.96 --> 00:11:001.74] [Roan]  vacature, waarbij je inderdaad echt gewoon er doorheen klikt, kijkt hoe goed het past.
+[00:11:002.54 --> 00:11:007.02] [Roan]  En dan zou ik persoonlijk eerst even kijken naar het bedrijf zelf, bijvoorbeeld in dit
+[00:11:007.02 --> 00:11:008.24] [Roan]  geval, als het nou even met Chris.
+[00:11:008.66 --> 00:11:012.22] [Roan]  Dan zou ik even kijken naar Aholt, kijken of dat een beetje overeenkomt, maar dan wel
+[00:11:012.22 --> 00:11:015.94] [Roan]  op basis hiervan al waarschijnlijk een keuze maken of ik een CV zou opsturen.
+[00:11:016.13 --> 00:11:020.71] [participant29]  Oké, dus als het bedrijf dan een beetje inderdaad bij zou passen en de argumenten zijn overtuigend,
+[00:11:020.81 --> 00:11:023.51] [participant29]  dan zou je er wel meteen echt vanuit kunnen gaan.
+[00:11:023.65 --> 00:11:024.21] [participant29]  Oké, duidelijk.
+[00:11:024.77 --> 00:11:027.53] [participant29]  Dus ja, het is eigenlijk dan...
+[00:11:027.53 --> 00:11:035.91] [participant29]  Het helpt wel echt al met je functie uitvoeren, dus echt CV's opsturen en zo,
+[00:11:036.55 --> 00:11:042.41] [participant29]  maar je zou wel nog zelf een beetje erbij zoeken om de laatste dingen te fact-checken en te kijken of het allemaal in orde is.
+[00:11:022.76 --> 00:11:022.84] [Roan]  Ja.
+[00:11:041.39 --> 00:11:047.55] [Roan]  Ja, wat vooral is, je krijgt zeg maar goede informatie over de specifieke baan,
+[00:11:048.65 --> 00:11:052.21] [Roan]  eventjes natuurlijk ook uitgaande van dat je niet dingen ziet zoals salarissen,
+[00:11:052.37 --> 00:11:057.71] [Roan]  eerst omdat dat, ja, maar dat zouden natuurlijk nog factoren zijn die je bij een specifieke salaris zou zien,
+[00:11:057.93 --> 00:12:002.65] [Roan]  of extra informatie, maar dat is natuurlijk ook gewoon niet een gegeven dat je dat ziet bij een factuur.
+[00:12:002.97 --> 00:12:003.89] [Roan]  Ja, nee, precies.
+[00:12:005.03 --> 00:12:010.05] [Roan]  Maar op basis hiervan krijg je gewoon een beetje een idee van de functie, waarom die functie,
+[00:12:010.89 --> 00:12:014.05] [Roan]  welke van jouw interesse shit erbij past, en dan is het inderdaad even kijken van,
+[00:12:014.39 --> 00:12:016.89] [Roan]  hey, a hot, what the fuck is dit bedrijf?
+[00:12:017.05 --> 00:12:018.11] [Roan]  Ja, ja, nee, duidelijk.
+[00:11:058.23 --> 00:11:058.71] [participant29]  M-hm, exact.
+[00:12:003.06 --> 00:12:003.36] [participant29]  Ja, nou...
+[00:12:016.95 --> 00:12:018.25] [participant29]  Ja, nee, duidelijk.
+[00:12:020.35 --> 00:12:025.89] [participant29]  Oké, dan weer op een schaal van 1 tot 10, in hoeverre denk je dat de voorspelling van het model betrouwbaar is?
+[00:12:026.01 --> 00:12:028.31] [participant29]  Dus ja, hoeveel vertrouwen heb je erin dat het een goede match is?
+[00:12:031.87 --> 00:12:034.09] [Roan]  Ja, ik denk dat deze vraag een beetje biased is.
+[00:12:034.52 --> 00:12:034.92] [Roan]  Hoezo?
+[00:12:035.87 --> 00:12:038.12] [Roan]  Omdat ik weet dat jij een model hebt gemaakt.
+[00:12:038.33 --> 00:12:038.50] [Roan]  Aha.
+[00:12:039.95 --> 00:12:044.90] [Roan]  Dus daardoor ligt mijn antwoord al direct hoger dan als ik dit model had tegengekomen
+[00:12:044.90 --> 00:12:045.45] [Roan]  online.
+[00:12:045.76 --> 00:12:046.30] [Roan]  Oké, ja, ja.
+[00:12:047.07 --> 00:12:048.26] [Roan]  Dus dat is wel een ding.
+[00:12:038.21 --> 00:12:038.59] [participant29]  Oké.
+[00:12:048.44 --> 00:12:055.52] [participant29]  Maar als je het baseert op de uitleg, hoeveel vertrouwen heb je daarop dat het een goede match is?
+[00:12:055.58 --> 00:12:059.92] [participant29]  Dus niet per se op hoe goed het systeem is, maar hoe goed hij het beargumenteert.
+[00:13:002.42 --> 00:13:004.33] [Roan]  Ik zou een 8 of een 7 of 8 geven.
+[00:13:005.06 --> 00:13:006.46] [participant29]  Je kan ook 7,5 ofzo?
+[00:13:006.74 --> 00:13:007.84] [participant29]  Dan doe ik 7,5.
+[00:13:008.86 --> 00:13:010.06] [participant29]  7,5.
+[00:13:011.08 --> 00:13:017.94] [participant29]  Oké, en dat is dan gebaseerd op zowel die bias als de uitleg?
+[00:13:017.26 --> 00:13:018.62] [Roan]  De uitleg wel redelijk goed.
+[00:13:018.62 --> 00:13:022.00] [Roan]  Het is ook vooral bijzonder om het weg te halen, vooral dat ik denk,
+[00:13:024.06 --> 00:13:026.30] [Roan]  ondanks dat bepaalde punten natuurlijk overeen komen,
+[00:13:026.38 --> 00:13:028.20] [Roan]  dan heb je altijd de vraag of het een goede match is.
+[00:13:029.08 --> 00:13:033.60] [Roan]  Ik vraag me ook zeker af omdat die specifieke punten lijkt te hebben genomen,
+[00:13:033.70 --> 00:13:036.08] [Roan]  of in ieder geval een paar wat specifieke punten van de CV,
+[00:13:037.76 --> 00:13:043.72] [Roan]  en het niet helemaal voelt alsof je echt een grote geheel heeft gebruikt,
+[00:13:044.50 --> 00:13:046.62] [Roan]  dat het toch altijd een beetje te toegespitst zou zijn.
+[00:13:046.62 --> 00:13:049.02] [Roan]  Dus daarom, wat minder vertrouwen erin.
+[00:13:028.31 --> 00:13:028.59] [participant29]  Mhmm.
+[00:13:036.36 --> 00:13:036.64] [participant29]  mhm
+[00:13:043.90 --> 00:13:044.18] [participant29]  Ja.
+[00:13:049.13 --> 00:13:052.79] [participant29]  Ja, het kan zijn dat hij dus bepaalde dingen over het hoofd heeft gezien, als het ware.
+[00:13:053.03 --> 00:13:053.29] [participant29]  Ja.
+[00:13:053.43 --> 00:13:054.51] [participant29]  Oké, ja, duidelijk.
+[00:13:057.08 --> 00:14:001.39] [participant29]  All right, ja, dan kun je nu dus wel rechtsbovenop klaar drukken.
+[00:14:001.88 --> 00:14:004.67] [participant29]  En dan in de volgende ronde krijg je dus weer dezelfde vijf vacatures.
+[00:14:005.89 --> 00:14:008.46] [participant29]  Alleen is de uitleg nu dus gegenereerd door een ander model.
+[00:14:009.39 --> 00:14:013.13] [participant29]  Ja, de data is natuurlijk hetzelfde gebleven, dus je zult zien dat er wel veel overlap in zit.
+[00:14:013.24 --> 00:14:018.27] [participant29]  Maar hij zegt bijvoorbeeld bepaalde dingen wegen meer mee, minder mee, beschrijft ze anders, dat soort dingen.
+[00:14:019.13 --> 00:14:022.38] [participant29]  En dan is het dus eigenlijk de bedoeling om die twee met elkaar te vergelijken.
+[00:14:022.51 --> 00:14:025.12] [participant29]  Dus ja, je kan weer uit die vijf er eentje kiezen.
+[00:14:025.34 --> 00:14:027.34] [participant29]  En dat mag dezelfde zijn, maar dat mag ook een andere zijn.
+[00:14:028.41 --> 00:14:028.67] [participant29]  Oké.
+[00:14:034.80 --> 00:14:036.06] [Roan]  Search neutral terms?
+[00:14:045.72 --> 00:14:047.96] [participant29]  Ah ja, True, ik had inderdaad dienst kunnen gebruiken, ja.
+[00:14:055.64 --> 00:15:001.76] [participant29]  Nou, to be fair, de tekst is dus ook geschreven door AI, dus ik denk dat ik in de prompt heb gezet
+[00:15:001.76 --> 00:15:006.20] [participant29]  wees genderneutraal, en dat hij toen gewoon zijn haar heeft gekozen in plaats van dienst.
+[00:15:012.18 --> 00:15:013.74] [Roan]  Het is een grammaticale fout.
+[00:15:015.22 --> 00:15:015.68] [Roan]  Hoezo?
+[00:15:016.58 --> 00:15:020.12] [Roan]  Het moet toch die overeenkomende ervaring heeft met Chris?
+[00:15:020.56 --> 00:15:022.52] [Roan]  Nou ja, als het een persoon is, kan wie volgens mij ook.
+[00:15:023.12 --> 00:15:026.16] [Roan]  Volgens mij niet op deze manier. Kan wel, maar niet op deze manier.
+[00:15:020.55 --> 00:15:021.31] [participant29]  Nou ja, dat is een persoonlijk...
+[00:15:026.83 --> 00:15:031.78] [participant29]  Even kijken, die als aanwijzend voornaam wordt.
+[00:16:002.75 --> 00:16:006.75] [participant29]  Oh nee, het kan wel, maar het is, hoe zeg je dat, archaïc, het is ouderwets.
+[00:16:007.57 --> 00:16:012.99] [participant29]  Want normaal zou je dan aan wie of met wie ervan maken, maar zonder voorzetsel is het
+[00:16:012.99 --> 00:16:014.18] [participant29]  nog wel grammaticaal correct.
+[00:16:014.30 --> 00:16:015.38] [participant29]  Het komt alleen bijna niet voor.
+[00:16:036.94 --> 00:16:046.42] [Roan]  Oké, ik ga deze niet kiezen, maar ik wil hier wel eventjes over benoemen dat ik het wel een beetje amusant vind dat het eerste punt en het tweede punt gewoon praktisch hetzelfde zijn.
+[00:16:044.30 --> 00:16:044.54] [participant29]  Ja.
+[00:16:047.76 --> 00:16:054.98] [participant29]  Eh, ja, ik wist het. Bij het ene is dat het zeg maar onder dezelfde categorie valt, en bij die andere is dat die daar direct...
+[00:16:054.98 --> 00:16:056.54] [participant29]  Dat ze weer gelijkbaar zijn.
+[00:16:056.66 --> 00:16:058.28] [participant29]  Ja, oké, oké, true, ja.
+[00:16:058.96 --> 00:16:059.88] [participant29]  Ja, ze komen inderdaad wel...
+[00:16:056.57 --> 00:16:056.81] [Roan]  Ja.
+[00:16:059.10 --> 00:16:059.68] [Roan]  Ja, ze komen inderdaad...
+[00:16:059.68 --> 00:17:004.88] [Roan]  Vooral dat hij met succes de taken vervult, dat is alleen uit gebaseerd op het feit dat
+[00:17:004.88 --> 00:17:007.90] [Roan]  hij ervaring heeft, want ze staan op zijn LinkedIn, ze weten niet hoe goed hij het heeft gedaan.
+[00:17:007.90 --> 00:17:009.72] [Roan]  Ja, hij kan ook ontslagen zijn inderdaad.
+[00:17:010.90 --> 00:17:011.86] [Roan]  Hij heeft het gedaan.
+[00:17:012.74 --> 00:17:013.58] [Roan]  Ja, oké, fair.
+[00:17:007.77 --> 00:17:009.85] [participant29]  Ja, ik kan ook ontslagen zijn, inderdaad.
+[00:17:012.87 --> 00:17:013.47] [participant29]  Ja, oké, fair.
+[00:17:016.34 --> 00:17:017.46] [Roan]  Welke was het nou?
+[00:17:052.90 --> 00:17:056.98] [Roan]  Ik ga toch even deze verwerking doen, want ik heb gewoon flens op.
+[00:17:057.50 --> 00:17:058.86] [participant29]  Frenzel en wijers, insane.
+[00:17:059.16 --> 00:18:003.78] [participant29]  Oké, en op basis waarvan heb je dan nu die switch gemaakt?
+[00:17:059.02 --> 00:17:059.46] [Roan]  Oké.
+[00:18:005.57 --> 00:18:010.99] [Roan]  Vooral de bewoording. Ik zat hier ook getwijfeld tussen de twee.
+[00:18:011.43 --> 00:18:014.95] [Roan]  Want ik vind dat beide inderdaad ook zo... Ten eerste moet ik wel zeggen dat dit hele model,
+[00:18:015.07 --> 00:18:019.53] [Roan]  in eerste instantie, ik al een stuk meer fan ben van de hele bewoording en de uitleg die die geeft.
+[00:18:019.95 --> 00:18:020.39] [Roan]  Oké.
+[00:18:021.07 --> 00:18:027.29] [Roan]  Vooral één ding wat hier goed bij werkte, voor mij een van de voordeel van deze,
+[00:18:027.29 --> 00:18:036.63] [Roan]  was de bewoording. Die vond ik überhaupt al een stuk meer, ja, betrouwbaar overkomen direct.
+[00:18:037.43 --> 00:18:043.33] [Roan]  Dat het gewoon vermeler is. En vooral dit stuk van, er is ervaringskrist in Silke Jansen,
+[00:18:043.55 --> 00:18:047.81] [Roan]  wat seggeert dat kristen geschikt zijn voor de rol van klerk. In combinatie met dus,
+[00:18:048.13 --> 00:18:053.31] [Roan]  hé, hij heeft de ervaring en dat relevantie, ja, alleen hier nog een beetje onduidelijk is
+[00:18:053.31 --> 00:18:058.55] [Roan]  welke vaardigheden exact. Maar hier wel direct, er kwamen wijtweer financiële zaken.
+[00:18:007.15 --> 00:18:007.37] [participant29]  Mhm.
+[00:18:011.10 --> 00:18:011.30] [participant29]  Ja.
+[00:18:019.54 --> 00:18:019.86] [participant29]  Oké.
+[00:18:036.67 --> 00:18:036.89] [participant29]  Mhm.
+[00:18:054.37 --> 00:18:054.51] [participant29]  Ja.
+[00:18:058.78 --> 00:19:005.26] [participant29]  Ja, dus hij is wat duidelijker, hij geeft echt de concrete items wat meer weer.
+[00:19:005.56 --> 00:19:006.30] [participant29]  Ja, inderdaad.
+[00:19:006.97 --> 00:19:012.82] [participant29]  Oké, alright, zoals ik zei, die 1 op 10 vragen zal ik dan weer even herhalen en dan is het
+[00:19:012.82 --> 00:19:014.76] [participant29]  dus vooral een beetje vergelijkend met die vorige.
+[00:19:014.86 --> 00:19:018.71] [participant29]  Dus op een schaal van 1 op 10, in hoeverre helpt de uitleg te begrijpen waarom het systeem
+[00:19:019.36 --> 00:19:020.69] [participant29]  deze aanbeveling heeft gegeven?
+[00:19:005.59 --> 00:19:006.31] [Roan]  Ja inderdaad.
+[00:19:007.09 --> 00:19:008.39] [Roan]  Oké, uhm, oké, ja.
+[00:19:021.89 --> 00:19:023.17] [Roan]  Wat had ik met de vorige?
+[00:19:023.47 --> 00:19:024.21] [Roan]  Een 8.
+[00:19:025.15 --> 00:19:028.15] [Roan]  Oké, dan zou ik nu een 8 ingaan.
+[00:19:028.21 --> 00:19:028.43] [Roan]  Wat?
+[00:19:028.97 --> 00:19:031.15] [Roan]  Want ik zou nu dan wel gaan zitten op een 9.
+[00:19:028.19 --> 00:19:028.51] [participant29]  Wat?
+[00:19:031.38 --> 00:19:036.72] [participant29]  Oké, allright, dus deze is, ja, dat is dus specifiek doordat die bewoording een stuk beter is.
+[00:19:037.57 --> 00:19:046.55] [Roan]  Vooral, er is meer ruimte genomen voor de bewoording, waardoor je gewoon direct een stuk meer duidelijkheid krijgt van, hé, dit is waarom.
+[00:19:046.81 --> 00:19:052.05] [Roan]  In plaats van, je hebt kwalificaties in boekhouding en financiën en dat je nog een beetje zou afvragen,
+[00:19:052.15 --> 00:19:058.49] [Roan]  ja, in dit geval niet heel erg door de facturen, maar wat zou dat precies uitmaken voor clerk en accountantskantoor?
+[00:19:046.75 --> 00:19:046.79] [participant29]  Oké.
+[00:19:058.80 --> 00:20:002.48] [participant29]  Ja, dus hier trekt hij meteen die link echt helemaal door.
+[00:20:002.78 --> 00:20:002.78] [participant29] 
+[00:20:003.51 --> 00:20:008.99] [Roan]  Dat ook zeker, mocht je nou niet echt weten wat iemand doet in functie van Clercq bijvoorbeeld,
+[00:20:009.23 --> 00:20:010.87] [Roan]  dat het toch direct wel een idee geeft erbij.
+[00:20:011.07 --> 00:20:012.19] [Roan]  Mhm, mhm, oké.
+[00:20:010.95 --> 00:20:012.79] [participant29]  Mhm, mhm, oké.
+[00:20:013.53 --> 00:20:015.17] [participant29]  Euh, ja nee duidelijk.
+[00:20:015.97 --> 00:20:018.89] [participant29]  Euh, dan de volgende weer op een schaal van 1 tot 10.
+[00:20:019.05 --> 00:20:021.79] [participant29]  In hoeverre helpt de uitleg met het maken van een beslissing?
+[00:20:021.93 --> 00:20:023.39] [participant29]  Net had je daar een 9, dus...
+[00:20:024.97 --> 00:20:025.87] [Roan]  Ik heb echt hoog ingezet.
+[00:20:026.20 --> 00:20:030.06] [participant29]  Ja, als je zegt die vorige wordt dan nu een 8 en deze een 9 of zo.
+[00:20:030.32 --> 00:20:031.20] [participant29]  Ja, dan wordt de vorige een 8.
+[00:20:031.23 --> 00:20:032.07] [Roan]  In deze negen.
+[00:20:032.09 --> 00:20:035.79] [participant29]  Allright, allright. Ja, omdat je nu een 10 moet geven is misschien wat overdreven.
+[00:20:035.97 --> 00:20:037.55] [participant29]  Ja, nee, dat gaat een beetje om de...
+[00:20:037.44 --> 00:20:039.30] [Roan]  Ja, onderzoek kan wel werken.
+[00:20:041.77 --> 00:20:047.03] [participant29]  Oké, maar dat is dus ook weer vooral vanwege dat hij wat concreter is en wat specifieker.
+[00:20:046.64 --> 00:20:054.74] [Roan]  Ja, gewoon, bewoording is beter, zeker als jurist heeft dat wel gewoon invloed op hoe ik het ervaar.
+[00:20:055.54 --> 00:20:058.80] [Roan]  En ook inderdaad, het is gewoon veel meer to the point.
+[00:20:059.04 --> 00:21:006.12] [Roan]  Het kan duidelijk direct eruit zien van, als jij vindt back-office interessant in dit geval, dan val ik net niet.
+[00:21:006.70 --> 00:21:011.82] [Roan]  Maar ook bij anderen inderdaad van, oké, jij vindt deze werkervaring interessant, oh deze reden.
+[00:21:012.28 --> 00:21:015.00] [Roan]  Jij vindt deze qualificatie interessant, deze reden.
+[00:21:015.00 --> 00:21:017.42] [Roan]  Ja, ja, dus eigenlijk zeg maar het kost je...
+[00:20:054.81 --> 00:20:055.13] [participant29]  Hm-hm.
+[00:21:012.17 --> 00:21:012.47] [participant29]  Ja.
+[00:21:015.21 --> 00:21:018.37] [participant29]  Ja, ja, dus eigenlijk zeg maar het kozale een beetje.
+[00:21:019.17 --> 00:21:019.83] [participant29]  Ja, inderdaad.
+[00:21:021.13 --> 00:21:023.45] [participant29]  Oké, ja nee duidelijk.
+[00:21:023.53 --> 00:21:028.95] [participant29]  En dan zeker, ik denk inderdaad als iemand die in rechten zit die dus heel erg gefocust
+[00:21:028.95 --> 00:21:033.23] [participant29]  is op de specifieke verwoording, draagt dat wel flink bij.
+[00:21:018.97 --> 00:21:019.85] [Roan]  Ja, inderdaad.
+[00:21:033.28 --> 00:21:040.80] [Roan]  Ja, inderdaad. En inderdaad ook überhaupt hoe taal overkomt door het meer formele en langere
+[00:21:040.80 --> 00:21:047.78] [Roan]  gebruik. Klinkt het ook gewoon een stuk meer betrouwbaar dan zeg maar een zinnetje die zegt
+[00:21:047.78 --> 00:21:050.36] [Roan]  van hé, wij denken dat dit cool voor jou is.
+[00:21:050.51 --> 00:21:054.29] [participant29]  Ja, oké, ja nee, clear.
+[00:21:057.07 --> 00:22:000.13] [participant29]  Ja, hier is dus de wat uitgebreidere, dus daar.
+[00:22:002.97 --> 00:22:010.15] [participant29]  Oké, dan de laatste is dus weer dat vertrouwen, dus op een schaal van 1 tot 10 hoe betrouwbaar denk je dat die voorspelling is geweest?
+[00:22:010.25 --> 00:22:012.31] [participant29]  Je had net een 7,5, dus...
+[00:22:012.31 --> 00:22:014.65] [participant29]  Het houdt nu over voor een 8,5.
+[00:22:014.93 --> 00:22:017.13] [participant29]  Een 8,5, oké, dus een heel punt erbij.
+[00:22:017.13 --> 00:22:022.05] [participant29]  En ik neem aan dat dat dan dus weer ongeveer vanwege dezelfde redenen is of?
+[00:22:022.39 --> 00:22:022.91] [participant29]  Ja, dat klopt.
+[00:21:059.66 --> 00:21:059.86] [Roan]  Ja.
+[00:22:022.94 --> 00:22:029.53] [Roan]  Hierbij ook wel echt specifiek nog een grote voordeel in hoe hierbij zo met die connecties worden gebruikt in dit model.
+[00:22:030.55 --> 00:22:036.22] [Roan]  Omdat ik dat gewoon, wat ik vorigen voelde, naar meer van hey, we gooien je connecties er een beetje in van kijk leuk leuk.
+[00:22:036.77 --> 00:22:040.01] [Roan]  Maar hier voelt het echt of het een directe goede reden is.
+[00:22:040.07 --> 00:22:041.33] [Roan]  Ja, ja, hij legt echt uit.
+[00:22:039.90 --> 00:22:043.77] [participant29]  Ja, ja, hij legt echt uit waarom dat aangekaard wordt.
+[00:22:044.49 --> 00:22:044.78] [Roan]  Ja.
+[00:22:044.90 --> 00:22:049.72] [participant29]  Oké, ja, dus dat er is vergelijkbare ervaring tussen die twee personen?
+[00:22:050.34 --> 00:22:051.06] [participant29]  Ja, inderdaad.
+[00:22:051.20 --> 00:22:051.48] [participant29]  Oké.
+[00:22:051.16 --> 00:22:051.32] [Roan]  Oké.
+[00:22:053.38 --> 00:22:059.86] [participant29]  Nee, duidelijk. Ja, dan als laatste is er nog bepaalde informatie ofzo die toegevoegd zou kunnen worden aan het systeem in het algemeen, wat zou kunnen helpen.
+[00:22:059.96 --> 00:23:010.86] [participant29]  Ja, eentje wat je al zei is dat je zelf het bedrijf enzo zou willen bekijken. Dus dat je zou kunnen klikken op accountants, kantoorvrienden en wijers en dat er dan die mensen hun, of dat bedrijf hun beschrijving enzo.
+[00:23:011.34 --> 00:23:012.68] [participant29]  Ja, ik zou inderdaad vooral...
+[00:23:011.49 --> 00:23:023.21] [Roan]  Ik zou inderdaad vooral zeggen, dan wel een korte descriptie van de functie, dan wel een
+[00:23:023.21 --> 00:23:025.47] [Roan]  korte beschrijving van het bedrijf.
+[00:23:020.22 --> 00:23:020.46] [participant29]  Mhm.
+[00:23:025.67 --> 00:23:029.75] [participant29]  Ja, dat zijn eigenlijk van die dingen die in een normale vacature naar voren komen meestal.
+[00:23:026.35 --> 00:23:026.88] [Roan]  Ja, dat is wel een dingetje.
+[00:23:028.22 --> 00:23:028.82] [Roan]  Ja, precies.
+[00:23:028.82 --> 00:23:029.72] [Roan]  En daarvoor komen meestal.
+[00:23:029.98 --> 00:23:030.24] [Roan]  Exact.
+[00:23:030.30 --> 00:23:034.70] [Roan]  Want je kan nog zo goed tegen mensen zeggen, hé, jij bent gematched met deze vacature hier
+[00:23:034.70 --> 00:23:035.26] [Roan]  en hierom.
+[00:23:036.38 --> 00:23:039.48] [Roan]  Uiteindelijk moeten mensen ook gewoon de vacature interessant vinden.
+[00:23:039.76 --> 00:23:040.44] [Roan]  Ja, klopt.
+[00:23:040.58 --> 00:23:041.30] [Roan]  Of willen klikken.
+[00:23:041.56 --> 00:23:045.32] [Roan]  Want stel, ik zou een vacature krijgen voor een fucking advocatenkantoor.
+[00:23:045.92 --> 00:23:049.96] [Roan]  En het zegt wel eigenlijk van, oh, jij bent gematched op al deze dingen.
+[00:23:050.46 --> 00:23:055.18] [Roan]  Maar als ik nog steeds dat kantoor niet ken en geen munities heb van, oh, ik wil hier
+[00:23:055.18 --> 00:23:055.66] [Roan]  werken.
+[00:23:055.72 --> 00:23:056.24] [Roan]  Ja, precies.
+[00:23:056.24 --> 00:23:057.66] [Roan]  Ze werken voor zelf of zo.
+[00:23:058.20 --> 00:24:002.90] [Roan]  Ja, van, leuk, ik ben gematched, maar ik ben nog steeds niet op handen.
+[00:23:039.73 --> 00:23:040.33] [participant29]  Ja, klopt.
+[00:23:055.61 --> 00:23:057.65] [participant29]  Ja, precies, ze werken voor zelf ofzo.
+[00:24:000.82 --> 00:24:001.58] [participant29]  Ja, dat meen je.
+[00:24:003.10 --> 00:24:012.38] [participant29]  Ja, oké, dus dat je echt een, hoe zeg je dat, een volledig beeld krijgt van wat dus de uiteindelijke vacature is waarmee je gematcht bent.
+[00:24:012.48 --> 00:24:018.38] [participant29]  Want nu inderdaad de match wordt uitgelegd, maar niet het ding waarmee je gematcht bent, en dat mist dus een beetje.
+[00:24:018.86 --> 00:24:019.24] [participant29]  Oké.
+[00:24:020.14 --> 00:24:023.64] [participant29]  Ja, nee, duidelijk. Dan kun je rechtsboven op klaar drukken.
+[00:24:024.78 --> 00:24:027.66] [participant29]  En dan zijn ze omgeslaten, dus dat is eigenlijk wel mooi.
+[00:24:028.72 --> 00:24:029.92] [participant29]  En dan kan ik hier...
+[00:24:018.83 --> 00:24:019.05] [Roan]  Oké.
+[00:24:027.33 --> 00:24:027.87] [Roan]  Mooi.
+[00:24:028.31 --> 00:24:029.39] [Roan]  En dank u wel.

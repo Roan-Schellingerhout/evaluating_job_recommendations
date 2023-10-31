@@ -1,0 +1,484 @@
+<!doctype html>
+<HTML>
+<HEAD>
+  <meta charset="utf-8" />
+  <TITLE>Graaf uitleg</TITLE>
+  <link rel="icon" type="image/x-icon" href="/static/favico.ico">
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+  <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- http://visjs.org/index.html#download_install -->
+  <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
+  <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <style type="text/css">
+    
+    #wrapper {
+      margin-top: 1%;
+    }
+
+    #mynetwork {
+      width: 85%;
+      height: 40em;
+      border: 2px solid lightgray;
+      margin-left: 1%;
+      display: inline-block;
+    }
+    
+    #exp_types {
+      margin-left: 20%;
+      margin-top: 1%;
+      height: 50em;
+      display: inline-block;
+      vertical-align:top;
+      justify-content: center
+    }
+
+    .big {
+      width: 20em;
+      height: 5em;
+      text-align: center;
+      margin: 1em;
+    }
+
+
+    .custom-switch.custom-switch-lg .custom-control-label {
+        padding-left: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::before {
+        height: 2rem;
+        width: calc(3rem + 0.75rem);
+        border-radius: 4rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::after {
+        width: calc(2rem - 4px);
+        height: calc(2rem - 4px);
+        border-radius: calc(3rem - (2rem / 2));
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-input:checked ~ .custom-control-label::after {
+        transform: translateX(calc(2rem - 0.25rem));
+    }
+
+    #togg{
+      float: right;
+      margin-right: 1em;
+      margin-top: 5em;
+      padding-bottom: 5em;
+      width: 12.5%;
+    }
+
+    #title {
+      margin-left: 1%;
+      max-width: 75%;
+    }
+
+    .box {
+      float: left;
+      height: 20px;
+      width: 20px;
+      margin-bottom: 15px;
+      border: 1px solid black;
+      clear: both;
+    }
+
+    .pink {
+      background-color: #f26884;
+      border-radius: 50%;
+    }
+
+    .green {
+      background-color: #000000;
+      position: relative;
+      border: 0px solid black;
+    }
+
+    .green:before {
+      position: absolute;
+      content: '';
+    }
+    .green:before {
+      top: 1px;  /* border width */
+      left: 1px;  /* border width */
+      height: calc(100% - 2px);  /* 100% - (2 * border width) */
+      width: calc(100% - 2px);  /* 100% - (2 * border width) */
+      background: #2bc253;
+    }
+    .green, .green:before {
+      -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    }
+
+    .yellow {
+      background-color: #fcba03;
+    }
+
+    .legend_text {
+      margin-bottom: 15px;
+    }
+
+    .custom-control-label {
+      padding-top: .45em;
+    }
+
+    
+    </style>
+</HEAD>
+
+<BODY>
+
+
+  <!-- <form method="POST" action="/view_graph.html">
+    <input type="submit" name="button" value="Simple view">
+    <input type="submit" name="button" value="Full view">
+  </form> -->
+  <!-- <input class="btn btn-primary" type="button" id="myBtn" value="Switch to simple view" > -->
+<div id="togg">  
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="simple_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="simple_view"><b>Simpele weergave</b></label>
+  </div>
+
+  {% if direction == 'recruiter' %}
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% else %}
+  <div class="custom-control custom-switch custom-switch-lg" style="display:none">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% endif %}
+
+  
+  <br><br><br><br><br><br>
+  <div class="legend_text"><div class="box green"></div> &nbsp; Vacatures</div>
+  <div class="legend_text"><div class="box yellow"></div> &nbsp; Vacature types</div>
+  <div class="legend_text"><div class="box pink"></div> &nbsp; Kandidaten</div>
+
+</div>
+
+<div id="wrapper">
+  {% if direction != 'company'%}
+  <div id="title">
+    <h5>Graaf uitleg voor de match (u4119, j147542)</h5>
+    <b>Volledige kandidaat-gerichte uitleg:</b>
+  </div>
+  {% else %}
+  <div id="title">
+    <h5>Graaf uitleg voor de match (j147542, u4119)</h5>
+    <b>Volledige bedrijf-gerichte uitleg:</b>
+  </div>
+  {% endif %}
+
+  <div id="mynetwork"></div>
+  <div id="title">
+    {% if direction == 'recruiter' %}
+      Sleep de knopen (cirkels, vierkanten, en hexagons) en zet ze neer om de graaf naar wens te herschikken. Wanneer u op een knoop klikt, wordt deze gehighlight, evenals alle verbonden zijden (pijlen). Sommige knopen tonen extra informatie wanneer u erover hovert. U kunt in- en uitzoomen door te scrollen. Gebruik de knoppen rechtsboven om een vereenvoudigde- of bedrijfsweergave van de graaf aan of uit te zetten.
+    {% else %}
+     Sleep de knopen (cirkels, vierkanten, en hexagons) en zet ze neer om de graaf naar wens te herschikken. Wanneer u op een knoop klikt, wordt deze gehighlight, evenals alle verbonden zijden (pijlen). Sommige knopen tonen extra informatie wanneer u erover hovert. U kunt in- en uitzoomen door te scrollen. Gebruik de knop rechtsboven om een vereenvoudigde weergave van de graaf aan of uit te zetten.
+    {% endif %}
+      <!-- Drag and drop nodes (circles) to rearrange the graph to your liking. Clicking on a node highlights it, as well as all of its edges (arrows). Scrolling allows you to zoom in and out. Use the button in the top-right corner to enable/disable a more simple view of the graph.  -->
+  </div>
+
+  <div id="exp_types">
+    <button class="btn btn-success big" type="submit" id="bar" value="Bar explanation" onclick="window.location.href = 'view_bars.html'">Staafdiagram uitleg</button> 
+    <button class="btn btn-info big" type="submit" id="text" value="Text explanation" onclick="window.location.href = 'view_texts.html'">Geschreven uitleg</button>
+</div>
+
+<!-- Add an invisible <div> element to the document, to hold the JSON data: -->
+<div id="networkJSON-results" class="results" style="display:none"></div>
+
+<script type="text/javascript">
+
+  // -------------------------------------------------------------------------
+  // OPTIONS:
+
+  // http://visjs.org/docs/network/#modules
+  // http://visjs.org/docs/network/edges.html#
+  // http://visjs.org/docs/network/physics.html#
+
+  
+
+// -------------------------------------------------------------------------
+// IMPORT DATA FROM EXTERNAL JSON FILE:
+
+// Per: https://github.com/ikwattro/blog/blob/master/sources/easy-graph-visualization-with-vis-dot-js.adoc:
+
+// NOTES:
+// 1. Must use double quotes ("; not ') in that JSON file;
+// 2. Cannot have comments in that file, only data!  See:
+//    https://stackoverflow.com/questions/244777/can-comments-be-used-in-json
+// 3. Per the path below, place the "test.json" file in a "data" subdirectory.
+
+var json_1 = {{ graph_full|safe }}
+var json_2 = {{ graph_simple|safe }}
+var json_3 = {{ graph_full_company|safe }}
+var json_4 = {{ graph_simple_company|safe }}
+
+var nodes_1 = new vis.DataSet(json_1.nodes);
+var edges_1 = new vis.DataSet(json_1.links);
+
+var nodes_2 = new vis.DataSet(json_2.nodes);
+var edges_2 = new vis.DataSet(json_2.links);
+
+var nodes_3 = new vis.DataSet(json_3.nodes);
+var edges_3 = new vis.DataSet(json_3.links);
+
+var nodes_4 = new vis.DataSet(json_4.nodes);
+var edges_4 = new vis.DataSet(json_4.links);
+
+
+
+var options = {
+    edges: {
+      smooth: {enabled: false},
+      arrows: {
+        to: {enabled: true, scaleFactor:1, type:'arrow'},
+        // to: {enabled: false, scaleFactor:0.5, type:'bar'},
+      //   middle: {enabled: false, scalefactor:1, type:'arrow'},
+      //   from: {enabled: true, scaleFactor:0.3, type:'arrow'}
+        // from: {enabled: false, scaleFactor:0.5, type:'arrow'}
+      },
+      arrowStrikethrough: false,
+      chosen: true,
+      color: {
+         // color:'#848484',
+         color:'#575757',
+         highlight:'#9696ff',
+         hover: '#adc6c9',
+         inherit: 'from',
+         opacity:1.0
+      },
+      dashes: false,
+      font: {
+        color: '#343434',
+        size: 14, // px
+        face: 'arial',
+        background: 'none',
+        strokeWidth: 2, // px
+        strokeColor: '#ffffff',
+        align: 'horizontal',
+        multi: false,
+        vadjust: 0,
+        bold: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'bold'
+        },
+        ital: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'italic'
+        },
+        boldital: {
+          color: '#343434',
+          size: 14, // px
+          face: 'arial',
+          vadjust: 0,
+          mod: 'bold italic'
+        },
+        mono: {
+          color: '#343434',
+          size: 15, // px
+          face: 'courier new',
+          vadjust: 2,
+          mod: ''
+        }
+      }
+    },
+    layout: {
+			improvedLayout: true,
+			hierarchical: {
+				enabled: true,
+				levelSeparation: 310,
+				nodeSpacing: 250,
+				treeSpacing: 575,
+				blockShifting: true,
+				edgeMinimization: true,
+				parentCentralization: true,
+				direction: "LR",
+				sortMethod: "directed",
+        shakeTowards: "roots"
+			}
+		},
+    configure: {
+      enabled: false,
+      filter: 'physics, layout',
+      showButton: true
+    },
+		nodes: {
+			shape: 'dot'
+		},
+    // http://visjs.org/docs/network/physics.html#
+    physics: {
+      enabled: true,
+      // barnesHut: {
+      //   gravitationalConstant: -200,
+      //   centralGravity: 0.3,
+      //   // springLength: 95,
+      //   springLength: 50,
+      //   springConstant: 0.04,
+      //   damping: 0.09,
+      //   avoidOverlap: 1
+      // },
+      // forceAtlas2Based: {
+      //   gravitationalConstant: -500,
+      //   centralGravity: 0.01,
+      //   springConstant: 0.08,
+      //   springLength: 60,
+      //   damping: 0.4,
+      //   avoidOverlap: 1
+      // },
+      // repulsion: {
+      //   centralGravity: 0.2,
+      //   springLength: 100,
+      //   springConstant: 0.05,
+      //   nodeDistance: 100,
+      //   damping: 0.09
+      // },
+      hierarchicalRepulsion: {
+        centralGravity: 4.25,
+        springLength: 375,
+        springConstant: 0.5,
+        nodeDistance: 200,
+        damping: 1,
+        avoidOverlap: 1
+      },
+      maxVelocity: 50,
+      minVelocity: 0.1,
+      solver: 'hierarchicalRepulsion',
+      stabilization: {
+        enabled: true,
+        iterations: 15000,
+        updateInterval: 10,
+        onlyDynamicEdges: true,
+        fit: true
+      },
+      timestep: 0.5,
+      adaptiveTimestep: true
+    }
+  };
+
+  var container = document.getElementById('mynetwork');
+  const network = new vis.Network(container, {nodes: nodes_1, edges: edges_1}, options);
+
+  function switch_graph() {
+  var simple = document.getElementById("simple_view");
+  var company = document.getElementById("company_view");
+  var title = document.getElementById("title");
+  var dir = "{{ direction|string }}"
+  
+  if (dir == "company"){
+    company.checked = true;
+  }
+
+  // full candidate
+  if(simple.checked == false && company.checked == false){
+    simple.innerHTML = "Simple view";
+    company.innerHTML = "Company view";
+    title.innerHTML = "<h5>Graaf uitleg voor de match (u4119, j147542)</h5><b>Volledige kandidaat-gerichte uitleg:</b>"
+
+    network.setOptions({"layout": {"hierarchical": false}}); 
+    network.setOptions({physics: {enabled : false}});
+
+    network.setData({nodes: nodes_1, edges: edges_1});
+    network.setOptions(options);
+    network.fit();
+  }
+  // simple candidate
+  else if(simple.checked == true && company.checked == false){
+    simple.innerHTML="Full view";
+    company.innerHTML="Company view";
+    title.innerHTML = "<h5>Graaf uitleg voor de match (u4119, j147542)</h5><b>Simpele kandidaat-gerichte uitleg:</b>"
+
+    network.setOptions({"layout": {"hierarchical": false}}); 
+    network.setOptions({physics: {enabled : false}});
+
+    network.setData({nodes: nodes_2, edges: edges_2});
+    network.setOptions(options);
+    network.fit();
+  }
+  // Full company
+  else if(simple.checked == false && company.checked == true){
+    simple.innerHTML="Simple view";
+    company.innerHTML="Candidate view";
+    title.innerHTML = "<h5>Graaf uitleg voor de match (j147542, u4119)</h5><b>Volledige bedrijf-gerichte uitleg:</b>"
+
+    network.setOptions({"layout": {"hierarchical": false}}); 
+    network.setOptions({physics: {enabled : false}});
+
+    network.setData({nodes: nodes_3, edges: edges_3});
+    network.setOptions(options);
+    network.fit();
+  }
+  // Simple company
+  else{
+    simple.innerHTML = "Full view";
+    company.innerHTML = "Candidate view";
+    title.innerHTML = "<h5>Graaf uitleg voor de match (j147542, u4119)</h5><b>Simpele bedrijf-gerichte uitleg:</b>"
+
+    network.setOptions({"layout": {"hierarchical": false}}); 
+    network.setOptions({physics: {enabled : false}});
+
+    network.setData({nodes: nodes_4, edges: edges_4});
+    network.setOptions(options);
+    network.fit();
+  }
+};
+
+
+network.on("dragStart", function () {
+    // network.stopSimulation();
+    network.setOptions({"layout": {"hierarchical": false}}); 
+    network.setOptions({physics: {enabled : false}});
+});
+
+// network.on("stabilizationIterationsDone", function () {
+//     network.stopSimulation();
+//     network.setOptions({"layout": {"hierarchical": false}}); 
+//     network.setOptions({physics: {enabled : false}});
+// });
+
+network.on("animationFinished", function () {
+  network.fit();
+});
+
+// network.on('afterDrawing', function(){
+  
+//       	let data = [{id: "u4119", x: -200, y:0}, {id:"j147542", x:200, y:0}];
+//         nodes.update(data);
+//       })
+
+// assuming that nodes is a vis.DataSet containing the nodes
+
+// network.on('dragEnd', function (params) {
+//     for (var i = 0; i < params.nodeIds.length; i++) {
+//         var nodeId = params.nodeIds[i];
+//         nodes.update({id: nodeId, allowedToMoveX: false, allowedToMoveY: false});
+//     }
+// });
+// network.on('dragStart', function(params) {
+//     for (var i = 0; i < params.nodeIds.length; i++) {
+//         var nodeId = params.nodeIds[i];
+//         nodes.update({id: nodeId, allowedToMoveX: true, allowedToMoveY: true});
+//     }
+// });
+</script>
+
+</BODY>
+</HTML>
