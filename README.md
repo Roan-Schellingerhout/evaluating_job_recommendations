@@ -1,4 +1,4 @@
-# Code used for the paper Evaluating Multi-Stakeholder Job Recommendation Explanations
+# Code used for the paper Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations
 
 By Roan Schellingerhout, Francesco Barile, and Nava Tintarev.
 

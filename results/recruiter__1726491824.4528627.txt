@@ -1,0 +1,14 @@
+
+                    email: 
+                    vakgebied:  
+                    leeftijd: 
+                    geslacht: Selecteer...
+                    type: recruiter
+
+                    eerste_setting: real
+                    eerste_antwoord: Chris de Vries
+                    eerste_timing: 11.940800905227661
+
+                    tweede_setting: random
+                    tweede_antwoord: Chris de Vries
+                    tweede_timing: 8.591220617294312

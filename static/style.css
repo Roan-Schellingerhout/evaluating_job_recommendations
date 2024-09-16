@@ -50,7 +50,7 @@
   }
 
 .legend {
-    margin-top: 1%;
+    margin-top: -1%;
     margin-left: 92.5%;
     display: flex !important;
     flex-direction: column;
@@ -129,6 +129,7 @@
     padding-right: 1.5em;
     border-color: #d9d9d9;
     border-radius:10px;
+    margin-right: 1em;
   }
 
   .logo a {
@@ -290,7 +291,7 @@
 
   .graph_2 {
     width: 85%;
-    height: 35rem;
+    /* height: 35rem; */
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     /* margin-bottom: 2rem; */
@@ -423,7 +424,7 @@
   
 
   .toggle-slider-big {
-    position: relative;
+    /* position: relative; */
     width: 100%;
     height: 90%;
     background-color: #ccc;

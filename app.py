@@ -117,7 +117,8 @@ def create_graphs(recruiter=False):
                              curr_explanations, 
                              "company", 
                              hits,
-                             misses)
+                             misses,
+                             change_setting=False)
 
         return candidate, company
 
@@ -308,17 +309,20 @@ def node_link_data(G, attrs=_attrs):
                     
     return data
 
-def draw_graph(truth_dict, curr_explanations, direction, hits, misses):
+def draw_graph(truth_dict, curr_explanations, direction, hits, misses, change_setting=True):
     # Update setting if needed
-    if "setting" not in session:
-        session["setting"] = random.choice(["real", "random"])
-        session["first_setting"] = session["setting"]
-    elif session["setting"] == "real":
-        session["setting"] = "random"
-        session["second_setting"] = session["setting"]
-    else:
-        session["setting"] = "real"
-        session["second_setting"] = session["setting"]
+    if change_setting:
+        if "setting" not in session:
+            session["setting"] = random.choice(["real", "random"])
+            session["first_setting"] = session["setting"]
+        elif session["setting"] == "real":
+            session["setting"] = "random"
+            session["second_setting"] = session["setting"]
+        else:
+            session["setting"] = "real"
+            session["second_setting"] = session["setting"]
+
+    print(session["setting"])
 
     CVs = {
         "u4186": {"title": "Naam: Chris de Vries\n\nPersoonlijk Profiel:\nIk ben een enthousiaste financieel assistent met een diploma in economie van ABC Hogeschool. Mijn sterke interesse in financiën en mijn toewijding om financiële processen te begrijpen en te ondersteunen, maken mij een waardevolle aanwinst voor financiële teams. Ik ben vastbesloten om te groeien als financieel professional en mijn bijdrage te leveren aan organisaties.\n\nWerkervaring:\n\n1. Financieel Assistent bij XYZ Finance (2021-heden)\n\t- Als financieel assistent bij XYZ Finance ondersteun ik het team bij verschillende financiële taken. Mijn verantwoordelijkheden omvatten het bijhouden van financiële transacties, het verwerken van facturen en het assisteren bij het opstellen van financiële rapporten.\n\t- Ik werk nauw samen met senior teamleden om financiële gegevens te analyseren en te helpen bij budgetbeheer.\n\n2. Administratief Medewerker bij ABC Retail (2019-2021)\n\t- Als administratief medewerker bij ABC Retail was ik verantwoordelijk voor het verwerken van inkomende bestellingen, het bijhouden van voorraadniveaus en het opstellen van facturen voor klanten.\n\n\t- Mijn nauwkeurigheid en organisatorische vaardigheden waren cruciaal om ervoor te zorgen dat de administratieve processen soepel verliepen.\n\n3. Klantenservicemedewerker bij XYZ Supermarkt (2017-2019)\t- In mijn rol als klantenservicemedewerker bij XYZ Supermarkt stond ik klanten te woord, beantwoordde ik vragen en bood ik ondersteuning bij het afrekenen van aankopen.\n\t- Deze ervaring heeft mijn communicatieve vaardigheden en klantgerichtheid aanzienlijk versterkt.\n\nOpleiding:\nBachelor in Economie aan [Naam van de Hogeschool]\n\nVaardigheden:\n\t- Financiële analyse\t- Boekhouding en financiële rapportage\t- Budgetbeheer\t- Excel en financiële software\t- Communicatieve vaardigheden\n\nHobbies:\nBuiten mijn werk geniet ik van tijd doorbrengen in de natuur, zoals wandelen in het bos en fietsen in de buurt. Ik ben ook een fan van bordspellen en houd van gezellige avonden met vrienden en familie. Het blijven leren en groeien is belangrijk voor mij, dus ik neem graag deel aan online cursussen en workshops om mijn financiële kennis en vaardigheden te verbeteren."},
